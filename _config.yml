@@ -1,1 +1,8 @@
+title: HikaruNoGoSSA
+description: Restauration of the original Hikaru No Go fansub in Substation Alpha format
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 theme: jekyll-theme-minimal
