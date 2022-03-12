@@ -1,5 +1,5 @@
 # HikaruNoGoSSA
-Restauration of the original Hikaru No Go fansub in Substation Alpha format
+Restauration of the original Hikaru No Go fansub in Substation Alpha (SSA) format
 
 ## Progress
 - 1-49 done
