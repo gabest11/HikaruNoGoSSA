@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 50 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 0
-Active Line: 0
-Video Position: 0
+Scroll Position: 212
+Active Line: 225
+Video Position: 24095
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,285 +56,283 @@ Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,1
 Style: Title,Verdana,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,1,2,20,20,40,1
 Style: Note,Century Gothic,18,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,10,1
 Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
-;Style: Note,Verdana,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,1,8,30,30,10,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
 Style: Noise,Verdana,25,&H00C1FFD7,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,8,19,19,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:42.54,0:01:45.32,Default,,0,0,0,,I'm sure I want to play him in an even game.
-Dialogue: 0,0:01:46.16,0:01:46.90,Default,,0,0,0,,Yes.
-Dialogue: 0,0:01:49.46,0:01:52.41,Default,,0,0,0,,I wonder if I can make it happen...
-Dialogue: 0,0:01:53.45,0:01:54.76,Default,,0,0,0,,'I wonder'!?
-Dialogue: 0,0:01:55.02,0:01:56.44,Default,,0,0,0,,But Hikaru!
-Dialogue: 0,0:01:56.96,0:02:00.50,Default,,0,0,0,,I'll make it happen someday. Be patien.t
-Dialogue: 0,0:02:00.70,0:02:02.00,Default,,0,0,0,,When is this 'someday'?
-Dialogue: 0,0:02:02.45,0:02:04.60,Default,,0,0,0,,'Someday' is 'someday'.
-Dialogue: 0,0:02:04.97,0:02:08.58,Default,,0,0,0,,Besides, it was an important match for me, too!
-Dialogue: 0,0:02:08.67,0:02:13.14,Default,,0,0,0,,And I couldn't play it because of your selfishness, don't you get that?
-Dialogue: 0,0:02:17.43,0:02:18.12,Default,,0,0,0,,Umm...
-Dialogue: 0,0:02:19.96,0:02:20.92,Default,,0,0,0,,I'm sorry...
-Dialogue: 0,0:02:22.87,0:02:26.93,Default,,0,0,0,,Man, it was your fault for coming to me.
-Dialogue: 0,0:02:30.21,0:02:31.09,Default,,0,0,0,,Torajirou...
-Dialogue: 0,0:02:31.09,0:02:33.31,Default,,0,0,0,,He was very clever...
-Dialogue: 0,0:02:33.95,0:02:35.80,Default,,0,0,0,,and truly kind person.
-Dialogue: 0,0:02:37.29,0:02:39.77,Default,,0,0,0,,So what you're saying is that I'm stupid and unkind.
-Dialogue: 0,0:02:41.87,0:02:42.64,Default,,0,0,0,,Hikaru...
-Dialogue: 0,0:02:47.35,0:02:52.28,Title,,0,0,0,,{\fs28}Fiftieth match\N\N{\fs}Sai of the Fujiwara
-Dialogue: 0,0:02:59.46,0:03:00.27,Default,,0,0,0,,Why did god...
-Dialogue: 0,0:03:01.23,0:03:05.17,Default,,0,0,0,,revive me in Hikaru's mind?
-Dialogue: 0,0:03:11.15,0:03:11.92,Default,,0,0,0,,It's true
-Dialogue: 0,0:03:11.92,0:03:14.13,Default,,0,0,0,,Hikaru is growing very quickly,
-Dialogue: 0,0:03:15.11,0:03:20.24,Default,,0,0,0,,and it brings me both pride and joy in teaching him...
-Dialogue: 0,0:03:21.96,0:03:22.56,Default,,0,0,0,,But,
-Dialogue: 0,0:03:22.56,0:03:23.84,Default,,0,0,0,,what about...
-Dialogue: 0,0:03:24.51,0:03:25.54,Default,,0,0,0,,What about my Go?
-Dialogue: 0,0:03:39.51,0:03:40.87,Default,,0,0,0,,I hate this existence.
-Dialogue: 0,0:03:43.59,0:03:45.99,Default,,0,0,0,,The chance to play him finally came...
-Dialogue: 0,0:03:48.43,0:03:52.71,Default,,0,0,0,,The game against him when I was supposed to master the divine move...
-Dialogue: 0,0:03:56.27,0:03:56.93,Default,,0,0,0,,But...
-Dialogue: 0,0:03:57.84,0:03:59.16,Default,,0,0,0,,I couldn't do it.
-Dialogue: 0,0:04:00.88,0:04:03.13,Default,,0,0,0,,In a game that I couldn't play as myself,
-Dialogue: 0,0:04:04.32,0:04:09.17,Default,,0,0,0,,I couldn't head for that divine height with him.
-Dialogue: 0,0:04:26.23,0:04:28.44,Default,,0,0,0,,If I cannot master the divine move...
-Dialogue: 0,0:04:29.50,0:04:31.97,Default,,0,0,0,,Why am I here?
-Dialogue: 0,0:04:34.97,0:04:36.91,Default,,0,0,0,,How long am I supposed to wait?
-Dialogue: 0,0:04:40.36,0:04:41.32,Default,,0,0,0,,A thousand years ago...
-Dialogue: 0,0:04:42.91,0:04:44.97,Default,,0,0,0,,Everything began from there.
-Dialogue: 0,0:04:49.86,0:04:51.15,Default,,0,0,0,,Every day...
-Dialogue: 0,0:04:51.15,0:04:54.25,Default,,0,0,0,,I played Go within the palace.
-Dialogue: 0,0:04:55.50,0:04:56.22,Default,,0,0,0,,But...
-Dialogue: 0,0:04:56.98,0:04:59.15,Default,,0,0,0,,When I played the other tutor that His Majesty had,
-Dialogue: 0,0:04:59.81,0:05:04.14,Default,,0,0,0,,In a match to decide who would become the only tutor for His Majesty...
-Dialogue: 0,0:05:18.04,0:05:21.95,Default,,0,0,0,,He placed a white stone that was hidden among his stones,
-Dialogue: 0,0:05:22.66,0:05:26.18,Default,,0,0,0,,In his Agehama during a moment when everyone was distracted.
-Dialogue: 0,0:05:27.62,0:05:29.60,Default,,0,0,0,,When I tried to raise my voice...
-Dialogue: 0,0:05:30.60,0:05:31.31,Default,,0,0,0,,You...
-Dialogue: 0,0:05:31.31,0:05:32.26,Default,,0,0,0,,just...
-Dialogue: 0,0:05:33.77,0:05:34.44,Default,,0,0,0,,Hey!
-Dialogue: 0,0:05:34.79,0:05:39.16,Default,,0,0,0,,You! You just placed a black stone from your Goke into your Agehama!
-Dialogue: 0,0:05:39.32,0:05:41.68,Default,,0,0,0,,W-What?
-Dialogue: 0,0:05:41.79,0:05:44.24,Default,,0,0,0,,That is what you just did!
-Dialogue: 0,0:05:44.55,0:05:46.91,Default,,0,0,0,,What a stupid excuse that is.
-Dialogue: 0,0:05:47.21,0:05:51.13,Default,,0,0,0,,You just placed a black stone that was hidden in your Goke into your Agehama
-Dialogue: 0,0:05:51.30,0:05:54.05,Default,,0,0,0,,when everyone's attention was on the board!
-Dialogue: 0,0:05:54.49,0:05:55.94,Default,,0,0,0,,You are the one making excuses!
-Dialogue: 0,0:05:55.99,0:05:57.80,Default,,0,0,0,,Stop it. Quiet.
-Dialogue: 0,0:05:59.44,0:06:04.88,Default,,0,0,0,,I do not wish to even consider that such a dishonest act has occurred before me.
-Dialogue: 0,0:06:05.56,0:06:06.71,Default,,0,0,0,,Continue.
-Dialogue: 0,0:06:09.66,0:06:10.96,Default,,0,0,0,,I lost.
-Dialogue: 0,0:06:12.69,0:06:15.92,Default,,0,0,0,,I could not contain my anger.
-Dialogue: 0,0:06:18.63,0:06:21.65,Default,,0,0,0,,I was charged with cheating during the game
-Dialogue: 0,0:06:22.41,0:06:24.32,Default,,0,0,0,,and driven out of the capital.
-Dialogue: 0,0:06:25.20,0:06:26.89,Default,,0,0,0,,I no longer had a reason to live.
-Dialogue: 0,0:06:34.23,0:06:35.74,Default,,0,0,0,,Two days after the match...
-Dialogue: 0,0:06:36.69,0:06:38.19,Default,,0,0,0,,I drowned myself.
-Dialogue: 0,0:06:39.01,0:06:39.62,Default,,0,0,0,,But...
-Dialogue: 0,0:06:40.43,0:06:43.05,Default,,0,0,0,,I wanted to play Go a lot more.
-Dialogue: 0,0:06:46.86,0:06:48.94,Default,,0,0,0,,My soul, unable to find peace,
-Dialogue: 0,0:06:49.41,0:06:50.71,Default,,0,0,0,,possessed a Go board,
-Dialogue: 0,0:06:51.56,0:06:53.02,Default,,0,0,0,,and after a long period of time
-Dialogue: 0,0:06:53.75,0:06:55.94,Default,,0,0,0,,heard a voice of a young boy
-Dialogue: 0,0:06:56.78,0:06:58.91,Default,,0,0,0,,on Innoshima, within the Sea of Seto.
-Dialogue: 0,0:07:00.74,0:07:01.47,Default,,0,0,0,,He was...
-Dialogue: 0,0:07:02.54,0:07:03.30,Default,,0,0,0,,Torajirou.
-Dialogue: 0,0:07:05.91,0:07:06.79,Default,,0,0,0,,Young boy,
-Dialogue: 0,0:07:07.70,0:07:10.49,Default,,0,0,0,,If you can see the tears of grief that I shed,
-Dialogue: 0,0:07:11.25,0:07:15.21,Default,,0,0,0,,let me dwell in a corner of your mind.
-Dialogue: 0,0:07:17.65,0:07:22.66,Default,,0,0,0,,I was able to play Go as much as I wished, together with him.
-Dialogue: 0,0:07:23.84,0:07:28.29,Default,,0,0,0,,He changed his name to Shuusaku, and became the successor to the Honinbou.
-Dialogue: 0,0:07:29.31,0:07:33.85,Default,,0,0,0,,I believed that I would be able to master the divine move together with him.
-Dialogue: 0,0:07:38.92,0:07:39.72,Default,,0,0,0,,But...
-Dialogue: 0,0:07:40.62,0:07:42.40,Default,,0,0,0,,he could not defeat disease and...
-Dialogue: 0,0:07:46.88,0:07:47.64,Default,,0,0,0,,Torajirou...
-Dialogue: 0,0:07:48.47,0:07:49.81,Default,,0,0,0,,Honinbou Shuusaku...
-Dialogue: 0,0:07:51.61,0:07:55.86,Default,,0,0,0,,I will never forget the time that I spent with him...
-Dialogue: 0,0:07:58.58,0:07:59.57,Default,,0,0,0,,Never...
-Dialogue: 0,0:07:59.74,0:08:01.24,Default,,0,0,0,,Sai...
-Dialogue: 0,0:08:04.18,0:08:05.84,Default,,0,0,0,,So that's how you want to play it...
-Dialogue: 0,0:08:08.97,0:08:09.59,Default,,0,0,0,,Yes...
-Dialogue: 0,0:08:10.49,0:08:13.62,Default,,0,0,0,,and then you appeared before me.
-Dialogue: 0,0:08:16.76,0:08:19.95,Default,,0,0,0,,This stain just won't come off.
-Dialogue: 0,0:08:20.88,0:08:23.38,Default,,0,0,0,,There's no stain. It's clean.
-Dialogue: 0,0:08:24.32,0:08:24.97,Default,,0,0,0,,This.
-Dialogue: 0,0:08:26.57,0:08:27.18,Default,,0,0,0,,Where?
-Dialogue: 0,0:08:27.28,0:08:28.04,Default,,0,0,0,,Here!
-Dialogue: 0,0:08:29.66,0:08:31.54,Default,,0,0,0,,There's nothing. Where!?
-Dialogue: 0,0:08:31.90,0:08:33.31,Default,,0,0,0,,Here!
-Dialogue: 0,0:08:33.55,0:08:34.61,Default,,0,0,0,,Can you see it?
-Dialogue: 0,0:08:34.94,0:08:36.69,Default,,0,0,0,,That's what I've been saying...
-Dialogue: 0,0:08:36.84,0:08:38.70,Default,,0,0,0,,Can you hear a voice!?
-Dialogue: 0,0:08:40.65,0:08:42.72,Default,,0,0,0,,You can hear my voice, can't you?
-Dialogue: 0,0:08:43.85,0:08:45.53,Default,,0,0,0,,There's nothing...
-Dialogue: 0,0:08:47.87,0:08:48.66,Default,,0,0,0,,Who are you!?
-Dialogue: 0,0:08:50.97,0:08:52.13,Default,,0,0,0,,The gods before me...
-Dialogue: 0,0:08:53.48,0:08:54.62,Default,,0,0,0,,I thank you.
-Dialogue: 0,0:08:55.52,0:08:56.22,Default,,0,0,0,,Now I can...
-Dialogue: 0,0:08:57.52,0:08:58.42,Default,,0,0,0,,I can...
-Dialogue: 0,0:09:00.99,0:09:03.19,Default,,0,0,0,,I can return to the present world,
-Dialogue: 0,0:09:03.19,0:09:05.51,Default,,0,0,0,,once more.
-Dialogue: 0,0:09:21.89,0:09:22.63,Default,,0,0,0,,But...
-Dialogue: 0,0:09:22.63,0:09:25.22,Default,,0,0,0,,I was concerned at first.
-Dialogue: 0,0:09:25.99,0:09:29.75,Default,,0,0,0,,After all, Hikaru, you had never played Go before.
-Dialogue: 0,0:09:30.68,0:09:32.14,Default,,0,0,0,,You like Go that much?
-Dialogue: 0,0:09:32.21,0:09:32.83,Default,,0,0,0,,Yes!
-Dialogue: 0,0:09:32.83,0:09:33.79,Default,,0,0,0,,You still want to play Go?
-Dialogue: 0,0:09:33.84,0:09:34.53,Default,,0,0,0,,Yes!
-Dialogue: 0,0:09:34.69,0:09:38.76,Default,,0,0,0,,Too bad, I have no intentions of playing Go.
-Dialogue: 0,0:09:43.58,0:09:44.35,Default,,0,0,0,,Hikaru!
-Dialogue: 0,0:09:44.59,0:09:45.58,Default,,0,0,0,,Shindou-kun!
-Dialogue: 0,0:09:52.51,0:09:56.13,Default,,0,0,0,,Say, can't you possess someone other than me?
-Dialogue: 0,0:09:56.23,0:09:57.31,Default,,0,0,0,,Probably not...
-Dialogue: 0,0:10:02.80,0:10:05.85,Default,,0,0,0,,Fine, I guess it would be okay to play once in a while.
-Dialogue: 0,0:10:08.76,0:10:09.65,Default,,0,0,0,,And!? And!?
-Dialogue: 0,0:10:09.86,0:10:11.38,Default,,0,0,0,,Where are we playing?
-Dialogue: 0,0:10:11.71,0:10:12.60,Default,,0,0,0,,In a Go salon.
-Dialogue: 0,0:10:17.72,0:10:19.66,Default,,0,0,0,,Wow, It's filled with old men.
-Dialogue: 0,0:10:21.37,0:10:22.28,Default,,0,0,0,,Oh there's another kid.
-Dialogue: 0,0:10:22.37,0:10:23.45,Default,,0,0,0,,Can I play him?
-Dialogue: 0,0:10:24.58,0:10:26.03,Default,,0,0,0,,Umm, yeah... but he's...
-Dialogue: 0,0:10:28.70,0:10:30.36,Default,,0,0,0,,Looking for someone to play?
-Dialogue: 0,0:10:30.54,0:10:33.18,Default,,0,0,0,,This was how I met Touya Akira.
-Dialogue: 0,0:10:30.65,0:10:31.23,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:10:31.23,0:10:33.03,Default,,0,0,0,,Okay, I'll play you.
-Dialogue: 0,0:10:34.56,0:10:39.28,Default,,0,0,0,,I believed that this was the destiny that God gave me.
-Dialogue: 0,0:10:41.98,0:10:42.60,Default,,0,0,0,,Yes...
-Dialogue: 0,0:10:43.83,0:10:46.25,Default,,0,0,0,,The wheels of destiny began to turn.
-Dialogue: 0,0:10:47.92,0:10:48.99,Default,,0,0,0,,Okay!
-Dialogue: 0,0:10:49.40,0:10:51.93,Default,,0,0,0,,17-4, Komoku on the upper right-hand corner.
-Dialogue: 0,0:10:52.86,0:10:53.94,Thinking,,0,0,0,,17 and...
+Dialogue: 0,0:01:42.46,0:01:45.22,Default,,0,0,0,,I'm sure I want to play him in an even game.
+Dialogue: 0,0:01:46.10,0:01:46.92,Default,,0,0,0,,Yes.
+Dialogue: 0,0:01:49.32,0:01:52.30,Default,,0,0,0,,I wonder if I can make it happen...
+Dialogue: 0,0:01:53.37,0:01:54.60,Default,,0,0,0,,'I wonder'!?
+Dialogue: 0,0:01:54.67,0:01:56.93,Default,,0,0,0,,But Hikaru!
+Dialogue: 0,0:01:56.93,0:02:00.41,Default,,0,0,0,,I'll make it happen someday. Be patient.
+Dialogue: 0,0:02:00.53,0:02:02.00,Default,,0,0,0,,When is this 'someday'?
+Dialogue: 0,0:02:02.37,0:02:04.60,Default,,0,0,0,,'Someday' is 'someday'.
+Dialogue: 0,0:02:04.98,0:02:08.58,Default,,0,0,0,,Besides, it was an important match for me, too!
+Dialogue: 0,0:02:08.58,0:02:12.83,Default,,0,0,0,,And I couldn't play it because of your selfishness, don't you get that?
+Dialogue: 0,0:02:17.32,0:02:18.12,Default,,0,0,0,,Umm...
+Dialogue: 0,0:02:19.89,0:02:21.04,Default,,0,0,0,,I'm sorry...
+Dialogue: 0,0:02:24.14,0:02:26.98,Default,,0,0,0,,Man, it was your fault for coming to me.
+Dialogue: 0,0:02:30.10,0:02:31.19,Default,,0,0,0,,Torajirou...
+Dialogue: 0,0:02:31.80,0:02:33.34,Default,,0,0,0,,He was very clever...
+Dialogue: 0,0:02:33.88,0:02:35.80,Default,,0,0,0,,and truly kind person.
+Dialogue: 0,0:02:37.22,0:02:39.77,Default,,0,0,0,,So what you're saying is that I'm stupid and unkind.
+Dialogue: 0,0:02:41.81,0:02:42.72,Default,,0,0,0,,Hikaru...
+Dialogue: 0,0:02:47.02,0:02:52.03,Title,,0,0,0,,{\fs28}Fiftieth match\N\N{\fs}Sai of the Fujiwara
+Dialogue: 0,0:02:59.39,0:03:00.38,Default,,0,0,0,,Why did god...
+Dialogue: 0,0:03:01.14,0:03:05.07,Default,,0,0,0,,revive me in Hikaru's mind?
+Dialogue: 0,0:03:10.99,0:03:11.99,Default,,0,0,0,,It's true
+Dialogue: 0,0:03:12.34,0:03:14.10,Default,,0,0,0,,Hikaru is growing very quickly,
+Dialogue: 0,0:03:15.02,0:03:20.24,Default,,0,0,0,,and it brings me both pride and joy in teaching him...
+Dialogue: 0,0:03:21.85,0:03:22.80,Default,,0,0,0,,But,
+Dialogue: 0,0:03:22.80,0:03:23.90,Default,,0,0,0,,what about...
+Dialogue: 0,0:03:24.47,0:03:25.74,Default,,0,0,0,,What about my Go?
+Dialogue: 0,0:03:39.37,0:03:40.87,Default,,0,0,0,,I hate this existence.
+Dialogue: 0,0:03:43.38,0:03:45.91,Default,,0,0,0,,The chance to play him finally came...
+Dialogue: 0,0:03:48.31,0:03:52.61,Default,,0,0,0,,The game against him when I was supposed to master the divine move...
+Dialogue: 0,0:03:56.18,0:03:57.14,Default,,0,0,0,,But...
+Dialogue: 0,0:03:57.75,0:03:59.16,Default,,0,0,0,,I couldn't do it.
+Dialogue: 0,0:04:00.81,0:04:03.13,Default,,0,0,0,,In a game that I couldn't play as myself,
+Dialogue: 0,0:04:04.23,0:04:09.17,Default,,0,0,0,,I couldn't head for that divine height with him.
+Dialogue: 0,0:04:26.15,0:04:28.44,Default,,0,0,0,,If I cannot master the divine move...
+Dialogue: 0,0:04:29.39,0:04:31.97,Default,,0,0,0,,Why am I here?
+Dialogue: 0,0:04:34.88,0:04:36.93,Default,,0,0,0,,How long am I supposed to wait?
+Dialogue: 0,0:04:40.22,0:04:41.27,Default,,0,0,0,,A thousand years ago...
+Dialogue: 0,0:04:42.80,0:04:44.82,Default,,0,0,0,,Everything began from there.
+Dialogue: 0,0:04:49.73,0:04:51.07,Default,,0,0,0,,Every day...
+Dialogue: 0,0:04:51.91,0:04:54.25,Default,,0,0,0,,I played Go within the palace.
+Dialogue: 0,0:04:55.39,0:04:56.22,Default,,0,0,0,,But...
+Dialogue: 0,0:04:56.87,0:04:59.09,Default,,0,0,0,,When I played the other tutor that His Majesty had,
+Dialogue: 0,0:04:59.71,0:05:04.08,Default,,0,0,0,,In a match to decide who would become the only tutor for His Majesty...
+Dialogue: 0,0:05:18.11,0:05:21.95,Default,,0,0,0,,He placed a white stone that was hidden among his stones,
+Dialogue: 0,0:05:22.56,0:05:26.11,Default,,0,0,0,,In his Agehama during a moment when everyone was distracted.
+Dialogue: 0,0:05:27.55,0:05:29.54,Default,,0,0,0,,When I tried to raise my voice...
+Dialogue: 0,0:05:30.43,0:05:31.31,Default,,0,0,0,,You...
+Dialogue: 0,0:05:31.58,0:05:32.30,Default,,0,0,0,,just...
+Dialogue: 0,0:05:33.65,0:05:34.41,Default,,0,0,0,,Hey!
+Dialogue: 0,0:05:34.71,0:05:39.16,Default,,0,0,0,,You! You just placed a black stone from your Goke into your Agehama!
+Dialogue: 0,0:05:39.25,0:05:41.72,Default,,0,0,0,,W-What?
+Dialogue: 0,0:05:41.72,0:05:44.24,Default,,0,0,0,,That is what you just did!
+Dialogue: 0,0:05:44.36,0:05:46.91,Default,,0,0,0,,What a stupid excuse that is.
+Dialogue: 0,0:05:47.12,0:05:54.02,Default,,0,0,0,,You just placed a black stone that was hidden in your Goke into your Agehama when everyone's attention was on the board!
+Dialogue: 0,0:05:54.40,0:05:55.94,Default,,0,0,0,,You are the one making excuses!
+Dialogue: 0,0:05:55.94,0:05:57.80,Default,,0,0,0,,Stop it. Quiet.
+Dialogue: 0,0:05:59.38,0:06:04.81,Default,,0,0,0,,I do not wish to even consider that such a dishonest act has occurred before me.
+Dialogue: 0,0:06:05.46,0:06:06.68,Default,,0,0,0,,Continue.
+Dialogue: 0,0:06:09.56,0:06:10.93,Default,,0,0,0,,I lost.
+Dialogue: 0,0:06:12.58,0:06:15.89,Default,,0,0,0,,I could not contain my anger.
+Dialogue: 0,0:06:18.48,0:06:21.57,Default,,0,0,0,,I was charged with cheating during the game
+Dialogue: 0,0:06:22.35,0:06:24.25,Default,,0,0,0,,and driven out of the capital.
+Dialogue: 0,0:06:25.10,0:06:26.87,Default,,0,0,0,,I no longer had a reason to live.
+Dialogue: 0,0:06:34.13,0:06:35.68,Default,,0,0,0,,Two days after the match...
+Dialogue: 0,0:06:36.62,0:06:38.19,Default,,0,0,0,,I drowned myself.
+Dialogue: 0,0:06:38.94,0:06:39.62,Default,,0,0,0,,But...
+Dialogue: 0,0:06:40.34,0:06:43.01,Default,,0,0,0,,I wanted to play Go a lot more.
+Dialogue: 0,0:06:46.73,0:06:48.87,Default,,0,0,0,,My soul, unable to find peace,
+Dialogue: 0,0:06:49.37,0:06:50.68,Default,,0,0,0,,possessed a Go board,
+Dialogue: 0,0:06:51.48,0:06:52.96,Default,,0,0,0,,and after a long period of time
+Dialogue: 0,0:06:53.63,0:06:55.94,Default,,0,0,0,,heard a voice of a young boy
+Dialogue: 0,0:06:56.69,0:06:58.87,Default,,0,0,0,,on Innoshima, within the Sea of Seto.
+Dialogue: 0,0:07:00.65,0:07:01.51,Default,,0,0,0,,He was...
+Dialogue: 0,0:07:02.45,0:07:03.30,Default,,0,0,0,,Torajirou.
+Dialogue: 0,0:07:05.70,0:07:06.79,Default,,0,0,0,,Young boy,
+Dialogue: 0,0:07:07.60,0:07:10.49,Default,,0,0,0,,If you can see the tears of grief that I shed,
+Dialogue: 0,0:07:11.13,0:07:15.21,Default,,0,0,0,,let me dwell in a corner of your mind.
+Dialogue: 0,0:07:17.56,0:07:22.53,Default,,0,0,0,,I was able to play Go as much as I wished, together with him.
+Dialogue: 0,0:07:23.74,0:07:28.19,Default,,0,0,0,,He changed his name to Shuusaku, and became the successor to the Honinbou.
+Dialogue: 0,0:07:29.17,0:07:33.75,Default,,0,0,0,,I believed that I would be able to master the divine move together with him.
+Dialogue: 0,0:07:38.85,0:07:39.69,Default,,0,0,0,,But...
+Dialogue: 0,0:07:40.52,0:07:42.35,Default,,0,0,0,,he could not defeat disease and...
+Dialogue: 0,0:07:46.78,0:07:47.61,Default,,0,0,0,,Torajirou...
+Dialogue: 0,0:07:48.30,0:07:49.65,Default,,0,0,0,,Honinbou Shuusaku...
+Dialogue: 0,0:07:51.49,0:07:55.74,Default,,0,0,0,,I will never forget the time that I spent with him...
+Dialogue: 0,0:07:58.46,0:07:59.62,Default,,0,0,0,,Never...
+Dialogue: 0,0:07:59.62,0:08:01.12,Default,,0,0,0,,Sai...
+Dialogue: 0,0:08:03.99,0:08:05.79,Default,,0,0,0,,So that's how you want to play it...
+Dialogue: 0,0:08:08.95,0:08:09.68,Default,,0,0,0,,Yes...
+Dialogue: 0,0:08:10.39,0:08:13.48,Default,,0,0,0,,and then you appeared before me.
+Dialogue: 0,0:08:16.68,0:08:19.75,Default,,0,0,0,,This stain just won't come off.
+Dialogue: 0,0:08:20.78,0:08:23.32,Default,,0,0,0,,There's no stain. It's clean.
+Dialogue: 0,0:08:24.22,0:08:24.95,Default,,0,0,0,,This.
+Dialogue: 0,0:08:26.47,0:08:27.14,Default,,0,0,0,,Where?
+Dialogue: 0,0:08:27.14,0:08:28.03,Default,,0,0,0,,Here!
+Dialogue: 0,0:08:29.59,0:08:31.50,Default,,0,0,0,,There's nothing. Where!?
+Dialogue: 0,0:08:31.86,0:08:33.27,Default,,0,0,0,,Here!
+Dialogue: 0,0:08:33.45,0:08:34.61,Default,,0,0,0,,Can you see it?
+Dialogue: 0,0:08:34.77,0:08:36.69,Default,,0,0,0,,That's what I've been saying...
+Dialogue: 0,0:08:36.78,0:08:38.70,Default,,0,0,0,,Can you hear a voice!?
+Dialogue: 0,0:08:40.67,0:08:42.72,Default,,0,0,0,,You can hear my voice, can't you?
+Dialogue: 0,0:08:43.70,0:08:45.49,Default,,0,0,0,,There's nothing...
+Dialogue: 0,0:08:47.77,0:08:48.66,Default,,0,0,0,,Who are you!?
+Dialogue: 0,0:08:50.91,0:08:52.13,Default,,0,0,0,,The gods before me...
+Dialogue: 0,0:08:53.35,0:08:54.59,Default,,0,0,0,,I thank you.
+Dialogue: 0,0:08:55.45,0:08:56.45,Default,,0,0,0,,Now I can...
+Dialogue: 0,0:08:57.41,0:08:58.41,Default,,0,0,0,,I can...
+Dialogue: 0,0:09:00.87,0:09:02.96,Default,,0,0,0,,I can return to the present world,
+Dialogue: 0,0:09:04.05,0:09:05.51,Default,,0,0,0,,once more.
+Dialogue: 0,0:09:21.76,0:09:22.51,Default,,0,0,0,,But...
+Dialogue: 0,0:09:22.84,0:09:25.07,Default,,0,0,0,,I was concerned at first.
+Dialogue: 0,0:09:25.91,0:09:29.68,Default,,0,0,0,,After all, Hikaru, you had never played Go before.
+Dialogue: 0,0:09:30.58,0:09:32.22,Default,,0,0,0,,You like Go that much?
+Dialogue: 0,0:09:32.22,0:09:32.80,Default,,0,0,0,,Yes!
+Dialogue: 0,0:09:32.80,0:09:33.81,Default,,0,0,0,,You still want to play Go?
+Dialogue: 0,0:09:33.81,0:09:34.61,Default,,0,0,0,,Yes!
+Dialogue: 0,0:09:34.61,0:09:38.76,Default,,0,0,0,,Too bad, I have no intentions of playing Go.
+Dialogue: 0,0:09:43.57,0:09:44.35,Default,,0,0,0,,Hikaru!
+Dialogue: 0,0:09:44.44,0:09:45.50,Default,,0,0,0,,Shindou-kun!
+Dialogue: 0,0:09:52.39,0:09:56.09,Default,,0,0,0,,Say, can't you possess someone other than me?
+Dialogue: 0,0:09:56.27,0:09:57.26,Default,,0,0,0,,Probably not...
+Dialogue: 0,0:10:02.68,0:10:05.80,Default,,0,0,0,,Fine, I guess it would be okay to play once in a while.
+Dialogue: 0,0:10:08.69,0:10:09.65,Default,,0,0,0,,And!? And!?
+Dialogue: 0,0:10:09.89,0:10:11.34,Default,,0,0,0,,Where are we playing?
+Dialogue: 0,0:10:11.62,0:10:12.58,Default,,0,0,0,,In a Go salon.
+Dialogue: 0,0:10:17.61,0:10:19.63,Default,,0,0,0,,Wow, It's filled with old men.
+Dialogue: 0,0:10:20.83,0:10:22.28,Default,,0,0,0,,Oh there's another kid.
+Dialogue: 0,0:10:22.36,0:10:23.43,Default,,0,0,0,,Can I play him?
+Dialogue: 0,0:10:24.42,0:10:26.03,Default,,0,0,0,,Umm, yeah... but he's...
+Dialogue: 0,0:10:28.63,0:10:30.36,Default,,0,0,0,,Looking for someone to play?
+Dialogue: 0,0:10:30.43,0:10:33.10,Default,,0,0,0,,This was how I met Touya Akira.
+Dialogue: 0,0:10:30.68,0:10:31.34,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:10:31.34,0:10:33.03,Default,,0,0,0,,Okay, I'll play you.
+Dialogue: 0,0:10:34.47,0:10:39.11,Default,,0,0,0,,I believed that this was the destiny that God gave me.
+Dialogue: 0,0:10:41.88,0:10:42.61,Default,,0,0,0,,Yes...
+Dialogue: 0,0:10:43.73,0:10:46.20,Default,,0,0,0,,The wheels of destiny began to turn.
+Dialogue: 0,0:10:47.81,0:10:48.99,Default,,0,0,0,,Okay!
+Dialogue: 0,0:10:49.23,0:10:51.93,Default,,0,0,0,,17-4, Komoku on the upper right-hand corner.
+Dialogue: 0,0:10:52.74,0:10:53.94,Thinking,,0,0,0,,17 and...
 Dialogue: 0,0:10:54.32,0:10:54.81,Thinking,,0,0,0,,one...
 Dialogue: 0,0:10:54.81,0:10:55.47,Thinking,,0,0,0,,one... two...
 Dialogue: 0,0:10:55.47,0:10:56.28,Thinking,,0,0,0,,one... two... three...
 Dialogue: 0,0:10:56.28,0:10:57.00,Thinking,,0,0,0,,one... two... three... four...
-Dialogue: 0,0:10:59.64,0:11:01.74,Default,,0,0,0,,He holds the stone like a beginner.
-Dialogue: 0,0:11:02.19,0:11:04.14,Default,,0,0,0,,I think I played him around three times,
-Dialogue: 0,0:11:04.82,0:11:06.58,Default,,0,0,0,,through Hikaru's body.
-Dialogue: 0,0:11:07.97,0:11:10.89,Default,,0,0,0,,16-17, Komoku on the lower right-hand corner.
-Dialogue: 0,0:11:11.09,0:11:14.11,Thinking,,0,0,0,,16-17... here it is.
-Dialogue: 0,0:11:17.80,0:11:19.03,Default,,0,0,0,,3-16.
-Dialogue: 0,0:11:19.10,0:11:21.21,Thinking,,0,0,0,,3-16...
-Dialogue: 0,0:11:28.40,0:11:29.64,Default,,0,0,0,,8-5.
-Dialogue: 0,0:11:29.96,0:11:32.84,Default,,0,0,0,,Let's see... 8... There it is!
-Dialogue: 0,0:11:36.05,0:11:36.75,Thinking,,0,0,0,,This...
-Dialogue: 0,0:11:37.73,0:11:39.84,Thinking,,0,0,0,,This isn't the best move...
-Dialogue: 0,0:11:41.94,0:11:44.26,Thinking,,0,0,0,,nor is it the strongest move.
-Dialogue: 0,0:11:45.64,0:11:49.03,Thinking,,0,0,0,,He made this move to see how I would respond.
-Dialogue: 0,0:11:50.21,0:11:52.04,Thinking,,0,0,0,,He's testing to see how strong I am...
-Dialogue: 0,0:11:52.80,0:11:55.12,Thinking,,0,0,0,,from far above me...
-Dialogue: 0,0:11:56.22,0:11:59.66,Default,,0,0,0,,Touya Akira had great potential,
-Dialogue: 0,0:12:01.01,0:12:02.92,Default,,0,0,0,,despite the fact that he was the same age as Hikaru.
-Dialogue: 0,0:12:04.74,0:12:05.38,Default,,0,0,0,,So...
-Dialogue: 0,0:12:08.11,0:12:08.79,Default,,0,0,0,,Go on.
-Dialogue: 0,0:12:09.39,0:12:10.45,Default,,0,0,0,,Yeah...
-Dialogue: 0,0:12:13.01,0:12:15.38,Thinking,,0,0,0,,Wow, he doesn't even notice the crowd.
-Dialogue: 0,0:12:17.81,0:12:18.95,Default,,0,0,0,,That's why I...
-Dialogue: 0,0:12:23.89,0:12:25.99,Default,,0,0,0,,He's waiting for my Kosumi, isn't he?
-Dialogue: 0,0:12:26.86,0:12:28.64,Default,,0,0,0,,I suppose there's nothing wrong with that.
-Dialogue: 0,0:12:29.48,0:12:30.90,Default,,0,0,0,,15-16
-Dialogue: 0,0:12:31.60,0:12:32.26,Default,,0,0,0,,Kosumi!
-Dialogue: 0,0:12:33.91,0:12:35.29,Default,,0,0,0,,Come, let's see what you have in mind!
+Dialogue: 0,0:10:59.50,0:11:01.64,Default,,0,0,0,,He holds the stone like a beginner.
+Dialogue: 0,0:11:02.12,0:11:04.08,Default,,0,0,0,,I think I played him around three times,
+Dialogue: 0,0:11:04.70,0:11:06.58,Default,,0,0,0,,through Hikaru's body.
+Dialogue: 0,0:11:07.86,0:11:10.82,Default,,0,0,0,,16-17, Komoku on the lower right-hand corner.
+Dialogue: 0,0:11:11.04,0:11:14.04,Thinking,,0,0,0,,16-17... here it is.
+Dialogue: 0,0:11:17.68,0:11:18.99,Default,,0,0,0,,3-16.
+Dialogue: 0,0:11:18.99,0:11:21.15,Thinking,,0,0,0,,3-16...
+Dialogue: 0,0:11:28.27,0:11:29.64,Default,,0,0,0,,8-5.
+Dialogue: 0,0:11:29.77,0:11:32.78,Default,,0,0,0,,Let's see... 8... There it is!
+Dialogue: 0,0:11:35.94,0:11:36.75,Thinking,,0,0,0,,This...
+Dialogue: 0,0:11:37.63,0:11:39.81,Thinking,,0,0,0,,This isn't the best move...
+Dialogue: 0,0:11:41.82,0:11:44.18,Thinking,,0,0,0,,nor is it the strongest move.
+Dialogue: 0,0:11:45.56,0:11:49.03,Thinking,,0,0,0,,He made this move to see how I would respond.
+Dialogue: 0,0:11:50.10,0:11:52.04,Thinking,,0,0,0,,He's testing to see how strong I am...
+Dialogue: 0,0:11:52.71,0:11:55.14,Thinking,,0,0,0,,from far above me...
+Dialogue: 0,0:11:56.13,0:11:59.56,Default,,0,0,0,,Touya Akira had great potential,
+Dialogue: 0,0:12:00.92,0:12:03.04,Default,,0,0,0,,despite the fact that he was the same age as Hikaru.
+Dialogue: 0,0:12:04.65,0:12:05.37,Default,,0,0,0,,So...
+Dialogue: 0,0:12:08.01,0:12:08.75,Default,,0,0,0,,Go on.
+Dialogue: 0,0:12:09.30,0:12:10.42,Default,,0,0,0,,Yeah...
+Dialogue: 0,0:12:12.85,0:12:15.29,Thinking,,0,0,0,,Wow, he doesn't even notice the crowd.
+Dialogue: 0,0:12:17.70,0:12:18.87,Default,,0,0,0,,That's why I...
+Dialogue: 0,0:12:23.78,0:12:25.89,Default,,0,0,0,,He's waiting for my Kosumi, isn't he?
+Dialogue: 0,0:12:26.73,0:12:28.59,Default,,0,0,0,,I suppose there's nothing wrong with that.
+Dialogue: 0,0:12:29.40,0:12:30.85,Default,,0,0,0,,15-16
+Dialogue: 0,0:12:31.51,0:12:32.21,Default,,0,0,0,,Kosumi!
+Dialogue: 0,0:12:33.75,0:12:35.23,Default,,0,0,0,,Come, let's see what you have in mind!
 Dialogue: 0,0:12:52.68,0:12:53.62,Default,,0,0,0,,I resign!
-Dialogue: 0,0:12:58.62,0:12:59.48,Thinking,,0,0,0,,Sai...
-Dialogue: 0,0:13:00.37,0:13:01.51,Default,,0,0,0,,He resigned.
-Dialogue: 0,0:13:02.24,0:13:04.64,Default,,0,0,0,,He declared his own defeat.
-Dialogue: 0,0:13:11.99,0:13:16.68,Default,,0,0,0,,He faced up to me despite his fear.
-Dialogue: 0,0:13:18.55,0:13:23.03,Default,,0,0,0,,Our third match was a match over the 'internet'.
-Dialogue: 0,0:13:31.25,0:13:31.99,Thinking,,0,0,0,,He's strong.
-Dialogue: 0,0:13:41.89,0:13:45.33,Thinking,,0,0,0,,I feel a wall higher than when Shindou defeated me.
-Dialogue: 0,0:13:46.15,0:13:46.85,Thinking,,0,0,0,,He's...
-Dialogue: 0,0:13:54.55,0:13:56.42,Thinking,,0,0,0,,He's... not Shindou?
-Dialogue: 0,0:14:10.45,0:14:11.15,Thinking,,0,0,0,,Could it be!?
-Dialogue: 0,0:14:21.18,0:14:22.72,Thinking,,0,0,0,,The black in the center has...
-Dialogue: 0,0:14:22.72,0:14:24.30,Thinking,,0,0,0,,no chance of living.
-Dialogue: 0,0:14:29.91,0:14:31.26,Default,,0,0,0,,He resigned...
-Dialogue: 0,0:14:34.36,0:14:37.81,Thinking,,0,0,0,,Sai, how was it? Was it Touya?
-Dialogue: 0,0:14:40.52,0:14:42.20,Default,,0,0,0,,Without a doubt.
-Dialogue: 0,0:14:42.74,0:14:43.59,Thinking,,0,0,0,,Oh.
-Dialogue: 0,0:14:44.70,0:14:45.91,Thinking,,0,0,0,,And? What did you think?
-Dialogue: 0,0:14:47.47,0:14:48.48,Thinking,,0,0,0,,Sai?
-Dialogue: 0,0:14:49.86,0:14:51.45,Default,,0,0,0,,Yes...
-Dialogue: 0,0:14:51.45,0:14:53.88,Default,,0,0,0,,he was very strong.
-Dialogue: 0,0:14:54.42,0:14:56.18,Default,,0,0,0,,He had great instincts.
-Dialogue: 0,0:14:56.62,0:14:59.31,Default,,0,0,0,,He thought during all the important moves.
-Dialogue: 0,0:15:01.01,0:15:02.84,Thinking,,0,0,0,,And? Did Touya get any stronger?
-Dialogue: 0,0:15:04.86,0:15:07.74,Default,,0,0,0,,I was the one that became stronger.
-Dialogue: 0,0:15:10.87,0:15:12.73,Default,,0,0,0,,And Hikaru, you, too.
-Dialogue: 0,0:15:13.57,0:15:14.35,Thinking,,0,0,0,,Me?
-Dialogue: 0,0:15:14.92,0:15:18.35,Default,,0,0,0,,You watched dozens of my games, after all.
-Dialogue: 0,0:15:21.15,0:15:21.77,Default,,0,0,0,,Yes.
-Dialogue: 0,0:15:22.90,0:15:24.95,Default,,0,0,0,,Together with Hikaru,
-Dialogue: 0,0:15:25.84,0:15:26.82,Default,,0,0,0,,I learned modern Go.
-Dialogue: 0,0:15:27.64,0:15:29.64,Default,,0,0,0,,Through playing Touya Akira,
-Dialogue: 0,0:15:30.75,0:15:32.36,Default,,0,0,0,,Touya Akira began to chase after me,
-Dialogue: 0,0:15:32.87,0:15:34.78,Default,,0,0,0,,and Hikaru began to chase Touya.
-Dialogue: 0,0:15:36.12,0:15:38.59,Default,,0,0,0,,Oh yes, I forgot about that match.
-Dialogue: 0,0:15:40.09,0:15:44.51,Default,,0,0,0,,When I was playing Touya Akira during Hikaru's match in the Go tournament...
-Dialogue: 0,0:15:45.85,0:15:47.47,Thinking,,0,0,0,,Touya...
-Dialogue: 0,0:15:47.47,0:15:49.19,Thinking,,0,0,0,,how far...
-Dialogue: 0,0:15:49.19,0:15:52.27,Thinking,,0,0,0,,have I caught up to you?
-Dialogue: 0,0:15:55.45,0:15:56.33,Thinking,,0,0,0,,I want to play...
-Dialogue: 0,0:15:57.65,0:15:58.27,Thinking,,0,0,0,,Touya...
-Dialogue: 0,0:15:58.99,0:16:03.09,Thinking,,0,0,0,,Just like you're chasing after Sai, I'm chasing you.
-Dialogue: 0,0:16:03.79,0:16:05.34,Thinking,,0,0,0,,I'll catch up to you some day.
-Dialogue: 0,0:16:06.16,0:16:07.39,Default,,0,0,0,,13-4
-Dialogue: 0,0:16:08.08,0:16:11.10,Thinking,,0,0,0,,I'll go to 11-8, and then...
-Dialogue: 0,0:16:14.37,0:16:16.66,Default,,0,0,0,,Hikaru. 13...
-Dialogue: 0,0:16:18.09,0:16:18.88,Thinking,,0,0,0,,I want to find out.
-Dialogue: 0,0:16:19.58,0:16:20.72,Thinking,,0,0,0,,Sorry, Sai...
-Dialogue: 0,0:16:21.41,0:16:23.18,Thinking,,0,0,0,,I can't tell without playing him myself.
-Dialogue: 0,0:16:23.79,0:16:26.69,Thinking,,0,0,0,,I want to find out the gap between him and me.
-Dialogue: 0,0:16:29.12,0:16:30.54,Default,,0,0,0,,11-8!?
-Dialogue: 0,0:16:31.33,0:16:32.25,Thinking,,0,0,0,,I'm playing!
-Dialogue: 0,0:16:37.28,0:16:38.83,Default,,0,0,0,,Now that I think about it,
-Dialogue: 0,0:16:39.88,0:16:42.39,Default,,0,0,0,,that was when I first realized how interesting Hikaru's ideas were.
-Dialogue: 0,0:16:45.10,0:16:46.81,Default,,0,0,0,,You must have been mortified then.
-Dialogue: 0,0:16:52.59,0:16:53.73,Default,,0,0,0,,Stop messing around!
-Dialogue: 0,0:16:54.55,0:16:55.93,Default,,0,0,0,,T-Touya...
-Dialogue: 0,0:16:57.30,0:17:02.93,Default,,0,0,0,,I'm going to catch up to you someday, if you keep chasing after my illusion!
-Dialogue: 0,0:17:07.98,0:17:08.76,Default,,0,0,0,,You?
-Dialogue: 0,0:17:15.27,0:17:18.81,Default,,0,0,0,,Would you like to play now instead of 'someday'?
-Dialogue: 0,0:17:46.45,0:17:47.82,Default,,0,0,0,,Ever since then, Hikaru has...
-Dialogue: 0,0:17:48.76,0:17:51.73,Default,,0,0,0,,run straight towards Touya Akira.
-Dialogue: 0,0:17:53.18,0:17:55.57,Default,,0,0,0,,He became an Insei to chase after Touya,
-Dialogue: 0,0:17:57.28,0:17:59.06,Default,,0,0,0,,and he passed the pro exam.
-Dialogue: 0,0:18:00.88,0:18:02.41,Default,,0,0,0,,He really has become strong.
-Dialogue: 0,0:18:03.15,0:18:03.81,Default,,0,0,0,,Hikaru...
-Dialogue: 0,0:18:08.39,0:18:09.78,Default,,0,0,0,,Your name!
-Dialogue: 0,0:18:11.29,0:18:14.56,Default,,0,0,0,,Your name! I said I'd remember it.
-Dialogue: 0,0:18:17.83,0:18:19.25,Default,,0,0,0,,Shindou Hikaru!
-Dialogue: 0,0:18:19.80,0:18:20.83,Default,,0,0,0,,My name is...
+Dialogue: 0,0:12:58.45,0:12:59.44,Thinking,,0,0,0,,Sai...
+Dialogue: 0,0:13:00.25,0:13:01.44,Default,,0,0,0,,He resigned.
+Dialogue: 0,0:13:02.16,0:13:04.57,Default,,0,0,0,,He declared his own defeat.
+Dialogue: 0,0:13:11.88,0:13:16.61,Default,,0,0,0,,He faced up to me despite his fear.
+Dialogue: 0,0:13:18.41,0:13:22.82,Default,,0,0,0,,Our third match was a match over the 'internet'.
+Dialogue: 0,0:13:31.15,0:13:31.96,Thinking,,0,0,0,,He's strong.
+Dialogue: 0,0:13:41.70,0:13:45.24,Thinking,,0,0,0,,I feel a wall higher than when Shindou defeated me.
+Dialogue: 0,0:13:46.07,0:13:46.81,Thinking,,0,0,0,,He's...
+Dialogue: 0,0:13:54.33,0:13:56.41,Thinking,,0,0,0,,He's... not Shindou?
+Dialogue: 0,0:14:10.34,0:14:11.11,Thinking,,0,0,0,,Could it be!?
+Dialogue: 0,0:14:21.05,0:14:22.69,Thinking,,0,0,0,,The black in the center has...
+Dialogue: 0,0:14:23.23,0:14:24.30,Thinking,,0,0,0,,no chance of living.
+Dialogue: 0,0:14:29.84,0:14:31.20,Default,,0,0,0,,He resigned...
+Dialogue: 0,0:14:34.24,0:14:37.77,Thinking,,0,0,0,,Sai, how was it? Was it Touya?
+Dialogue: 0,0:14:40.46,0:14:42.11,Default,,0,0,0,,Without a doubt.
+Dialogue: 0,0:14:42.63,0:14:43.54,Thinking,,0,0,0,,Oh.
+Dialogue: 0,0:14:44.56,0:14:46.08,Thinking,,0,0,0,,And? What did you think?
+Dialogue: 0,0:14:47.37,0:14:48.45,Thinking,,0,0,0,,Sai?
+Dialogue: 0,0:14:49.77,0:14:51.42,Default,,0,0,0,,Yes...
+Dialogue: 0,0:14:52.02,0:14:53.88,Default,,0,0,0,,he was very strong.
+Dialogue: 0,0:14:54.35,0:14:56.10,Default,,0,0,0,,He had great instincts.
+Dialogue: 0,0:14:56.53,0:14:59.20,Default,,0,0,0,,He thought during all the important moves.
+Dialogue: 0,0:15:00.78,0:15:02.75,Thinking,,0,0,0,,And? Did Touya get any stronger?
+Dialogue: 0,0:15:04.76,0:15:07.62,Default,,0,0,0,,I was the one that became stronger.
+Dialogue: 0,0:15:10.75,0:15:12.73,Default,,0,0,0,,And Hikaru, you, too.
+Dialogue: 0,0:15:13.49,0:15:14.32,Thinking,,0,0,0,,Me?
+Dialogue: 0,0:15:14.83,0:15:18.30,Default,,0,0,0,,You watched dozens of my games, after all.
+Dialogue: 0,0:15:21.00,0:15:21.71,Default,,0,0,0,,Yes.
+Dialogue: 0,0:15:22.82,0:15:24.89,Default,,0,0,0,,Together with Hikaru,
+Dialogue: 0,0:15:25.72,0:15:26.76,Default,,0,0,0,,I learned modern Go.
+Dialogue: 0,0:15:27.52,0:15:29.57,Default,,0,0,0,,Through playing Touya Akira,
+Dialogue: 0,0:15:30.64,0:15:32.36,Default,,0,0,0,,Touya Akira began to chase after me,
+Dialogue: 0,0:15:32.81,0:15:34.72,Default,,0,0,0,,and Hikaru began to chase Touya.
+Dialogue: 0,0:15:35.96,0:15:38.52,Default,,0,0,0,,Oh yes, I forgot about that match.
+Dialogue: 0,0:15:39.94,0:15:44.43,Default,,0,0,0,,When I was playing Touya Akira during Hikaru's match in the Go tournament...
+Dialogue: 0,0:15:45.75,0:15:47.37,Thinking,,0,0,0,,Touya...
+Dialogue: 0,0:15:47.37,0:15:49.18,Thinking,,0,0,0,,how far...
+Dialogue: 0,0:15:49.18,0:15:52.21,Thinking,,0,0,0,,have I caught up to you?
+Dialogue: 0,0:15:55.47,0:15:56.33,Thinking,,0,0,0,,I want to play...
+Dialogue: 0,0:15:57.57,0:15:58.48,Thinking,,0,0,0,,Touya...
+Dialogue: 0,0:15:58.86,0:16:03.07,Thinking,,0,0,0,,Just like you're chasing after Sai, I'm chasing you.
+Dialogue: 0,0:16:03.69,0:16:05.31,Thinking,,0,0,0,,I'll catch up to you some day.
+Dialogue: 0,0:16:06.08,0:16:07.39,Default,,0,0,0,,13-4
+Dialogue: 0,0:16:07.93,0:16:11.03,Thinking,,0,0,0,,I'll go to 11-8, and then...
+Dialogue: 0,0:16:14.25,0:16:16.58,Default,,0,0,0,,Hikaru. 13...
+Dialogue: 0,0:16:17.95,0:16:18.88,Thinking,,0,0,0,,I want to find out.
+Dialogue: 0,0:16:19.48,0:16:20.72,Thinking,,0,0,0,,Sorry, Sai...
+Dialogue: 0,0:16:21.30,0:16:23.12,Thinking,,0,0,0,,I can't tell without playing him myself.
+Dialogue: 0,0:16:23.61,0:16:26.60,Thinking,,0,0,0,,I want to find out the gap between him and me.
+Dialogue: 0,0:16:29.03,0:16:30.54,Default,,0,0,0,,11-8!?
+Dialogue: 0,0:16:31.24,0:16:32.22,Thinking,,0,0,0,,I'm playing!
+Dialogue: 0,0:16:37.15,0:16:38.76,Default,,0,0,0,,Now that I think about it,
+Dialogue: 0,0:16:39.75,0:16:42.29,Default,,0,0,0,,that was when I first realized how interesting Hikaru's ideas were.
+Dialogue: 0,0:16:44.95,0:16:48.03,Default,,0,0,0,,You must have been mortified then.
+Dialogue: 0,0:16:52.54,0:16:53.71,Default,,0,0,0,,Stop messing around!
+Dialogue: 0,0:16:54.44,0:16:55.83,Default,,0,0,0,,T-Touya...
+Dialogue: 0,0:16:57.21,0:17:02.88,Default,,0,0,0,,I'm going to catch up to you someday, if you keep chasing after my illusion!
+Dialogue: 0,0:17:07.88,0:17:08.76,Default,,0,0,0,,You?
+Dialogue: 0,0:17:15.15,0:17:18.75,Default,,0,0,0,,Would you like to play now instead of 'someday'?
+Dialogue: 0,0:17:46.35,0:17:47.82,Default,,0,0,0,,Ever since then, Hikaru has...
+Dialogue: 0,0:17:48.57,0:17:51.64,Default,,0,0,0,,run straight towards Touya Akira.
+Dialogue: 0,0:17:53.07,0:17:55.52,Default,,0,0,0,,He became an Insei to chase after Touya,
+Dialogue: 0,0:17:57.16,0:17:58.99,Default,,0,0,0,,and he passed the pro exam.
+Dialogue: 0,0:18:00.69,0:18:02.41,Default,,0,0,0,,He really has become strong.
+Dialogue: 0,0:18:03.05,0:18:03.81,Default,,0,0,0,,Hikaru...
+Dialogue: 0,0:18:08.29,0:18:09.70,Default,,0,0,0,,Your name!
+Dialogue: 0,0:18:11.16,0:18:14.45,Default,,0,0,0,,Your name! I said I'd remember it.
+Dialogue: 0,0:18:17.83,0:18:19.22,Default,,0,0,0,,Shindou Hikaru!
+Dialogue: 0,0:18:19.73,0:18:20.84,Default,,0,0,0,,My name is...
 Dialogue: 0,0:18:21.17,0:18:22.48,Default,,0,0,0,,Shindou Hikaru!
-Dialogue: 0,0:18:23.63,0:18:24.29,Default,,0,0,0,,But...
-Dialogue: 0,0:18:24.97,0:18:26.91,Default,,0,0,0,,Now that I think about it,
-Dialogue: 0,0:18:27.59,0:18:30.64,Default,,0,0,0,,that was around when I stopped playing Go against people other than Hikaru.
-Dialogue: 0,0:18:32.87,0:18:36.35,Default,,0,0,0,,And to think, I have more opportunities to play stronger players now.
-Dialogue: 0,0:18:38.03,0:18:38.91,Default,,0,0,0,,Hikaru...
-Dialogue: 0,0:18:40.93,0:18:44.76,Default,,0,0,0,,Hikaru, do you not intend to let me play anymore?
-Dialogue: 0,0:18:46.02,0:18:50.14,Default,,0,0,0,,Even though I'm closest to mastering the divine move?
-Dialogue: 0,0:18:53.11,0:18:57.28,Default,,0,0,0,,Oh, God! Why did I come back in the mind of Hikaru!?
-Dialogue: 0,0:18:58.88,0:18:59.76,Default,,0,0,0,,God...
-Dialogue: 0,0:19:39.00,0:19:42.73,Default,,0,0,0,,So there is no answer after all...
-Dialogue: 0,0:19:56.77,0:19:58.16,Default,,0,0,0,,Hikaru!
-Dialogue: 0,0:20:00.90,0:20:01.64,Default,,0,0,0,,Wake up!
-Dialogue: 0,0:20:01.95,0:20:03.66,Default,,0,0,0,,Hurry and wake up!
+Dialogue: 0,0:18:23.51,0:18:24.22,Default,,0,0,0,,But...
+Dialogue: 0,0:18:24.89,0:18:26.91,Default,,0,0,0,,Now that I think about it,
+Dialogue: 0,0:18:27.49,0:18:30.57,Default,,0,0,0,,that was around when I stopped playing Go against people other than Hikaru.
+Dialogue: 0,0:18:32.74,0:18:36.23,Default,,0,0,0,,And to think, I have more opportunities to play stronger players now.
+Dialogue: 0,0:18:37.88,0:18:38.89,Default,,0,0,0,,Hikaru...
+Dialogue: 0,0:18:40.81,0:18:44.74,Default,,0,0,0,,Hikaru, do you not intend to let me play anymore?
+Dialogue: 0,0:18:45.92,0:18:50.14,Default,,0,0,0,,Even though I'm closest to mastering the divine move?
+Dialogue: 0,0:18:53.01,0:18:57.28,Default,,0,0,0,,Oh, God! Why did I come back in the mind of Hikaru!?
+Dialogue: 0,0:18:58.81,0:18:59.73,Default,,0,0,0,,God...
+Dialogue: 0,0:19:38.91,0:19:42.66,Default,,0,0,0,,So there is no answer after all...
+Dialogue: 0,0:19:56.68,0:19:58.04,Default,,0,0,0,,Hikaru!
+Dialogue: 0,0:20:00.82,0:20:01.64,Default,,0,0,0,,Wake up!
+Dialogue: 0,0:20:01.90,0:20:03.58,Default,,0,0,0,,Hurry and wake up!
 Dialogue: 0,0:20:03.77,0:20:07.50,Default,,0,0,0,,What is it? Why are you being so loud this early in the morning?
-Dialogue: 0,0:20:08.31,0:20:10.74,Default,,0,0,0,,Wake up and play me!
-Dialogue: 0,0:20:12.03,0:20:14.39,Default,,0,0,0,,I haven't even eaten breakfast yet,
-Dialogue: 0,0:20:14.63,0:20:15.87,Default,,0,0,0,,I don't want to.
-Dialogue: 0,0:20:16.14,0:20:17.46,Default,,0,0,0,,No 'I don't want to's.
-Dialogue: 0,0:20:17.85,0:20:20.78,Default,,0,0,0,,We have to play to come closer to mastering the divine move.
-Dialogue: 0,0:20:20.82,0:20:23.01,Default,,0,0,0,,Hikaru you're the only person I can play.
-Dialogue: 0,0:20:23.23,0:20:24.75,Default,,0,0,0,,What's wrong Sai?
-Dialogue: 0,0:20:25.02,0:20:26.15,Default,,0,0,0,,You're acting weird.
-Dialogue: 0,0:20:26.16,0:20:28.94,Default,,0,0,0,,Not at all. It's just the conclusion I came to.
+Dialogue: 0,0:20:08.22,0:20:10.67,Default,,0,0,0,,Wake up and play me!
+Dialogue: 0,0:20:11.87,0:20:14.34,Default,,0,0,0,,I haven't even eaten breakfast yet,
+Dialogue: 0,0:20:14.50,0:20:15.87,Default,,0,0,0,,I don't want to.
+Dialogue: 0,0:20:16.05,0:20:17.46,Default,,0,0,0,,No 'I don't want to's.
+Dialogue: 0,0:20:17.75,0:20:20.70,Default,,0,0,0,,We have to play to come closer to mastering the divine move.
+Dialogue: 0,0:20:20.70,0:20:23.01,Default,,0,0,0,,Hikaru you're the only person I can play.
+Dialogue: 0,0:20:23.14,0:20:24.82,Default,,0,0,0,,What's wrong Sai?
+Dialogue: 0,0:20:25.01,0:20:26.12,Default,,0,0,0,,You're acting weird.
+Dialogue: 0,0:20:26.12,0:20:28.94,Default,,0,0,0,,Not at all. It's just the conclusion I came to.
 Dialogue: 0,0:20:28.94,0:20:31.07,Default,,0,0,0,,Come on, hurry! Hurry!
-Dialogue: 0,0:20:31.86,0:20:33.42,Default,,0,0,0,,Let me sleep for just another half hour.
-Dialogue: 0,0:20:33.42,0:20:34.15,Default,,0,0,0,,No!
-Dialogue: 0,0:20:34.15,0:20:36.80,Default,,0,0,0,,Hikaru! Hey! Hikaru! Wake up!
+Dialogue: 0,0:20:31.75,0:20:33.42,Default,,0,0,0,,Let me sleep for just another half hour.
+Dialogue: 0,0:20:33.42,0:20:34.04,Default,,0,0,0,,No!
+Dialogue: 0,0:20:34.04,0:20:36.89,Default,,0,0,0,,Hikaru! Hey! Hikaru! Wake up!
 Dialogue: 0,0:20:36.89,0:20:38.53,Default,,0,0,0,,Good night.
-Dialogue: 0,0:20:37.94,0:20:39.35,Default,,0,0,0,,Let's play, Hikaru!
-Dialogue: 0,0:20:40.13,0:20:41.36,Default,,0,0,0,,Hikaru!
+Dialogue: 0,0:20:37.82,0:20:39.35,Default,,0,0,0,,Let's play, Hikaru!
+Dialogue: 0,0:20:39.97,0:20:41.36,Default,,0,0,0,,Hikaru!
 Dialogue: 0,0:22:12.86,0:22:14.57,Default,,0,0,0,,We're continuing with Yose today.
 Dialogue: 0,0:22:15.54,0:22:18.44,Default,,0,0,0,,When there are two Yose spots left, how would you play, Yuki-kun?
 Dialogue: 0,0:22:18.54,0:22:19.19,Default,,0,0,0,,Here.
@@ -358,8 +356,8 @@ Dialogue: 0,0:23:11.12,0:23:12.37,Note,,0,0,0,,{\an5\pos(487,310)\frz248}Meijin
 Dialogue: 0,0:23:11.12,0:23:12.37,Note,,0,0,0,,{\an5\pos(530,340)\frz241}Most of the way
 Dialogue: 0,0:23:22.78,0:23:25.56,Default,,0,0,0,,14-4, approach by one space.
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2Kanji,,0,0,0,,{\kf81}この{\kf69}瞳{\kf71}君{\kf23}の{\kf22}瞳{\kf72}に
-Dialogue: 0,0:00:03.90,0:00:07.33,Op2Kanji,,0,0,0,,{\kf82}映{\kf68}る{\kf68}どんな{\kf43}モノ{\kf82}も
-Dialogue: 0,0:00:07.46,0:00:15.06,Op2Kanji,,0,0,0,,{\kf151}見極{\kf47}めて{\kf55}見せる{\kf97}よ {\kf179}真実{\kf231}を　
+Dialogue: 0,0:00:03.83,0:00:07.33,Op2Kanji,,0,0,0,,{\kf7}{\kf82}映{\kf68}る{\kf68}どんな{\kf43}モノ{\kf82}も
+Dialogue: 0,0:00:07.34,0:00:15.06,Op2Kanji,,0,0,0,,{\kf12}{\kf151}見極{\kf47}めて{\kf55}見せる{\kf97}よ {\kf179}真実{\kf231}を　
 Dialogue: 0,0:00:23.41,0:00:26.96,Op2Kanji,,0,0,0,,{\kf45}僕{\kf37}達{\kf78}は{\kf39}この{\kf67}時代{\kf89}に
 Dialogue: 0,0:00:26.96,0:00:30.46,Op2Kanji,,0,0,0,,{\kf45}どれ{\kf42}だけ{\kf37}の{\kf78}夢{\kf148}抱えて
 Dialogue: 0,0:00:30.57,0:00:33.81,Op2Kanji,,0,0,0,,{\kf49}涙{\kf89}して{\kf75}迷い{\kf111}ながら
@@ -374,8 +372,8 @@ Dialogue: 0,0:01:11.44,0:01:14.94,Op2Kanji,,0,0,0,,{\kf149}きつく{\kf90}埋�
 Dialogue: 0,0:01:15.02,0:01:18.44,Op2Kanji,,0,0,0,,{\kf148}こんな{\kf47}場所{\kf19}で{\kf128}終わる
 Dialogue: 0,0:01:18.55,0:01:23.87,Op2Kanji,,0,0,0,,{\kf83}僕{\kf42}じゃ{\kf46}な{\kf361}い
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2Romaji2,,0,0,0,,{\kf81}kono {\kf69}me {\kf71}kimi {\kf23}no {\kf22}me {\kf72}ni
-Dialogue: 0,0:00:03.90,0:00:07.33,Op2Romaji2,,0,0,0,,{\kf82}utsu{\kf68}ru {\kf68}donna {\kf43}mono {\kf82}mo
-Dialogue: 0,0:00:07.46,0:00:15.06,Op2Romaji2,,0,0,0,,{\kf85}miki{\kf66}wa{\kf47}mete {\kf55}miseru {\kf97}yo {\kf46}shi{\kf46}n{\kf36}ji{\kf51}tsu {\kf231}wo
+Dialogue: 0,0:00:03.83,0:00:07.33,Op2Romaji2,,0,0,0,,{\kf7}{\kf82}utsu{\kf68}ru {\kf68}donna {\kf43}mono {\kf82}mo
+Dialogue: 0,0:00:07.34,0:00:15.06,Op2Romaji2,,0,0,0,,{\kf12}{\kf85}miki{\kf66}wa{\kf47}mete {\kf55}miseru {\kf97}yo {\kf46}shi{\kf46}n{\kf36}ji{\kf51}tsu {\kf231}wo
 Dialogue: 0,0:00:23.41,0:00:26.96,Op2Romaji2,,0,0,0,,{\kf45}boku{\kf37}tachi {\kf78}wa {\kf39}kono {\kf67}jidai {\kf89}ni
 Dialogue: 0,0:00:26.96,0:00:30.46,Op2Romaji2,,0,0,0,,{\kf45}dore {\kf42}dake {\kf37}no {\kf78}yume {\kf148}kakaete
 Dialogue: 0,0:00:30.57,0:00:33.81,Op2Romaji2,,0,0,0,,{\kf49}namida {\kf89}shite {\kf75}mayoi {\kf111}nagara
@@ -390,8 +388,8 @@ Dialogue: 0,0:01:11.44,0:01:14.94,Op2Romaji2,,0,0,0,,{\kf149}kitsuku {\kf90}umor
 Dialogue: 0,0:01:15.02,0:01:18.44,Op2Romaji2,,0,0,0,,{\kf148}konna {\kf47}basho {\kf19}de {\kf128}owaru
 Dialogue: 0,0:01:18.55,0:01:23.87,Op2Romaji2,,0,0,0,,{\kf83}boku {\kf42}ja{\kf46}na{\kf361}i
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2English2,,0,0,0,,On this eye, this eye on yours,
-Dialogue: 0,0:00:03.90,0:00:07.33,Op2English2,,0,0,0,,everything will appear,
-Dialogue: 0,0:00:07.46,0:00:15.06,Op2English2,,0,0,0,,I will tell apart the truth.
+Dialogue: 0,0:00:03.83,0:00:07.33,Op2English2,,0,0,0,,everything will appear,
+Dialogue: 0,0:00:07.34,0:00:15.06,Op2English2,,0,0,0,,I will tell apart the truth.
 Dialogue: 0,0:00:23.41,0:00:26.96,Op2English2,,0,0,0,,We had so many dreams
 Dialogue: 0,0:00:26.96,0:00:30.46,Op2English2,,0,0,0,,In this time we live in.
 Dialogue: 0,0:00:30.57,0:00:33.81,Op2English2,,0,0,0,,We stare at it and run towards it,

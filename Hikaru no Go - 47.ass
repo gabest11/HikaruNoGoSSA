@@ -396,8 +396,8 @@ Dialogue: 0,0:23:06.08,0:23:07.26,Default,,0,0,0,,I can't!
 Dialogue: 0,0:23:08.81,0:23:10.67,Default,,0,0,0,,I understand how you feel, but...
 Dialogue: 0,0:23:22.75,0:23:25.53,Default,,0,0,0,,Show me how strong you are.
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2Kanji,,0,0,0,,{\kf81}この{\kf69}瞳{\kf71}君{\kf23}の{\kf22}瞳{\kf72}に
-Dialogue: 0,0:00:03.90,0:00:07.33,Op2Kanji,,0,0,0,,{\kf82}映{\kf68}る{\kf68}どんな{\kf43}モノ{\kf82}も
-Dialogue: 0,0:00:07.46,0:00:15.06,Op2Kanji,,0,0,0,,{\kf151}見極{\kf47}めて{\kf55}見せる{\kf97}よ {\kf179}真実{\kf231}を　
+Dialogue: 0,0:00:03.83,0:00:07.33,Op2Kanji,,0,0,0,,{\kf7}{\kf82}映{\kf68}る{\kf68}どんな{\kf43}モノ{\kf82}も
+Dialogue: 0,0:00:07.34,0:00:15.06,Op2Kanji,,0,0,0,,{\kf12}{\kf151}見極{\kf47}めて{\kf55}見せる{\kf97}よ {\kf179}真実{\kf231}を　
 Dialogue: 0,0:00:23.41,0:00:26.96,Op2Kanji,,0,0,0,,{\kf45}僕{\kf37}達{\kf78}は{\kf39}この{\kf67}時代{\kf89}に
 Dialogue: 0,0:00:26.96,0:00:30.46,Op2Kanji,,0,0,0,,{\kf45}どれ{\kf42}だけ{\kf37}の{\kf78}夢{\kf148}抱えて
 Dialogue: 0,0:00:30.57,0:00:33.81,Op2Kanji,,0,0,0,,{\kf49}涙{\kf89}して{\kf75}迷い{\kf111}ながら
@@ -412,8 +412,8 @@ Dialogue: 0,0:01:11.44,0:01:14.94,Op2Kanji,,0,0,0,,{\kf149}きつく{\kf90}埋�
 Dialogue: 0,0:01:15.02,0:01:18.44,Op2Kanji,,0,0,0,,{\kf148}こんな{\kf47}場所{\kf19}で{\kf128}終わる
 Dialogue: 0,0:01:18.55,0:01:23.87,Op2Kanji,,0,0,0,,{\kf83}僕{\kf42}じゃ{\kf46}な{\kf361}い
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2Romaji2,,0,0,0,,{\kf81}kono {\kf69}me {\kf71}kimi {\kf23}no {\kf22}me {\kf72}ni
-Dialogue: 0,0:00:03.90,0:00:07.33,Op2Romaji2,,0,0,0,,{\kf82}utsu{\kf68}ru {\kf68}donna {\kf43}mono {\kf82}mo
-Dialogue: 0,0:00:07.46,0:00:15.06,Op2Romaji2,,0,0,0,,{\kf85}miki{\kf66}wa{\kf47}mete {\kf55}miseru {\kf97}yo {\kf46}shi{\kf46}n{\kf36}ji{\kf51}tsu {\kf231}wo
+Dialogue: 0,0:00:03.83,0:00:07.33,Op2Romaji2,,0,0,0,,{\kf7}{\kf82}utsu{\kf68}ru {\kf68}donna {\kf43}mono {\kf82}mo
+Dialogue: 0,0:00:07.34,0:00:15.06,Op2Romaji2,,0,0,0,,{\kf12}{\kf85}miki{\kf66}wa{\kf47}mete {\kf55}miseru {\kf97}yo {\kf46}shi{\kf46}n{\kf36}ji{\kf51}tsu {\kf231}wo
 Dialogue: 0,0:00:23.41,0:00:26.96,Op2Romaji2,,0,0,0,,{\kf45}boku{\kf37}tachi {\kf78}wa {\kf39}kono {\kf67}jidai {\kf89}ni
 Dialogue: 0,0:00:26.96,0:00:30.46,Op2Romaji2,,0,0,0,,{\kf45}dore {\kf42}dake {\kf37}no {\kf78}yume {\kf148}kakaete
 Dialogue: 0,0:00:30.57,0:00:33.81,Op2Romaji2,,0,0,0,,{\kf49}namida {\kf89}shite {\kf75}mayoi {\kf111}nagara
@@ -428,8 +428,8 @@ Dialogue: 0,0:01:11.44,0:01:14.94,Op2Romaji2,,0,0,0,,{\kf149}kitsuku {\kf90}umor
 Dialogue: 0,0:01:15.02,0:01:18.44,Op2Romaji2,,0,0,0,,{\kf148}konna {\kf47}basho {\kf19}de {\kf128}owaru
 Dialogue: 0,0:01:18.55,0:01:23.87,Op2Romaji2,,0,0,0,,{\kf83}boku {\kf42}ja{\kf46}na{\kf361}i
 Dialogue: 0,0:00:00.32,0:00:03.70,Op2English2,,0,0,0,,On this eye, this eye on yours,
-Dialogue: 0,0:00:03.90,0:00:07.33,Op2English2,,0,0,0,,everything will appear,
-Dialogue: 0,0:00:07.46,0:00:15.06,Op2English2,,0,0,0,,I will tell apart the truth.
+Dialogue: 0,0:00:03.83,0:00:07.33,Op2English2,,0,0,0,,everything will appear,
+Dialogue: 0,0:00:07.34,0:00:15.06,Op2English2,,0,0,0,,I will tell apart the truth.
 Dialogue: 0,0:00:23.41,0:00:26.96,Op2English2,,0,0,0,,We had so many dreams
 Dialogue: 0,0:00:26.96,0:00:30.46,Op2English2,,0,0,0,,In this time we live in.
 Dialogue: 0,0:00:30.57,0:00:33.81,Op2English2,,0,0,0,,We stare at it and run towards it,
