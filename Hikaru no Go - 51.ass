@@ -17,9 +17,9 @@ Video File: [Moozzi2] Hikaru no Go - 51 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 0
-Active Line: 0
-Video Position: 0
+Scroll Position: 266
+Active Line: 274
+Video Position: 24865
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,351 +56,350 @@ Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,1
 Style: Title,Verdana,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,1,2,20,20,40,1
 Style: Note,Century Gothic,18,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,10,1
 Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
-;Style: Note,Verdana,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,1,8,30,30,10,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
 Style: Noise,Verdana,25,&H00C1FFD7,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,8,19,19,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:41.08,0:01:46.09,Title,,0,0,0,,{\fs28}Fifty-first match\N\N{\fs}Kurata 6-dan
-Dialogue: 0,0:02:02.54,0:02:03.52,Default,,0,0,0,,Hikaru...
-Dialogue: 0,0:02:04.38,0:02:07.04,Default,,0,0,0,,They're not all playing games either.
-Dialogue: 0,0:02:07.45,0:02:08.89,Default,,0,0,0,,There are tutoring games and lectures, too!
-Dialogue: 0,0:02:09.74,0:02:13.20,Default,,0,0,0,,But... wow, there are a lot of people here.
-Dialogue: 0,0:02:15.16,0:02:17.70,Default,,0,0,0,,Hikaru, Hikaru! Over there!
-Dialogue: 0,0:02:19.90,0:02:21.90,Computer,,0,0,0,,{\pos(130,98)\fs18\frz359.4}Net Go Corner
-Dialogue: 0,0:02:21.90,0:02:26.78,Default,,0,0,0,,I guess this'll cheer Sai up a bit. I'm glad we came.
-Dialogue: 0,0:02:29.14,0:02:31.76,Default,,0,0,0,,I wanted to play you with no handicap.
-Dialogue: 0,0:02:38.55,0:02:40.97,Default,,0,0,0,,Next time, let us play an even game.
-Dialogue: 0,0:02:41.89,0:02:43.43,Default,,0,0,0,,Yes, let us.
-Dialogue: 0,0:02:45.25,0:02:48.49,Thinking,,0,0,0,,It did turn out to be an unsatisfying game for Sai.
-Dialogue: 0,0:02:49.12,0:02:51.00,Thinking,,0,0,0,,I feel sorry for him.
-Dialogue: 0,0:02:51.74,0:02:54.46,Default,,0,0,0,,Hikaru, let's go watch a game!
-Dialogue: 0,0:02:55.32,0:02:59.28,Default,,0,0,0,,Yeah. And let's go watch Ochi's new first dan match next week.
-Dialogue: 0,0:02:59.63,0:03:05.27,Default,,0,0,0,,That jerk was dissing my game with Waya. I've got to get him back.
-Dialogue: 0,0:03:09.23,0:03:11.68,Default,,0,0,0,,Hikaru's trying to be nice to me.
-Dialogue: 0,0:03:13.08,0:03:18.92,Default,,0,0,0,,When I took an important game away from him by being selfish...
-Dialogue: 0,0:03:20.53,0:03:21.90,Default,,0,0,0,,I'm the one that's at fault.
-Dialogue: 0,0:03:22.50,0:03:24.45,Default,,0,0,0,,I won't...
-Dialogue: 0,0:03:25.42,0:03:27.01,Default,,0,0,0,,I won't ask him to play someone else...
-Dialogue: 0,0:03:28.04,0:03:29.26,Default,,0,0,0,,too often.
-Dialogue: 0,0:03:31.77,0:03:32.68,Computer,,0,0,0,,{\pos(405,236)\frz345.3\fs18}Vendor's Corner
-Dialogue: 0,0:03:32.68,0:03:34.22,Default,,0,0,0,,That'll be 1,500 yen.
-Dialogue: 0,0:03:34.99,0:03:36.72,Default,,0,0,0,,Thank you very much.
-Dialogue: 0,0:03:37.62,0:03:41.82,Default,,0,0,0,,You've got to stop selling those cheap fans, and start selling the expensive Go boards.
-Dialogue: 0,0:03:42.45,0:03:43.93,Default,,0,0,0,,Oh, Mr. Gokiso!
-Dialogue: 0,0:03:44.40,0:03:49.76,Default,,0,0,0,,THAT treasure of a board hasn't sold yet, but I've already sold three of the other ones.
-Dialogue: 0,0:03:50.12,0:03:51.44,Default,,0,0,0,,Which ones have you sold?
-Dialogue: 0,0:03:51.62,0:03:55.52,Default,,0,0,0,,This one! The Kaya Go board! Special, 200,000 yen!
-Dialogue: 0,0:03:55.86,0:04:02.33,Default,,0,0,0,,This is Kaya? Well I guess you can fool most people with it. But it's probably only worth 80,000.
+Dialogue: 0,0:02:02.46,0:02:03.52,Default,,0,0,0,,Hikaru...
+Dialogue: 0,0:02:04.29,0:02:07.04,Default,,0,0,0,,They're not all playing games either.
+Dialogue: 0,0:02:07.37,0:02:08.89,Default,,0,0,0,,There are tutoring games and lectures, too!
+Dialogue: 0,0:02:09.59,0:02:13.19,Default,,0,0,0,,But... wow, there are a lot of people here.
+Dialogue: 0,0:02:15.08,0:02:17.70,Default,,0,0,0,,Hikaru, Hikaru! Over there!
+Dialogue: 0,0:02:17.74,0:02:20.75,Computer,,0,0,0,,{\pos(130,98)\fs18\frz359.4}Net Go Corner
+Dialogue: 0,0:02:21.84,0:02:26.76,Default,,0,0,0,,I guess this'll cheer Sai up a bit. I'm glad we came.
+Dialogue: 0,0:02:29.02,0:02:31.55,Default,,0,0,0,,I wanted to play you with no handicap.
+Dialogue: 0,0:02:38.43,0:02:41.01,Default,,0,0,0,,Next time, let us play an even game.
+Dialogue: 0,0:02:41.75,0:02:43.43,Default,,0,0,0,,Yes, let us.
+Dialogue: 0,0:02:45.15,0:02:48.45,Thinking,,0,0,0,,It did turn out to be an unsatisfying game for Sai.
+Dialogue: 0,0:02:49.02,0:02:50.97,Thinking,,0,0,0,,I feel sorry for him.
+Dialogue: 0,0:02:51.66,0:02:54.45,Default,,0,0,0,,Hikaru, let's go watch a game!
+Dialogue: 0,0:02:55.23,0:02:59.21,Default,,0,0,0,,Yeah. And let's go watch Ochi's new first dan match next week.
+Dialogue: 0,0:02:59.51,0:03:05.20,Default,,0,0,0,,That jerk was dissing my game with Waya. I've got to get him back.
+Dialogue: 0,0:03:09.13,0:03:11.63,Default,,0,0,0,,Hikaru's trying to be nice to me.
+Dialogue: 0,0:03:12.95,0:03:18.92,Default,,0,0,0,,When I took an important game away from him by being selfish...
+Dialogue: 0,0:03:20.46,0:03:21.96,Default,,0,0,0,,I'm the one that's at fault.
+Dialogue: 0,0:03:22.41,0:03:24.51,Default,,0,0,0,,I won't...
+Dialogue: 0,0:03:25.33,0:03:27.10,Default,,0,0,0,,I won't ask him to play someone else...
+Dialogue: 0,0:03:27.94,0:03:29.26,Default,,0,0,0,,too often.
+Dialogue: 0,0:03:30.27,0:03:31.82,Computer,,0,0,0,,{\pos(405,236)\frz345.3\fs18}Vendor's Corner
+Dialogue: 0,0:03:32.46,0:03:34.20,Default,,0,0,0,,That'll be 1,500 yen.
+Dialogue: 0,0:03:34.86,0:03:36.72,Default,,0,0,0,,Thank you very much.
+Dialogue: 0,0:03:37.47,0:03:41.82,Default,,0,0,0,,You've got to stop selling those cheap fans, and start selling the expensive Go boards.
+Dialogue: 0,0:03:41.82,0:03:43.93,Default,,0,0,0,,Oh, Mr. Gokiso!
+Dialogue: 0,0:03:44.29,0:03:49.59,Default,,0,0,0,,THAT treasure of a board hasn't sold yet, but I've already sold three of the other ones.
+Dialogue: 0,0:03:50.03,0:03:51.43,Default,,0,0,0,,Which ones have you sold?
+Dialogue: 0,0:03:51.57,0:03:55.52,Default,,0,0,0,,This one! The Kaya Go board! Special, 200,000 yen!
+Dialogue: 0,0:03:55.76,0:04:02.33,Default,,0,0,0,,This is Kaya? Well I guess you can fool most people with it. But it's probably only worth 80,000.
 Dialogue: 0,0:04:03.38,0:04:04.53,Default,,0,0,0,,Sir!
-Dialogue: 0,0:04:06.28,0:04:10.57,Default,,0,0,0,,Just hand the pen over. You can't just put 'special' on it.
+Dialogue: 0,0:04:06.16,0:04:10.57,Default,,0,0,0,,Just hand the pen over. You can't just put 'special' on it.
 Dialogue: 0,0:04:14.36,0:04:17.11,Computer,,0,0,0,,{\fs18\pos(310,151)\frz5.7}Kaya Go Board
-Dialogue: 0,0:04:14.37,0:04:17.11,Computer,,0,0,0,,{\c&H0000E0H\fs15\pos(230,185)\frz4}S\NP\NE\NC\NI\NA\NL
-Dialogue: 0,0:04:14.85,0:04:17.40,Default,,0,0,0,,This is much more useful.
-Dialogue: 0,0:04:18.55,0:04:21.86,Default,,0,0,0,,You seem like you're better at business than Go.
-Dialogue: 0,0:04:22.03,0:04:25.23,Default,,0,0,0,,You've got to be kidding, I'm a pro.
-Dialogue: 0,0:04:25.89,0:04:30.59,Default,,0,0,0,,Remember, I'm the reason you got into this convention.
-Dialogue: 0,0:04:30.70,0:04:32.54,Default,,0,0,0,,Work hard at getting their money.
+Dialogue: 0,0:04:14.36,0:04:17.11,Computer,,0,0,0,,{\c&H0000E0H\fs15\pos(230,185)\frz4}S\NP\NE\NC\NI\NA\NL
+Dialogue: 0,0:04:14.72,0:04:17.31,Default,,0,0,0,,This is much more useful.
+Dialogue: 0,0:04:18.46,0:04:21.81,Default,,0,0,0,,You seem like you're better at business than Go.
+Dialogue: 0,0:04:21.93,0:04:25.23,Default,,0,0,0,,You've got to be kidding, I'm a pro.
+Dialogue: 0,0:04:25.80,0:04:30.62,Default,,0,0,0,,Remember, I'm the reason you got into this convention.
+Dialogue: 0,0:04:30.62,0:04:32.46,Default,,0,0,0,,Work hard at getting their money.
 Dialogue: 0,0:04:32.46,0:04:35.42,Note,,0,0,0,,FREE PLAY AREA
-Dialogue: 0,0:04:34.05,0:04:34.66,Default,,0,0,0,,Oh.
-Dialogue: 0,0:04:35.16,0:04:38.63,Default,,0,0,0,,That large cluster is about to get taken. It's in atari.
+Dialogue: 0,0:04:34.05,0:04:34.83,Default,,0,0,0,,Oh.
+Dialogue: 0,0:04:35.06,0:04:38.63,Default,,0,0,0,,That large cluster is about to get taken. It's in atari.
 Dialogue: 0,0:04:39.81,0:04:44.08,Thinking,,0,0,0,,You're right. This is no time to be thinking, he's got to protect it.
-Dialogue: 0,0:04:49.12,0:04:50.09,Default,,0,0,0,,He didn't notice!
-Dialogue: 0,0:04:50.53,0:04:52.32,Default,,0,0,0,,It'll get taken this turn, and the game will end.
-Dialogue: 0,0:04:55.82,0:04:57.60,Default,,0,0,0,,AHH! He hasn't noticed either!
-Dialogue: 0,0:04:57.94,0:05:01.77,Default,,0,0,0,,T-This is much more exciting than a pro match.
-Dialogue: 0,0:05:02.91,0:05:06.31,Default,,0,0,0,,Would you like to play? We're still registering players.
-Dialogue: 0,0:05:06.90,0:05:09.19,Default,,0,0,0,,Play? No thanks.
-Dialogue: 0,0:05:09.98,0:05:12.01,Default,,0,0,0,,I'll play if you don't want to, Hikaru...
-Dialogue: 0,0:05:14.21,0:05:18.03,Default,,0,0,0,,I just told myself not to ask. I'm so stupid.
-Dialogue: 0,0:05:18.46,0:05:21.43,Default,,0,0,0,,A Go board, they're so nice.
-Dialogue: 0,0:05:21.61,0:05:23.76,Default,,0,0,0,,I'd like to buy one some day.
-Dialogue: 0,0:05:23.86,0:05:26.55,Default,,0,0,0,,Why not buy it now?
-Dialogue: 0,0:05:27.36,0:05:31.54,Default,,0,0,0,,I'm sure you'd improve quicker if you played on a good board.
-Dialogue: 0,0:05:32.02,0:05:34.68,Default,,0,0,0,,Oh, they're just selling boards and stuff.
-Dialogue: 0,0:05:34.91,0:05:36.70,Default,,0,0,0,,What were you expecting?
-Dialogue: 0,0:05:37.29,0:05:40.05,Default,,0,0,0,,There's a special on this one today, just 25,000!
+Dialogue: 0,0:04:49.05,0:04:50.09,Default,,0,0,0,,He didn't notice!
+Dialogue: 0,0:04:50.41,0:04:52.32,Default,,0,0,0,,It'll get taken this turn, and the game will end.
+Dialogue: 0,0:04:55.71,0:04:57.55,Default,,0,0,0,,AHH! He hasn't noticed either!
+Dialogue: 0,0:04:57.86,0:05:01.77,Default,,0,0,0,,T-This is much more exciting than a pro match.
+Dialogue: 0,0:05:02.81,0:05:06.30,Default,,0,0,0,,Would you like to play? We're still registering players.
+Dialogue: 0,0:05:06.30,0:05:09.22,Default,,0,0,0,,Play? No thanks.
+Dialogue: 0,0:05:09.87,0:05:12.01,Default,,0,0,0,,I'll play if you don't want to, Hikaru...
+Dialogue: 0,0:05:14.21,0:05:18.02,Default,,0,0,0,,I just told myself not to ask. I'm so stupid.
+Dialogue: 0,0:05:18.37,0:05:21.55,Default,,0,0,0,,A Go board, they're so nice.
+Dialogue: 0,0:05:21.55,0:05:23.72,Default,,0,0,0,,I'd like to buy one some day.
+Dialogue: 0,0:05:23.83,0:05:26.55,Default,,0,0,0,,Why not buy it now?
+Dialogue: 0,0:05:27.28,0:05:31.53,Default,,0,0,0,,I'm sure you'd improve quicker if you played on a good board.
+Dialogue: 0,0:05:31.90,0:05:34.68,Default,,0,0,0,,Oh, they're just selling boards and stuff.
+Dialogue: 0,0:05:34.87,0:05:36.70,Default,,0,0,0,,What were you expecting?
+Dialogue: 0,0:05:37.16,0:05:40.05,Default,,0,0,0,,There's a special on this one today, just 25,000!
 Dialogue: 0,0:05:40.19,0:05:46.16,Computer,,0,0,0,,{\fs18\pos(310,151)\frz5.7}Kaya Go Board
 Dialogue: 0,0:05:40.19,0:05:46.16,Computer,,0,0,0,,{\c&H0000E0H\fs15\pos(230,185)\frz4}S\NP\NE\NC\NI\NA\NL
-Dialogue: 0,0:05:40.37,0:05:42.90,Default,,0,0,0,,That one's on special for just 200,000!
-Dialogue: 0,0:05:43.14,0:05:46.30,Default,,0,0,0,,It's made out of the best domestic grown Kaya there is!
-Dialogue: 0,0:05:46.60,0:05:48.51,Default,,0,0,0,,Kaya!? This is Kaya!?
-Dialogue: 0,0:05:49.71,0:05:53.32,Default,,0,0,0,,This isn't Kaya. It looks like it, but it's not.
-Dialogue: 0,0:05:53.75,0:05:55.11,Thinking,,0,0,0,,Sai, what's Kaya?
-Dialogue: 0,0:05:55.75,0:05:57.44,Default,,0,0,0,,It's a wood used to make Go boards.
-Dialogue: 0,0:05:58.05,0:05:59.94,Default,,0,0,0,,Your grandfather's board is made of Kaya.
-Dialogue: 0,0:06:00.60,0:06:02.20,Default,,0,0,0,,All good boards are made of Kaya.
-Dialogue: 0,0:06:02.74,0:06:03.58,Thinking,,0,0,0,,What about mine?
-Dialogue: 0,0:06:03.98,0:06:05.12,Default,,0,0,0,,That's Katsura.
-Dialogue: 0,0:06:05.30,0:06:06.01,Thinking,,0,0,0,,Then...
-Dialogue: 0,0:06:06.41,0:06:08.71,Default,,0,0,0,,This isn't Kaya!?
-Dialogue: 0,0:06:10.06,0:06:12.15,Default,,0,0,0,,Hey! Stop making up stuff to ruin my business!
-Dialogue: 0,0:06:13.02,0:06:15.30,Default,,0,0,0,,Who's causing the trouble over here?
-Dialogue: 0,0:06:16.38,0:06:18.44,Default,,0,0,0,,Don't get in the way of his business.
-Dialogue: 0,0:06:18.84,0:06:20.49,Default,,0,0,0,,I'm not!
-Dialogue: 0,0:06:20.64,0:06:23.23,Default,,0,0,0,,Hikaru, try placing a stone on it.
-Dialogue: 0,0:06:27.29,0:06:28.78,Default,,0,0,0,,AHH! What are you doing!?
-Dialogue: 0,0:06:32.36,0:06:34.66,Default,,0,0,0,,Thought so, the sound is too dull to be Kaya.
-Dialogue: 0,0:06:34.72,0:06:35.36,Thinking,,0,0,0,,Then...
-Dialogue: 0,0:06:35.57,0:06:38.78,Default,,0,0,0,,Ahh! He played a stone on something we're selling!
-Dialogue: 0,0:06:38.94,0:06:40.18,Default,,0,0,0,,You worthless brat!
-Dialogue: 0,0:06:40.83,0:06:42.11,Default,,0,0,0,,What's going on?
-Dialogue: 0,0:06:42.93,0:06:44.49,Default,,0,0,0,,Is there a problem?
-Dialogue: 0,0:06:44.89,0:06:49.46,Default,,0,0,0,,Not at all. A little child played a stone on a board we're selling, that's all.
-Dialogue: 0,0:06:49.64,0:06:50.67,Default,,0,0,0,,But it's...!
-Dialogue: 0,0:06:50.72,0:06:51.44,Default,,0,0,0,,Hey.
-Dialogue: 0,0:06:52.08,0:06:57.72,Default,,0,0,0,,We're going to make you pay for the Go board you scratched if you say anymore.
-Dialogue: 0,0:06:58.89,0:07:04.79,Default,,0,0,0,,U-Umm... I think I'll wait until I get a little better before I buy a board.
-Dialogue: 0,0:07:05.47,0:07:06.20,Default,,0,0,0,,O-Oh wait!
-Dialogue: 0,0:07:06.20,0:07:10.65,Default,,0,0,0,,Hey. Go boards are made of wood, so it's going to get dented if you play a stone on it.
-Dialogue: 0,0:07:11.16,0:07:14.76,Default,,0,0,0,,It's really valuable, so please don't do it again.
-Dialogue: 0,0:07:16.45,0:07:17.51,Default,,0,0,0,,Okay. I'm sorry.
-Dialogue: 0,0:07:19.48,0:07:20.66,Default,,0,0,0,,But...
-Dialogue: 0,0:07:20.96,0:07:23.57,Default,,0,0,0,,A Go board that Honinbou Shuusaku used?
-Dialogue: 0,0:07:25.01,0:07:26.55,Default,,0,0,0,,You're selling this, too?
-Dialogue: 0,0:07:27.21,0:07:30.72,Default,,0,0,0,,1,000... 10,000... 6,000,000!?
-Dialogue: 0,0:07:31.74,0:07:35.84,Default,,0,0,0,,That's a treasure that we got from an antique shop just the other day.
-Dialogue: 0,0:07:36.10,0:07:41.73,Default,,0,0,0,,Master Shuusaku used this board when he went to Takamatsu to tutor Go.
-Dialogue: 0,0:07:42.67,0:07:43.99,Default,,0,0,0,,You went to Takamatsu?
-Dialogue: 0,0:07:44.60,0:07:47.47,Default,,0,0,0,,I went to all sorts of places with Torajirou.
-Dialogue: 0,0:07:47.98,0:07:53.38,Default,,0,0,0,,This is something that got stored there after Master Shuusaku signed it.
-Dialogue: 0,0:07:53.98,0:07:55.05,Default,,0,0,0,,Gokiso the pro!?
-Dialogue: 0,0:07:55.95,0:07:59.56,Default,,0,0,0,,Signed? In Takamatsu? Torajirou?
-Dialogue: 0,0:08:03.41,0:08:05.99,Default,,0,0,0,,Hikaru! That's not Torajirou's writing.
-Dialogue: 0,0:08:06.90,0:08:07.71,Thinking,,0,0,0,,Then...
-Dialogue: 0,0:08:08.15,0:08:09.13,Default,,0,0,0,,It's a fake!?
-Dialogue: 0,0:08:10.53,0:08:15.63,Default,,0,0,0,,You again!? It's the real thing! Go away!
-Dialogue: 0,0:08:17.41,0:08:18.82,Default,,0,0,0,,S-Sir!
-Dialogue: 0,0:08:19.94,0:08:21.35,Default,,0,0,0,,How dare you lie like that!?
-Dialogue: 0,0:08:22.25,0:08:24.37,Default,,0,0,0,,That's not Shuusaku's writing!
-Dialogue: 0,0:08:24.55,0:08:27.02,Default,,0,0,0,,This is the real thing. There's no doubt about it.
-Dialogue: 0,0:08:27.39,0:08:30.96,Default,,0,0,0,,See! Even a pro says so!
-Dialogue: 0,0:08:31.50,0:08:33.83,Default,,0,0,0,,Why is a pro saying such a lie!?
-Dialogue: 0,0:08:34.76,0:08:37.27,Default,,0,0,0,,Oh! You must be the one that wrote this on the board!
-Dialogue: 0,0:08:38.84,0:08:42.02,Default,,0,0,0,,H-How dare you say that to Mr. Gokiso!
-Dialogue: 0,0:08:42.11,0:08:44.36,Default,,0,0,0,,What's the problem this time?
-Dialogue: 0,0:08:44.84,0:08:48.23,Default,,0,0,0,,How dare you slander Torajirou's name with a fake signature!
-Dialogue: 0,0:08:48.66,0:08:51.09,Default,,0,0,0,,How dare... umm... what?
-Dialogue: 0,0:08:51.20,0:08:52.34,Default,,0,0,0,,So what is it?
-Dialogue: 0,0:08:52.86,0:08:53.50,Default,,0,0,0,,What is it?
-Dialogue: 0,0:08:56.82,0:09:00.79,Default,,0,0,0,,Mr. Gokiso, your tutoring game is about to start, please come this way.
-Dialogue: 0,0:09:02.05,0:09:05.29,Default,,0,0,0,,Like anyone's going to pay attention to what a kid says.
-Dialogue: 0,0:09:10.85,0:09:13.84,Default,,0,0,0,,Fake... you can tell?
-Dialogue: 0,0:09:13.95,0:09:16.24,Default,,0,0,0,,Yup. There both lying.
-Dialogue: 0,0:09:16.47,0:09:18.78,Default,,0,0,0,,Those other boards aren't Kaya either.
-Dialogue: 0,0:09:19.15,0:09:20.27,Default,,0,0,0,,I knew it.
+Dialogue: 0,0:05:40.26,0:05:42.90,Default,,0,0,0,,That one's on special for just 200,000!
+Dialogue: 0,0:05:43.05,0:05:46.27,Default,,0,0,0,,It's made out of the best domestic grown Kaya there is!
+Dialogue: 0,0:05:46.50,0:05:48.51,Default,,0,0,0,,Kaya!? This is Kaya!?
+Dialogue: 0,0:05:49.62,0:05:53.30,Default,,0,0,0,,This isn't Kaya. It looks like it, but it's not.
+Dialogue: 0,0:05:53.61,0:05:55.09,Thinking,,0,0,0,,Sai, what's Kaya?
+Dialogue: 0,0:05:55.67,0:05:57.44,Default,,0,0,0,,It's a wood used to make Go boards.
+Dialogue: 0,0:05:57.96,0:05:59.94,Default,,0,0,0,,Your grandfather's board is made of Kaya.
+Dialogue: 0,0:06:00.53,0:06:02.17,Default,,0,0,0,,All good boards are made of Kaya.
+Dialogue: 0,0:06:02.66,0:06:03.58,Thinking,,0,0,0,,What about mine?
+Dialogue: 0,0:06:03.92,0:06:05.06,Default,,0,0,0,,That's Katsura.
+Dialogue: 0,0:06:05.18,0:06:06.01,Thinking,,0,0,0,,Then...
+Dialogue: 0,0:06:06.31,0:06:08.71,Default,,0,0,0,,This isn't Kaya!?
+Dialogue: 0,0:06:09.89,0:06:12.15,Default,,0,0,0,,Hey! Stop making up stuff to ruin my business!
+Dialogue: 0,0:06:12.85,0:06:15.30,Default,,0,0,0,,Who's causing the trouble over here?
+Dialogue: 0,0:06:16.17,0:06:18.44,Default,,0,0,0,,Don't get in the way of his business.
+Dialogue: 0,0:06:18.70,0:06:20.45,Default,,0,0,0,,I'm not!
+Dialogue: 0,0:06:20.58,0:06:23.23,Default,,0,0,0,,Hikaru, try placing a stone on it.
+Dialogue: 0,0:06:26.47,0:06:28.78,Default,,0,0,0,,AHH! What are you doing!?
+Dialogue: 0,0:06:32.22,0:06:34.63,Default,,0,0,0,,Thought so, the sound is too dull to be Kaya.
+Dialogue: 0,0:06:34.63,0:06:35.43,Thinking,,0,0,0,,Then...
+Dialogue: 0,0:06:35.43,0:06:38.78,Default,,0,0,0,,Ahh! He played a stone on something we're selling!
+Dialogue: 0,0:06:38.91,0:06:40.18,Default,,0,0,0,,You worthless brat!
+Dialogue: 0,0:06:40.69,0:06:42.13,Default,,0,0,0,,What's going on?
+Dialogue: 0,0:06:42.84,0:06:44.49,Default,,0,0,0,,Is there a problem?
+Dialogue: 0,0:06:44.74,0:06:49.47,Default,,0,0,0,,Not at all. A little child played a stone on a board we're selling, that's all.
+Dialogue: 0,0:06:49.47,0:06:50.68,Default,,0,0,0,,But it's...!
+Dialogue: 0,0:06:50.68,0:06:51.44,Default,,0,0,0,,Hey.
+Dialogue: 0,0:06:51.97,0:06:57.68,Default,,0,0,0,,We're going to make you pay for the Go board you scratched if you say anymore.
+Dialogue: 0,0:06:58.76,0:07:04.67,Default,,0,0,0,,U-Umm... I think I'll wait until I get a little better before I buy a board.
+Dialogue: 0,0:07:04.95,0:07:06.05,Default,,0,0,0,,O-Oh wait!
+Dialogue: 0,0:07:06.05,0:07:10.65,Default,,0,0,0,,Hey. Go boards are made of wood, so it's going to get dented if you play a stone on it.
+Dialogue: 0,0:07:11.08,0:07:14.61,Default,,0,0,0,,It's really valuable, so please don't do it again.
+Dialogue: 0,0:07:16.26,0:07:17.51,Default,,0,0,0,,Okay. I'm sorry.
+Dialogue: 0,0:07:19.47,0:07:20.66,Default,,0,0,0,,But...
+Dialogue: 0,0:07:20.86,0:07:23.57,Default,,0,0,0,,A Go board that Honinbou Shuusaku used?
+Dialogue: 0,0:07:24.89,0:07:26.55,Default,,0,0,0,,You're selling this, too?
+Dialogue: 0,0:07:27.07,0:07:30.72,Default,,0,0,0,,1,000... 10,000... 6,000,000!?
+Dialogue: 0,0:07:31.61,0:07:35.84,Default,,0,0,0,,That's a treasure that we got from an antique shop just the other day.
+Dialogue: 0,0:07:35.98,0:07:41.66,Default,,0,0,0,,Master Shuusaku used this board when he went to Takamatsu to tutor Go.
+Dialogue: 0,0:07:42.59,0:07:43.99,Default,,0,0,0,,You went to Takamatsu?
+Dialogue: 0,0:07:44.52,0:07:47.39,Default,,0,0,0,,I went to all sorts of places with Torajirou.
+Dialogue: 0,0:07:47.88,0:07:53.27,Default,,0,0,0,,This is something that got stored there after Master Shuusaku signed it.
+Dialogue: 0,0:07:53.87,0:07:55.05,Default,,0,0,0,,Gokiso the pro!?
+Dialogue: 0,0:07:55.88,0:07:59.54,Default,,0,0,0,,Signed? In Takamatsu? Torajirou?
+Dialogue: 0,0:08:03.28,0:08:05.99,Default,,0,0,0,,Hikaru! That's not Torajirou's writing.
+Dialogue: 0,0:08:06.82,0:08:07.71,Thinking,,0,0,0,,Then...
+Dialogue: 0,0:08:08.08,0:08:09.13,Default,,0,0,0,,It's a fake!?
+Dialogue: 0,0:08:10.36,0:08:15.57,Default,,0,0,0,,You again!? It's the real thing! Go away!
+Dialogue: 0,0:08:17.28,0:08:18.82,Default,,0,0,0,,S-Sir!
+Dialogue: 0,0:08:19.79,0:08:21.35,Default,,0,0,0,,How dare you lie like that!?
+Dialogue: 0,0:08:22.17,0:08:24.34,Default,,0,0,0,,That's not Shuusaku's writing!
+Dialogue: 0,0:08:24.45,0:08:26.95,Default,,0,0,0,,This is the real thing. There's no doubt about it.
+Dialogue: 0,0:08:27.26,0:08:30.95,Default,,0,0,0,,See! Even a pro says so!
+Dialogue: 0,0:08:31.38,0:08:33.82,Default,,0,0,0,,Why is a pro saying such a lie!?
+Dialogue: 0,0:08:34.72,0:08:37.18,Default,,0,0,0,,Oh! You must be the one that wrote this on the board!
+Dialogue: 0,0:08:38.76,0:08:42.02,Default,,0,0,0,,H-How dare you say that to Mr. Gokiso!
+Dialogue: 0,0:08:42.10,0:08:44.36,Default,,0,0,0,,What's the problem this time?
+Dialogue: 0,0:08:44.76,0:08:48.23,Default,,0,0,0,,How dare you slander Torajirou's name with a fake signature!
+Dialogue: 0,0:08:48.52,0:08:51.08,Default,,0,0,0,,How dare... umm... what?
+Dialogue: 0,0:08:51.08,0:08:52.34,Default,,0,0,0,,So what is it?
+Dialogue: 0,0:08:52.62,0:08:53.50,Default,,0,0,0,,What is it?
+Dialogue: 0,0:08:56.70,0:09:00.69,Default,,0,0,0,,Mr. Gokiso, your tutoring game is about to start, please come this way.
+Dialogue: 0,0:09:01.99,0:09:05.24,Default,,0,0,0,,Like anyone's going to pay attention to what a kid says.
+Dialogue: 0,0:09:10.75,0:09:13.80,Default,,0,0,0,,Fake... you can tell?
+Dialogue: 0,0:09:13.88,0:09:16.24,Default,,0,0,0,,Yup. There both lying.
+Dialogue: 0,0:09:16.54,0:09:18.76,Default,,0,0,0,,Those other boards aren't Kaya either.
+Dialogue: 0,0:09:19.07,0:09:20.27,Default,,0,0,0,,I knew it.
 Dialogue: 0,0:09:20.37,0:09:21.31,Default,,0,0,0,,What?
-Dialogue: 0,0:09:21.99,0:09:23.73,Default,,0,0,0,,I thought that might be the case.
+Dialogue: 0,0:09:21.91,0:09:23.73,Default,,0,0,0,,I thought that might be the case.
 Dialogue: 0,0:09:24.09,0:09:26.86,Default,,0,0,0,,That's not Kaya, that's new Kaya.
-Dialogue: 0,0:09:27.74,0:09:30.43,Default,,0,0,0,,Well, I don't know too much about it either,
-Dialogue: 0,0:09:31.26,0:09:34.76,Default,,0,0,0,,but the vendor who came until last year was a very nice person.
-Dialogue: 0,0:09:34.89,0:09:36.77,Default,,0,0,0,,He taught me a lot of things.
-Dialogue: 0,0:09:37.45,0:09:43.59,Default,,0,0,0,,New Kaya is similar to Kaya, but it's real name is spruce, and it's foreign species of wood.
-Dialogue: 0,0:09:44.11,0:09:47.50,Default,,0,0,0,,The board surface is smooth, so it's a great material for making boards.
-Dialogue: 0,0:09:47.79,0:09:49.85,Default,,0,0,0,,But Kaya is more expensive than new Kaya,
-Dialogue: 0,0:09:50.02,0:09:55.47,Default,,0,0,0,,so I hear that some immoral vendors sell Spruce under the pretense of Kaya.
-Dialogue: 0,0:09:55.61,0:09:56.76,Default,,0,0,0,,But...
-Dialogue: 0,0:09:57.31,0:09:59.25,Default,,0,0,0,,Why did you change vendors?
-Dialogue: 0,0:10:00.17,0:10:03.93,Default,,0,0,0,,Mr. Gokiso... the pro you met earlier, recommended him.
-Dialogue: 0,0:10:04.53,0:10:06.42,Default,,0,0,0,,I couldn't refuse.
-Dialogue: 0,0:10:06.55,0:10:07.28,Default,,0,0,0,,Why not?
-Dialogue: 0,0:10:08.12,0:10:12.23,Default,,0,0,0,,Events like this can't be held without the help of the pros.
-Dialogue: 0,0:10:13.27,0:10:15.97,Default,,0,0,0,,I'll keep an eye on that vendor.
-Dialogue: 0,0:10:16.48,0:10:17.98,Default,,0,0,0,,Sorry about all that.
-Dialogue: 0,0:10:20.05,0:10:24.39,Default,,0,0,0,,Oh well. We came all this way to enjoy ourselves. and this happens. Doesn't it suck, Sai?
-Dialogue: 0,0:10:25.37,0:10:26.74,Default,,0,0,0,,Wanna go watch another game?
-Dialogue: 0,0:10:29.63,0:10:30.86,Default,,0,0,0,,Oh, he's angry. He's angry.
-Dialogue: 0,0:10:31.71,0:10:32.47,Default,,0,0,0,,Sai?
-Dialogue: 0,0:10:33.43,0:10:35.16,Default,,0,0,0,,Hikaru, over there.
-Dialogue: 0,0:10:36.28,0:10:38.87,Default,,0,0,0,,The man from earlier is playing a tutoring game.
-Dialogue: 0,0:10:40.07,0:10:43.10,Default,,0,0,0,,Oh, he's playing the person who ran away without buying the board!
-Dialogue: 0,0:10:43.58,0:10:46.93,Default,,0,0,0,,Look, look. You're falling apart everywhere.
-Dialogue: 0,0:10:47.82,0:10:49.80,Default,,0,0,0,,The upper-left's died too...
-Dialogue: 0,0:10:50.67,0:10:55.32,Default,,0,0,0,,I guess you just can't improve without playing on a good board.
-Dialogue: 0,0:10:57.01,0:10:58.62,Default,,0,0,0,,What a horrible game.
-Dialogue: 0,0:10:59.09,0:11:03.01,Default,,0,0,0,,Yes. The stronger player is just picking on the weaker.
-Dialogue: 0,0:11:03.59,0:11:05.32,Default,,0,0,0,,This is not a tutoring game.
-Dialogue: 0,0:11:06.55,0:11:08.97,Default,,0,0,0,,I suppose I can't do any more.
-Dialogue: 0,0:11:09.21,0:11:10.69,Default,,0,0,0,,You still have a chance!
-Dialogue: 0,0:11:12.03,0:11:15.17,Default,,0,0,0,,You still have a chance, mister. Good luck.
-Dialogue: 0,0:11:15.91,0:11:18.35,Default,,0,0,0,,What can you do at this point?
-Dialogue: 0,0:11:18.96,0:11:21.62,Default,,0,0,0,,It's fine with me, would you like to continue?
-Dialogue: 0,0:11:22.28,0:11:24.43,Default,,0,0,0,,I've had enough. No thanks.
-Dialogue: 0,0:11:25.36,0:11:28.35,Default,,0,0,0,,The child behind you says you can come back.
-Dialogue: 0,0:11:29.13,0:11:30.78,Default,,0,0,0,,Then why don't you play?
-Dialogue: 0,0:11:32.19,0:11:36.30,Default,,0,0,0,,You did say all that, why don't you play?
-Dialogue: 0,0:11:37.38,0:11:38.82,Default,,0,0,0,,Hikaru, sit down.
-Dialogue: 0,0:11:39.27,0:11:42.49,Thinking,,0,0,0,,Do you realize that he's a pro?
-Dialogue: 0,0:11:42.67,0:11:44.03,Default,,0,0,0,,I can do it.
-Dialogue: 0,0:11:44.68,0:11:48.45,Default,,0,0,0,,Tell him to take Torajirou's board off the display if you win.
-Dialogue: 0,0:11:48.70,0:11:49.43,Thinking,,0,0,0,,Okay.
-Dialogue: 0,0:11:51.90,0:11:54.21,Default,,0,0,0,,Hey, you're really going to play?
-Dialogue: 0,0:11:54.81,0:11:59.30,Default,,0,0,0,,If I win this game, take Shuusaku's board off the display.
-Dialogue: 0,0:12:00.59,0:12:02.65,Default,,0,0,0,,Give it your best shot.
-Dialogue: 0,0:12:03.22,0:12:04.41,Default,,0,0,0,,It's a promise.
-Dialogue: 0,0:12:04.88,0:12:08.52,Thinking,,0,0,0,,But won't he raise a fuss later if I let Sai play?
-Dialogue: 0,0:12:09.14,0:12:12.16,Default,,0,0,0,,He thinks your just a child.
-Dialogue: 0,0:12:12.94,0:12:16.89,Default,,0,0,0,,If he is to lose to you, he'll be too ashamed to tell anyone about it.
-Dialogue: 0,0:12:17.28,0:12:18.84,Thinking,,0,0,0,,If that's the case...
-Dialogue: 0,0:12:19.22,0:12:21.03,Thinking,,0,0,0,,Go, Sai!
-Dialogue: 0,0:12:22.12,0:12:22.88,Default,,0,0,0,,Okay!
-Dialogue: 0,0:12:23.54,0:12:26.20,Default,,0,0,0,,14-4 approach by one space!
-Dialogue: 0,0:12:30.68,0:12:32.66,Default,,0,0,0,,Are there any questions?
-Dialogue: 0,0:12:33.83,0:12:35.88,Default,,0,0,0,,Mr. Kurata, it's almost time.
-Dialogue: 0,0:12:36.52,0:12:39.91,Default,,0,0,0,,Well then, I guess this is a good place to end the lecture.
-Dialogue: 0,0:12:40.98,0:12:43.29,Default,,0,0,0,,Thank you, thank you.
-Dialogue: 0,0:12:44.48,0:12:47.18,Default,,0,0,0,,Mr. Kurata, may I have your autograph?
-Dialogue: 0,0:12:47.71,0:12:48.54,Default,,0,0,0,,Sure thing!
-Dialogue: 0,0:12:49.25,0:12:51.77,Default,,0,0,0,,I hope you get a title this year.
-Dialogue: 0,0:12:51.99,0:12:54.06,Default,,0,0,0,,Yeah, I'd like a title.
-Dialogue: 0,0:12:54.14,0:12:55.92,Default,,0,0,0,,Meijin might be nice.
-Dialogue: 0,0:12:56.36,0:12:57.17,Default,,0,0,0,,Might as well write it.
-Dialogue: 0,0:12:57.50,0:12:58.89,Default,,0,0,0,,Meijin, most of the way.
+Dialogue: 0,0:09:27.65,0:09:30.43,Default,,0,0,0,,Well, I don't know too much about it either,
+Dialogue: 0,0:09:31.16,0:09:34.71,Default,,0,0,0,,but the vendor who came until last year was a very nice person.
+Dialogue: 0,0:09:34.83,0:09:36.77,Default,,0,0,0,,He taught me a lot of things.
+Dialogue: 0,0:09:37.34,0:09:43.59,Default,,0,0,0,,New Kaya is similar to Kaya, but it's real name is spruce, and it's foreign species of wood.
+Dialogue: 0,0:09:43.99,0:09:47.44,Default,,0,0,0,,The board surface is smooth, so it's a great material for making boards.
+Dialogue: 0,0:09:47.72,0:09:49.93,Default,,0,0,0,,But Kaya is more expensive than new Kaya,
+Dialogue: 0,0:09:49.93,0:09:55.40,Default,,0,0,0,,so I hear that some immoral vendors sell Spruce under the pretense of Kaya.
+Dialogue: 0,0:09:55.53,0:09:56.76,Default,,0,0,0,,But...
+Dialogue: 0,0:09:57.19,0:09:59.25,Default,,0,0,0,,Why did you change vendors?
+Dialogue: 0,0:10:00.06,0:10:03.93,Default,,0,0,0,,Mr. Gokiso... the pro you met earlier, recommended him.
+Dialogue: 0,0:10:04.42,0:10:06.42,Default,,0,0,0,,I couldn't refuse.
+Dialogue: 0,0:10:06.50,0:10:07.28,Default,,0,0,0,,Why not?
+Dialogue: 0,0:10:08.04,0:10:12.13,Default,,0,0,0,,Events like this can't be held without the help of the pros.
+Dialogue: 0,0:10:13.17,0:10:15.94,Default,,0,0,0,,I'll keep an eye on that vendor.
+Dialogue: 0,0:10:16.38,0:10:17.96,Default,,0,0,0,,Sorry about all that.
+Dialogue: 0,0:10:19.92,0:10:24.39,Default,,0,0,0,,Oh well. We came all this way to enjoy ourselves. and this happens. Doesn't it suck, Sai?
+Dialogue: 0,0:10:25.28,0:10:26.74,Default,,0,0,0,,Wanna go watch another game?
+Dialogue: 0,0:10:29.50,0:10:30.90,Default,,0,0,0,,Oh, he's angry. He's angry.
+Dialogue: 0,0:10:31.63,0:10:32.44,Default,,0,0,0,,Sai?
+Dialogue: 0,0:10:33.33,0:10:35.02,Default,,0,0,0,,Hikaru, over there.
+Dialogue: 0,0:10:36.12,0:10:38.77,Default,,0,0,0,,The man from earlier is playing a tutoring game.
+Dialogue: 0,0:10:39.99,0:10:42.95,Default,,0,0,0,,Oh, he's playing the person who ran away without buying the board!
+Dialogue: 0,0:10:43.48,0:10:46.82,Default,,0,0,0,,Look, look. You're falling apart everywhere.
+Dialogue: 0,0:10:47.68,0:10:49.80,Default,,0,0,0,,The upper-left's died too...
+Dialogue: 0,0:10:50.60,0:10:55.25,Default,,0,0,0,,I guess you just can't improve without playing on a good board.
+Dialogue: 0,0:10:56.88,0:10:58.56,Default,,0,0,0,,What a horrible game.
+Dialogue: 0,0:10:59.09,0:11:02.90,Default,,0,0,0,,Yes. The stronger player is just picking on the weaker.
+Dialogue: 0,0:11:03.50,0:11:05.32,Default,,0,0,0,,This is not a tutoring game.
+Dialogue: 0,0:11:06.44,0:11:08.93,Default,,0,0,0,,I suppose I can't do any more.
+Dialogue: 0,0:11:09.23,0:11:10.69,Default,,0,0,0,,You still have a chance!
+Dialogue: 0,0:11:11.87,0:11:15.17,Default,,0,0,0,,You still have a chance, mister. Good luck.
+Dialogue: 0,0:11:15.80,0:11:18.35,Default,,0,0,0,,What can you do at this point?
+Dialogue: 0,0:11:18.92,0:11:21.57,Default,,0,0,0,,It's fine with me, would you like to continue?
+Dialogue: 0,0:11:21.83,0:11:24.43,Default,,0,0,0,,I've had enough. No thanks.
+Dialogue: 0,0:11:25.30,0:11:28.32,Default,,0,0,0,,The child behind you says you can come back.
+Dialogue: 0,0:11:29.01,0:11:30.71,Default,,0,0,0,,Then why don't you play?
+Dialogue: 0,0:11:32.07,0:11:36.23,Default,,0,0,0,,You did say all that, why don't you play?
+Dialogue: 0,0:11:37.29,0:11:38.81,Default,,0,0,0,,Hikaru, sit down.
+Dialogue: 0,0:11:39.17,0:11:42.40,Thinking,,0,0,0,,Do you realize that he's a pro?
+Dialogue: 0,0:11:42.64,0:11:44.03,Default,,0,0,0,,I can do it.
+Dialogue: 0,0:11:44.73,0:11:48.45,Default,,0,0,0,,Tell him to take Torajirou's board off the display if you win.
+Dialogue: 0,0:11:48.62,0:11:49.43,Thinking,,0,0,0,,Okay.
+Dialogue: 0,0:11:51.71,0:11:54.21,Default,,0,0,0,,Hey, you're really going to play?
+Dialogue: 0,0:11:54.81,0:11:59.29,Default,,0,0,0,,If I win this game, take Shuusaku's board off the display.
+Dialogue: 0,0:12:00.52,0:12:02.65,Default,,0,0,0,,Give it your best shot.
+Dialogue: 0,0:12:03.14,0:12:04.41,Default,,0,0,0,,It's a promise.
+Dialogue: 0,0:12:04.74,0:12:08.52,Thinking,,0,0,0,,But won't he raise a fuss later if I let Sai play?
+Dialogue: 0,0:12:09.16,0:12:12.16,Default,,0,0,0,,He thinks your just a child.
+Dialogue: 0,0:12:12.81,0:12:16.83,Default,,0,0,0,,If he is to lose to you, he'll be too ashamed to tell anyone about it.
+Dialogue: 0,0:12:17.20,0:12:18.84,Thinking,,0,0,0,,If that's the case...
+Dialogue: 0,0:12:19.10,0:12:21.03,Thinking,,0,0,0,,Go, Sai!
+Dialogue: 0,0:12:22.10,0:12:22.88,Default,,0,0,0,,Okay!
+Dialogue: 0,0:12:23.47,0:12:26.20,Default,,0,0,0,,14-4 approach by one space!
+Dialogue: 0,0:12:30.60,0:12:32.66,Default,,0,0,0,,Are there any questions?
+Dialogue: 0,0:12:33.68,0:12:35.88,Default,,0,0,0,,Mr. Kurata, it's almost time.
+Dialogue: 0,0:12:36.42,0:12:39.91,Default,,0,0,0,,Well then, I guess this is a good place to end the lecture.
+Dialogue: 0,0:12:40.81,0:12:43.29,Default,,0,0,0,,Thank you, thank you.
+Dialogue: 0,0:12:44.39,0:12:47.18,Default,,0,0,0,,Mr. Kurata, may I have your autograph?
+Dialogue: 0,0:12:47.64,0:12:48.54,Default,,0,0,0,,Sure thing!
+Dialogue: 0,0:12:49.15,0:12:51.77,Default,,0,0,0,,I hope you get a title this year.
+Dialogue: 0,0:12:51.87,0:12:54.11,Default,,0,0,0,,Yeah, I'd like a title.
+Dialogue: 0,0:12:54.11,0:12:56.09,Default,,0,0,0,,Meijin might be nice.
+Dialogue: 0,0:12:56.26,0:12:57.43,Default,,0,0,0,,Might as well write it.
+Dialogue: 0,0:12:57.43,0:12:58.96,Default,,0,0,0,,Meijin, most of the way.
 Dialogue: 0,0:12:59.38,0:13:03.76,Note,,0,0,0,,{\an5\pos(220,310)\frz286}Atsushi
 Dialogue: 0,0:12:59.38,0:13:03.76,Note,,0,0,0,,{\an5\pos(362,270)\frz263}Kurata
 Dialogue: 0,0:12:59.38,0:13:03.76,Note,,0,0,0,,{\an5\pos(487,310)\frz248}Meijin
 Dialogue: 0,0:12:59.38,0:13:03.76,Note,,0,0,0,,{\an5\pos(530,340)\frz241}Most of the way
-Dialogue: 0,0:13:01.19,0:13:04.00,Default,,0,0,0,,Can't show this to Touya Meijin.
-Dialogue: 0,0:13:04.25,0:13:06.48,Default,,0,0,0,,Sir, may I have an autograph, too?
-Dialogue: 0,0:13:06.91,0:13:08.90,Default,,0,0,0,,Okay, let's do Kisei for this one.
-Dialogue: 0,0:13:09.67,0:13:13.37,Default,,0,0,0,,Soon to be Kisei, Kurata Atsushi.
-Dialogue: 0,0:13:13.80,0:13:16.25,Default,,0,0,0,,Then I'll take one with Honinbou, please!
-Dialogue: 0,0:13:16.67,0:13:17.53,Default,,0,0,0,,Sure thing!
-Dialogue: 0,0:13:18.18,0:13:21.05,Default,,0,0,0,,Eventually Honinbou, Kurata Atsushi.
-Dialogue: 0,0:13:21.19,0:13:25.08,Default,,0,0,0,,Sounds nice. I wouldn't be surprised if it really happened.
+Dialogue: 0,0:13:01.12,0:13:04.00,Default,,0,0,0,,Can't show this to Touya Meijin.
+Dialogue: 0,0:13:04.16,0:13:06.48,Default,,0,0,0,,Sir, may I have an autograph, too?
+Dialogue: 0,0:13:06.81,0:13:08.90,Default,,0,0,0,,Okay, let's do Kisei for this one.
+Dialogue: 0,0:13:09.56,0:13:13.37,Default,,0,0,0,,Soon to be Kisei, Kurata Atsushi.
+Dialogue: 0,0:13:13.64,0:13:16.25,Default,,0,0,0,,Then I'll take one with Honinbou, please!
+Dialogue: 0,0:13:16.54,0:13:17.53,Default,,0,0,0,,Sure thing!
+Dialogue: 0,0:13:18.09,0:13:21.05,Default,,0,0,0,,Eventually Honinbou, Kurata Atsushi.
+Dialogue: 0,0:13:21.13,0:13:25.08,Default,,0,0,0,,Sounds nice. I wouldn't be surprised if it really happened.
 Dialogue: 0,0:13:25.14,0:13:30.80,Default,,0,0,0,,I'm scheduled for a tutoring game with you after this. Take it easy on me.
-Dialogue: 0,0:13:30.93,0:13:31.53,Default,,0,0,0,,Of course.
+Dialogue: 0,0:13:31.00,0:13:31.53,Default,,0,0,0,,Of course.
 Dialogue: 0,0:13:31.60,0:13:34.70,Default,,0,0,0,,I should have taken Mr. Kurata, too.
-Dialogue: 0,0:13:35.40,0:13:36.96,Default,,0,0,0,,Did something happen?
-Dialogue: 0,0:13:37.76,0:13:41.45,Default,,0,0,0,,I just had a tutoring game with Mr. Gokiso.
-Dialogue: 0,0:13:41.70,0:13:43.19,Default,,0,0,0,,And what did Mr. Gokiso do?
-Dialogue: 0,0:13:43.53,0:13:44.72,Default,,0,0,0,,It was horrible.
-Dialogue: 0,0:13:44.82,0:13:45.76,Default,,0,0,0,,Horrible?
-Dialogue: 0,0:13:46.53,0:13:49.62,Default,,0,0,0,,All his moves seemed to be traps, and he just pummeled me.
-Dialogue: 0,0:13:50.20,0:13:54.04,Default,,0,0,0,,That's horrible. I wonder if something bad had happened to him.
-Dialogue: 0,0:13:54.62,0:14:01.24,Default,,0,0,0,,From what I hear, Mr. Gokiso's stocks went down and he's in a bit of trouble.
-Dialogue: 0,0:14:01.35,0:14:05.84,Default,,0,0,0,,He shouldn't be taking his anger out on us over something like that.
-Dialogue: 0,0:14:06.55,0:14:09.69,Default,,0,0,0,,I resigned quickly, and left.
-Dialogue: 0,0:14:10.93,0:14:15.05,Default,,0,0,0,,Though the child behind me said I could still make a come back.
-Dialogue: 0,0:14:16.95,0:14:20.69,Default,,0,0,0,,It's impossible to make a come back against a pro after you fall behind.
-Dialogue: 0,0:14:21.11,0:14:22.27,Default,,0,0,0,,That's what I thought.
-Dialogue: 0,0:14:22.92,0:14:27.91,Default,,0,0,0,,If he could do that, it would mean that he's stronger than a pro.
-Dialogue: 0,0:14:28.35,0:14:29.32,Default,,0,0,0,,Oh, hey you!
-Dialogue: 0,0:14:30.29,0:14:31.91,Default,,0,0,0,,The tutoring game from earlier.
-Dialogue: 0,0:14:31.98,0:14:36.07,Default,,0,0,0,,That child continued playing, and it's turned around!
-Dialogue: 0,0:14:36.22,0:14:36.90,Default,,0,0,0,,What!?
-Dialogue: 0,0:14:41.49,0:14:44.16,Thinking,,0,0,0,,It's over. This is the end.
-Dialogue: 0,0:14:45.11,0:14:46.28,Thinking,,0,0,0,,Sai is incredible.
-Dialogue: 0,0:14:47.39,0:14:50.04,Thinking,,0,0,0,,He plays moves that I would never have imagined.
-Dialogue: 0,0:14:50.78,0:14:56.60,Default,,0,0,0,,How... how can it be... it's got to be because I underestimated him. It has to be.
-Dialogue: 0,0:14:57.17,0:14:57.90,Default,,0,0,0,,Let's see.
-Dialogue: 0,0:14:58.98,0:14:59.86,Default,,0,0,0,,Is this it?
-Dialogue: 0,0:15:00.74,0:15:02.19,Default,,0,0,0,,Kurata-kun!
-Dialogue: 0,0:15:03.61,0:15:05.99,Default,,0,0,0,,Hey! What are you doing!?
-Dialogue: 0,0:15:06.51,0:15:10.08,Default,,0,0,0,,Oh, I played an embarrassing game.
-Dialogue: 0,0:15:10.52,0:15:13.47,Default,,0,0,0,,You'd laugh over it.
+Dialogue: 0,0:13:35.20,0:13:36.96,Default,,0,0,0,,Did something happen?
+Dialogue: 0,0:13:37.64,0:13:41.45,Default,,0,0,0,,I just had a tutoring game with Mr. Gokiso.
+Dialogue: 0,0:13:41.62,0:13:43.19,Default,,0,0,0,,And what did Mr. Gokiso do?
+Dialogue: 0,0:13:43.45,0:13:44.72,Default,,0,0,0,,It was horrible.
+Dialogue: 0,0:13:44.72,0:13:45.76,Default,,0,0,0,,Horrible?
+Dialogue: 0,0:13:46.42,0:13:49.62,Default,,0,0,0,,All his moves seemed to be traps, and he just pummeled me.
+Dialogue: 0,0:13:50.12,0:13:54.04,Default,,0,0,0,,That's horrible. I wonder if something bad had happened to him.
+Dialogue: 0,0:13:54.50,0:14:01.12,Default,,0,0,0,,From what I hear, Mr. Gokiso's stocks went down and he's in a bit of trouble.
+Dialogue: 0,0:14:01.27,0:14:05.71,Default,,0,0,0,,He shouldn't be taking his anger out on us over something like that.
+Dialogue: 0,0:14:06.45,0:14:09.69,Default,,0,0,0,,I resigned quickly, and left.
+Dialogue: 0,0:14:10.79,0:14:14.97,Default,,0,0,0,,Though the child behind me said I could still make a come back.
+Dialogue: 0,0:14:16.85,0:14:20.69,Default,,0,0,0,,It's impossible to make a come back against a pro after you fall behind.
+Dialogue: 0,0:14:21.03,0:14:22.27,Default,,0,0,0,,That's what I thought.
+Dialogue: 0,0:14:22.84,0:14:27.75,Default,,0,0,0,,If he could do that, it would mean that he's stronger than a pro.
+Dialogue: 0,0:14:27.75,0:14:29.32,Default,,0,0,0,,Oh, hey you!
+Dialogue: 0,0:14:30.19,0:14:31.95,Default,,0,0,0,,The tutoring game from earlier.
+Dialogue: 0,0:14:31.95,0:14:36.03,Default,,0,0,0,,That child continued playing, and it's turned around!
+Dialogue: 0,0:14:36.16,0:14:36.90,Default,,0,0,0,,What!?
+Dialogue: 0,0:14:41.53,0:14:44.16,Thinking,,0,0,0,,It's over. This is the end.
+Dialogue: 0,0:14:45.02,0:14:46.28,Thinking,,0,0,0,,Sai is incredible.
+Dialogue: 0,0:14:47.31,0:14:50.04,Thinking,,0,0,0,,He plays moves that I would never have imagined.
+Dialogue: 0,0:14:50.63,0:14:56.47,Default,,0,0,0,,How... how can it be... it's got to be because I underestimated him. It has to be.
+Dialogue: 0,0:14:56.47,0:14:57.87,Default,,0,0,0,,Let's see.
+Dialogue: 0,0:14:58.91,0:14:59.86,Default,,0,0,0,,Is this it?
+Dialogue: 0,0:15:00.64,0:15:02.19,Default,,0,0,0,,Kurata-kun!
+Dialogue: 0,0:15:03.47,0:15:05.99,Default,,0,0,0,,Hey! What are you doing!?
+Dialogue: 0,0:15:06.39,0:15:10.08,Default,,0,0,0,,Oh, I played an embarrassing game.
+Dialogue: 0,0:15:10.43,0:15:13.47,Default,,0,0,0,,You'd laugh over it.
 Dialogue: 0,0:15:13.81,0:15:17.51,Default,,0,0,0,,What? It was funny? I would've liked to have seen it.
-Dialogue: 0,0:15:18.47,0:15:19.40,Default,,0,0,0,,Excuse me.
-Dialogue: 0,0:15:21.12,0:15:21.80,Default,,0,0,0,,The promise.
-Dialogue: 0,0:15:21.86,0:15:24.10,Default,,0,0,0,,Hey! Don't forget about your promise!
-Dialogue: 0,0:15:24.34,0:15:24.95,Default,,0,0,0,,Hey, hey.
-Dialogue: 0,0:15:25.69,0:15:27.32,Default,,0,0,0,,Did you win?
-Dialogue: 0,0:15:27.62,0:15:29.01,Default,,0,0,0,,Y-Yeah.
-Dialogue: 0,0:15:29.77,0:15:32.23,Thinking,,0,0,0,,It was Sai who won, not me.
-Dialogue: 0,0:15:32.79,0:15:36.87,Default,,0,0,0,,From what I hear, you managed to come back from behind.
-Dialogue: 0,0:15:37.36,0:15:39.92,Default,,0,0,0,,Is it true? It can't be. Is it?
-Dialogue: 0,0:15:40.50,0:15:44.11,Default,,0,0,0,,He was a pro. If you could do that...
-Dialogue: 0,0:15:46.68,0:15:48.85,Default,,0,0,0,,Hey, have I seen you before?
-Dialogue: 0,0:15:49.64,0:15:50.83,Default,,0,0,0,,Are you a pro?
-Dialogue: 0,0:15:51.74,0:15:54.07,Default,,0,0,0,,I'm Shindou. I just became a pro this year.
-Dialogue: 0,0:15:55.75,0:15:58.84,Default,,0,0,0,,Oh I know! I saw you on Weekly Go!
-Dialogue: 0,0:15:58.97,0:16:02.17,Default,,0,0,0,,Now I get it! You're a new first dan!
-Dialogue: 0,0:16:02.40,0:16:03.88,Thinking,,0,0,0,,What's with this guy?
-Dialogue: 0,0:16:05.96,0:16:10.48,Default,,0,0,0,,Say, what was that promise you mentioned earlier?
-Dialogue: 0,0:16:10.82,0:16:11.91,Default,,0,0,0,,That's...
-Dialogue: 0,0:16:14.35,0:16:16.94,Default,,0,0,0,,Welcome!... Oh! Mr. Kurata!
-Dialogue: 0,0:16:17.09,0:16:24.44,Default,,0,0,0,,Sir, we don't have any goods worthy of you, today.
-Dialogue: 0,0:16:24.99,0:16:28.42,Default,,0,0,0,,Kaya, 200,000. What's this price tag?
-Dialogue: 0,0:16:29.01,0:16:29.83,Default,,0,0,0,,T-This is... umm... ahh...
-Dialogue: 0,0:16:29.90,0:16:32.79,Default,,0,0,0,,I mean... this is...
-Dialogue: 0,0:16:32.96,0:16:35.14,Default,,0,0,0,,You mean this is?
-Dialogue: 0,0:16:36.37,0:16:41.16,Default,,0,0,0,,I misplaced the tag! This is the real one.
-Dialogue: 0,0:16:41.32,0:16:44.96,Default,,0,0,0,,Thank you for taking the time to tell me!
-Dialogue: 0,0:16:45.32,0:16:47.09,Default,,0,0,0,,Sir, is there anything else?
-Dialogue: 0,0:16:47.46,0:16:49.82,Default,,0,0,0,,Haven't you sold a few already?
-Dialogue: 0,0:16:49.82,0:16:51.82,Default,,0,0,0,,U-Umm ahh...
-Dialogue: 0,0:16:52.18,0:16:55.49,Default,,0,0,0,,Please show me a list of people who have bought from you.
-Dialogue: 0,0:16:56.01,0:16:57.22,Default,,0,0,0,,Yes, please.
-Dialogue: 0,0:16:58.40,0:16:59.97,Default,,0,0,0,,A list?
-Dialogue: 0,0:17:00.31,0:17:01.94,Default,,0,0,0,,And...
-Dialogue: 0,0:17:03.33,0:17:04.20,Default,,0,0,0,,Is this it?
-Dialogue: 0,0:17:04.66,0:17:08.19,Default,,0,0,0,,But I know nothing about Shuusaku's writing.
-Dialogue: 0,0:17:08.50,0:17:09.11,Default,,0,0,0,,This is?
-Dialogue: 0,0:17:09.49,0:17:10.20,Default,,0,0,0,,A fake!
-Dialogue: 0,0:17:10.31,0:17:11.27,Default,,0,0,0,,A fake!
-Dialogue: 0,0:17:11.74,0:17:12.38,Default,,0,0,0,,For sure?
-Dialogue: 0,0:17:12.50,0:17:13.35,Default,,0,0,0,,For sure!
-Dialogue: 0,0:17:13.47,0:17:14.20,Default,,0,0,0,,For sure!
-Dialogue: 0,0:17:14.34,0:17:17.09,Default,,0,0,0,,Yes, I said it's for sure, so it's for sure!
-Dialogue: 0,0:17:19.08,0:17:20.42,Default,,0,0,0,,Because you said so?
-Dialogue: 0,0:17:20.58,0:17:21.25,Default,,0,0,0,,Yes!
-Dialogue: 0,0:17:22.51,0:17:23.99,Default,,0,0,0,,Hey, can you do something about this?
-Dialogue: 0,0:17:25.56,0:17:28.26,Default,,0,0,0,,Please take Shuusaku's board off the display.
-Dialogue: 0,0:17:29.18,0:17:31.34,Default,,0,0,0,,I'd like to talk to you in private.
-Dialogue: 0,0:17:35.05,0:17:37.50,Default,,0,0,0,,Because you said so, huh?
-Dialogue: 0,0:17:40.49,0:17:44.62,Default,,0,0,0,,Just so that you know, don't be too proud of beating Mr. Gokiso.
-Dialogue: 0,0:17:44.90,0:17:50.76,Default,,0,0,0,,It would be incredible if you beat me, but he's a pro who's over the hill.
-Dialogue: 0,0:17:51.97,0:17:53.99,Default,,0,0,0,,Who is he?
+Dialogue: 0,0:15:18.39,0:15:19.40,Default,,0,0,0,,Excuse me.
+Dialogue: 0,0:15:21.05,0:15:21.77,Default,,0,0,0,,The promise.
+Dialogue: 0,0:15:21.77,0:15:23.98,Default,,0,0,0,,Hey! Don't forget about your promise!
+Dialogue: 0,0:15:24.27,0:15:24.95,Default,,0,0,0,,Hey, hey.
+Dialogue: 0,0:15:25.62,0:15:27.32,Default,,0,0,0,,Did you win?
+Dialogue: 0,0:15:27.55,0:15:29.01,Default,,0,0,0,,Y-Yeah.
+Dialogue: 0,0:15:29.66,0:15:32.23,Thinking,,0,0,0,,It was Sai who won, not me.
+Dialogue: 0,0:15:32.66,0:15:36.87,Default,,0,0,0,,From what I hear, you managed to come back from behind.
+Dialogue: 0,0:15:37.26,0:15:39.92,Default,,0,0,0,,Is it true? It can't be. Is it?
+Dialogue: 0,0:15:40.41,0:15:44.11,Default,,0,0,0,,He was a pro. If you could do that...
+Dialogue: 0,0:15:46.59,0:15:48.85,Default,,0,0,0,,Hey, have I seen you before?
+Dialogue: 0,0:15:49.55,0:15:50.80,Default,,0,0,0,,Are you a pro?
+Dialogue: 0,0:15:51.61,0:15:54.02,Default,,0,0,0,,I'm Shindou. I just became a pro this year.
+Dialogue: 0,0:15:55.06,0:15:58.88,Default,,0,0,0,,Oh I know! I saw you on Weekly Go!
+Dialogue: 0,0:15:58.88,0:16:02.08,Default,,0,0,0,,Now I get it! You're a new first dan!
+Dialogue: 0,0:16:02.30,0:16:03.87,Thinking,,0,0,0,,What's with this guy?
+Dialogue: 0,0:16:05.92,0:16:10.44,Default,,0,0,0,,Say, what was that promise you mentioned earlier?
+Dialogue: 0,0:16:10.74,0:16:11.94,Default,,0,0,0,,That's...
+Dialogue: 0,0:16:14.24,0:16:16.94,Default,,0,0,0,,Welcome!... Oh! Mr. Kurata!
+Dialogue: 0,0:16:17.03,0:16:24.26,Default,,0,0,0,,Sir, we don't have any goods worthy of you, today.
+Dialogue: 0,0:16:24.87,0:16:28.42,Default,,0,0,0,,Kaya, 200,000. What's this price tag?
+Dialogue: 0,0:16:28.68,0:16:30.94,Default,,0,0,0,,T-This is... umm... ahh...
+Dialogue: 0,0:16:31.23,0:16:32.79,Default,,0,0,0,,I mean... this is...
+Dialogue: 0,0:16:32.89,0:16:35.05,Default,,0,0,0,,You mean this is?
+Dialogue: 0,0:16:36.28,0:16:41.12,Default,,0,0,0,,I misplaced the tag! This is the real one.
+Dialogue: 0,0:16:41.24,0:16:44.96,Default,,0,0,0,,Thank you for taking the time to tell me!
+Dialogue: 0,0:16:45.22,0:16:47.09,Default,,0,0,0,,Sir, is there anything else?
+Dialogue: 0,0:16:47.35,0:16:49.70,Default,,0,0,0,,Haven't you sold a few already?
+Dialogue: 0,0:16:49.75,0:16:51.77,Default,,0,0,0,,U-Umm ahh...
+Dialogue: 0,0:16:52.03,0:16:55.42,Default,,0,0,0,,Please show me a list of people who have bought from you.
+Dialogue: 0,0:16:55.87,0:16:57.20,Default,,0,0,0,,Yes, please.
+Dialogue: 0,0:16:58.27,0:16:59.97,Default,,0,0,0,,A list?
+Dialogue: 0,0:17:00.24,0:17:01.74,Default,,0,0,0,,And...
+Dialogue: 0,0:17:03.21,0:17:04.20,Default,,0,0,0,,Is this it?
+Dialogue: 0,0:17:04.51,0:17:08.08,Default,,0,0,0,,But I know nothing about Shuusaku's writing.
+Dialogue: 0,0:17:08.50,0:17:09.10,Default,,0,0,0,,This is?
+Dialogue: 0,0:17:09.42,0:17:11.30,Default,,0,0,0,,A fake!
+Dialogue: 0,0:17:10.24,0:17:11.30,Default,,0,0,0,,A fake!
+Dialogue: 0,0:17:11.64,0:17:12.37,Default,,0,0,0,,For sure?
+Dialogue: 0,0:17:12.37,0:17:14.20,Default,,0,0,0,,For sure!
+Dialogue: 0,0:17:13.46,0:17:14.20,Default,,0,0,0,,For sure!
+Dialogue: 0,0:17:14.33,0:17:17.02,Default,,0,0,0,,Yes, I said it's for sure, so it's for sure!
+Dialogue: 0,0:17:18.97,0:17:20.42,Default,,0,0,0,,Because you said so?
+Dialogue: 0,0:17:20.57,0:17:21.25,Default,,0,0,0,,Yes!
+Dialogue: 0,0:17:22.40,0:17:23.99,Default,,0,0,0,,Hey, can you do something about this?
+Dialogue: 0,0:17:25.47,0:17:28.26,Default,,0,0,0,,Please take Shuusaku's board off the display.
+Dialogue: 0,0:17:29.02,0:17:31.29,Default,,0,0,0,,I'd like to talk to you in private.
+Dialogue: 0,0:17:35.08,0:17:37.50,Default,,0,0,0,,Because you said so, huh?
+Dialogue: 0,0:17:40.41,0:17:44.62,Default,,0,0,0,,Just so that you know, don't be too proud of beating Mr. Gokiso.
+Dialogue: 0,0:17:44.79,0:17:50.76,Default,,0,0,0,,It would be incredible if you beat me, but he's a pro who's over the hill.
+Dialogue: 0,0:17:51.86,0:17:53.99,Default,,0,0,0,,Who is he?
 Dialogue: 0,0:17:55.01,0:18:03.73,Computer,,0,0,0,,{\fs20\pos(456,100)\frz5.5}Register
-Dialogue: 0,0:17:54.48,0:17:56.38,Default,,0,0,0,,Umm, who are you?
-Dialogue: 0,0:17:56.97,0:17:58.78,Default,,0,0,0,,What!? You don't know me!?
-Dialogue: 0,0:17:59.07,0:18:03.72,Default,,0,0,0,,I'm Kurata! The pro player, Kurata! Most of the way Meijin or Honinbou!
-Dialogue: 0,0:18:04.73,0:18:07.20,Default,,0,0,0,,You're that strong, Mr. Kurata?
-Dialogue: 0,0:18:09.99,0:18:14.46,Default,,0,0,0,,Yeah. But it's not that hard to beat the people above you.
-Dialogue: 0,0:18:16.88,0:18:18.97,Default,,0,0,0,,Everyone above me is desperate.
-Dialogue: 0,0:18:19.10,0:18:21.42,Default,,0,0,0,,Touya Meijin is at his peak right now.
-Dialogue: 0,0:18:22.81,0:18:27.55,Default,,0,0,0,,Old man Kuwabara seems like he's got it easy, but he's actually quite desperate.
-Dialogue: 0,0:18:27.77,0:18:33.08,Default,,0,0,0,,He's just barely protecting the title of Honinbou by using bluffs and mental traps.
-Dialogue: 0,0:18:33.67,0:18:35.44,Default,,0,0,0,,He'll fall down soon enough.
-Dialogue: 0,0:18:35.74,0:18:39.58,Default,,0,0,0,,By either myself, or maybe Ogata-san will do it before me.
-Dialogue: 0,0:18:40.66,0:18:44.36,Default,,0,0,0,,The really scary people are coming from below me.
-Dialogue: 0,0:18:45.92,0:18:50.40,Default,,0,0,0,,That's why I'm more scared of Touya Akira than Touya Kouyou.
-Dialogue: 0,0:18:51.43,0:18:54.14,Default,,0,0,0,,The fights against the people below me will be tough.
-Dialogue: 0,0:18:56.74,0:19:01.68,Default,,0,0,0,,Though it's far in the future. First I have to bring down the top.
-Dialogue: 0,0:19:03.07,0:19:05.02,Default,,0,0,0,,He's really confident, isn't he?
-Dialogue: 0,0:19:05.18,0:19:06.63,Default,,0,0,0,,What was your name again?
-Dialogue: 0,0:19:06.92,0:19:08.67,Default,,0,0,0,,It's Shindou, Shindou Hikaru.
-Dialogue: 0,0:19:09.96,0:19:12.62,Default,,0,0,0,,Not many people don't know me.
-Dialogue: 0,0:19:12.99,0:19:14.76,Default,,0,0,0,,Hey, can I have that fan?
-Dialogue: 0,0:19:18.54,0:19:20.30,Default,,0,0,0,,You want it right, here you can have it.
+Dialogue: 0,0:17:54.34,0:17:56.38,Default,,0,0,0,,Umm, who are you?
+Dialogue: 0,0:17:56.85,0:17:58.78,Default,,0,0,0,,What!? You don't know me!?
+Dialogue: 0,0:17:58.95,0:18:03.73,Default,,0,0,0,,I'm Kurata! The pro player, Kurata! Most of the way Meijin or Honinbou!
+Dialogue: 0,0:18:04.57,0:18:07.20,Default,,0,0,0,,You're that strong, Mr. Kurata?
+Dialogue: 0,0:18:09.78,0:18:14.43,Default,,0,0,0,,Yeah. But it's not that hard to beat the people above you.
+Dialogue: 0,0:18:16.74,0:18:18.97,Default,,0,0,0,,Everyone above me is desperate.
+Dialogue: 0,0:18:19.12,0:18:21.42,Default,,0,0,0,,Touya Meijin is at his peak right now.
+Dialogue: 0,0:18:22.67,0:18:27.41,Default,,0,0,0,,Old man Kuwabara seems like he's got it easy, but he's actually quite desperate.
+Dialogue: 0,0:18:27.68,0:18:33.04,Default,,0,0,0,,He's just barely protecting the title of Honinbou by using bluffs and mental traps.
+Dialogue: 0,0:18:33.55,0:18:35.40,Default,,0,0,0,,He'll fall down soon enough.
+Dialogue: 0,0:18:35.68,0:18:39.49,Default,,0,0,0,,By either myself, or maybe Ogata-san will do it before me.
+Dialogue: 0,0:18:40.53,0:18:44.32,Default,,0,0,0,,The really scary people are coming from below me.
+Dialogue: 0,0:18:45.80,0:18:50.32,Default,,0,0,0,,That's why I'm more scared of Touya Akira than Touya Kouyou.
+Dialogue: 0,0:18:51.29,0:18:54.15,Default,,0,0,0,,The fights against the people below me will be tough.
+Dialogue: 0,0:18:56.66,0:19:01.68,Default,,0,0,0,,Though it's far in the future. First I have to bring down the top.
+Dialogue: 0,0:19:02.91,0:19:05.02,Default,,0,0,0,,He's really confident, isn't he?
+Dialogue: 0,0:19:05.02,0:19:06.52,Default,,0,0,0,,What was your name again?
+Dialogue: 0,0:19:06.52,0:19:08.67,Default,,0,0,0,,It's Shindou, Shindou Hikaru.
+Dialogue: 0,0:19:09.88,0:19:12.62,Default,,0,0,0,,Not many people don't know me.
+Dialogue: 0,0:19:12.88,0:19:14.74,Default,,0,0,0,,Hey, can I have that fan?
+Dialogue: 0,0:19:18.45,0:19:20.30,Default,,0,0,0,,You want it right, here you can have it.
 Dialogue: 0,0:19:18.60,0:19:20.10,Computer,,0,0,0,,{\fs22\pos(450,368)\frz316}Kurata Atsushi
-Dialogue: 0,0:19:20.60,0:19:22.83,Default,,0,0,0,,Sir, that's store merchandise, so...
-Dialogue: 0,0:19:22.99,0:19:24.40,Default,,0,0,0,,Umm,... could you pay?
-Dialogue: 0,0:19:24.50,0:19:26.33,Default,,0,0,0,,Don't you want it? You can have it.
-Dialogue: 0,0:19:26.49,0:19:27.57,Default,,0,0,0,,Want it?
-Dialogue: 0,0:19:28.29,0:19:29.62,Default,,0,0,0,,No.
-Dialogue: 0,0:19:30.04,0:19:30.99,Default,,0,0,0,,You don't want it!?
-Dialogue: 0,0:19:31.13,0:19:34.88,Default,,0,0,0,,You've got to be kidding. But everyone wants it. Why not?
-Dialogue: 0,0:19:35.02,0:19:38.84,Default,,0,0,0,,I'm a pro already, so...!
+Dialogue: 0,0:19:20.41,0:19:22.83,Default,,0,0,0,,Sir, that's store merchandise, so...
+Dialogue: 0,0:19:22.92,0:19:24.44,Default,,0,0,0,,Umm,... could you pay?
+Dialogue: 0,0:19:24.44,0:19:26.35,Default,,0,0,0,,Don't you want it? You can have it.
+Dialogue: 0,0:19:26.35,0:19:27.57,Default,,0,0,0,,Want it?
+Dialogue: 0,0:19:28.22,0:19:29.62,Default,,0,0,0,,No.
+Dialogue: 0,0:19:29.95,0:19:30.99,Default,,0,0,0,,You don't want it!?
+Dialogue: 0,0:19:31.05,0:19:34.78,Default,,0,0,0,,You've got to be kidding. But everyone wants it. Why not?
+Dialogue: 0,0:19:34.90,0:19:38.84,Default,,0,0,0,,I'm a pro already, so...!
 Dialogue: 0,0:19:41.08,0:19:42.79,Computer,,0,0,0,,{\fs25\pos(87,350)\frz317.5}Shindou Hikaru
 Dialogue: 0,0:19:41.08,0:19:42.79,Computer,,0,0,0,,{\fs25\pos(360,260)\frz266}Kurata Atsushi
-Dialogue: 0,0:19:44.17,0:19:46.05,Default,,0,0,0,,Ahhh! You ruined my autograph!
-Dialogue: 0,0:19:46.14,0:19:47.07,Default,,0,0,0,,Idiot! Idiot! Idiot!
-Dialogue: 0,0:19:47.25,0:19:50.02,Default,,0,0,0,,How can you write such ugly letters next to my name!?
-Dialogue: 0,0:19:50.73,0:19:53.77,Default,,0,0,0,,Kurata-san, your writing is just as bad.
-Dialogue: 0,0:19:53.94,0:19:58.11,Default,,0,0,0,,It really is poorly written, Torajirou's was so much better.
-Dialogue: 0,0:19:59.62,0:20:01.19,Default,,0,0,0,,Who would want this?
-Dialogue: 0,0:20:01.85,0:20:02.55,Default,,0,0,0,,Thanks.
-Dialogue: 0,0:20:03.02,0:20:05.24,Default,,0,0,0,,You're peculiar.
-Dialogue: 0,0:20:05.48,0:20:06.58,Thinking,,0,0,0,,So are you.
-Dialogue: 0,0:20:07.95,0:20:10.43,Default,,0,0,0,,Ahh! My tutoring games are about to start.
-Dialogue: 0,0:20:11.51,0:20:18.37,Default,,0,0,0,,I'll remember your name. As Honinbou Shuusaku's Writing Authenticator.
-Dialogue: 0,0:20:18.76,0:20:20.42,Thinking,,0,0,0,,Writing Authenticator?
-Dialogue: 0,0:20:20.99,0:20:24.53,Default,,0,0,0,,You'll regret turning my autograph down.
-Dialogue: 0,0:20:30.80,0:20:32.82,Default,,0,0,0,,Sai, are you satisfied now?
-Dialogue: 0,0:20:33.31,0:20:35.29,Default,,0,0,0,,satisfied! Satisfied!
-Dialogue: 0,0:20:37.06,0:20:39.09,Default,,0,0,0,,He knows a lot about Shuusaku's writing?
+Dialogue: 0,0:19:43.04,0:19:46.05,Default,,0,0,0,,Ahhh! You ruined my autograph!
+Dialogue: 0,0:19:46.11,0:19:47.07,Default,,0,0,0,,Idiot! Idiot! Idiot!
+Dialogue: 0,0:19:47.22,0:19:50.02,Default,,0,0,0,,How can you write such ugly letters next to my name!?
+Dialogue: 0,0:19:50.74,0:19:53.69,Default,,0,0,0,,Kurata-san, your writing is just as bad.
+Dialogue: 0,0:19:53.80,0:19:58.05,Default,,0,0,0,,It really is poorly written, Torajirou's was so much better.
+Dialogue: 0,0:19:59.49,0:20:01.19,Default,,0,0,0,,Who would want this?
+Dialogue: 0,0:20:01.60,0:20:02.55,Default,,0,0,0,,Thanks.
+Dialogue: 0,0:20:02.89,0:20:05.13,Default,,0,0,0,,You're peculiar.
+Dialogue: 0,0:20:05.27,0:20:06.58,Thinking,,0,0,0,,So are you.
+Dialogue: 0,0:20:07.81,0:20:10.41,Default,,0,0,0,,Ahh! My tutoring games are about to start.
+Dialogue: 0,0:20:11.47,0:20:18.28,Default,,0,0,0,,I'll remember your name. As Honinbou Shuusaku's Writing Authenticator.
+Dialogue: 0,0:20:18.61,0:20:20.42,Thinking,,0,0,0,,Writing Authenticator?
+Dialogue: 0,0:20:20.86,0:20:24.46,Default,,0,0,0,,You'll regret turning my autograph down.
+Dialogue: 0,0:20:30.72,0:20:32.82,Default,,0,0,0,,Sai, are you satisfied now?
+Dialogue: 0,0:20:33.20,0:20:35.29,Default,,0,0,0,,Satisfied! Satisfied!
+Dialogue: 0,0:20:36.92,0:20:39.09,Default,,0,0,0,,He knows a lot about Shuusaku's writing?
 Dialogue: 0,0:20:39.60,0:20:41.32,Default,,0,0,0,,What a strange child.
 Dialogue: 0,0:22:13.31,0:22:15.35,Default,,0,0,0,,Have you guys seen things like this before?
 Dialogue: 0,0:22:15.43,0:22:16.67,Default,,0,0,0,,Yup.
