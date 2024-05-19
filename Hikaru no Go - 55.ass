@@ -12,14 +12,14 @@ YCbCr Matrix: TV.601
 
 [Aegisub Project Garbage]
 Last Style Storage: Default
-Audio File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
-Video File: [Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
+Audio File: //nas/media/anime/Hikaru No Go/BDrip/[Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
+Video File: //nas/media/anime/Hikaru No Go/BDrip/[Moozzi2] Hikaru no Go - 55 (BD 1440x1080 x.264 Flac).mkv
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 0
-Active Line: 0
-Video Position: 0
+Scroll Position: 243
+Active Line: 280
+Video Position: 78
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -56,249 +56,287 @@ Style: Default,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,1
 Style: Title,Verdana,45,&H00FFFFFF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,1,2,20,20,40,1
 Style: Note,Century Gothic,18,&H00DDDDDD,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1.5,0,8,30,30,10,1
 Style: Computer,Century Gothic,30,&H00000000,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,0,0,8,30,30,10,1
-;Style: Note,Verdana,18,&H00FFFFFF,&H00FFFFFF,&H00000000,&H80000000,-1,0,0,0,100,100,0,0,1,1,1,8,30,30,10,1
 Style: Thinking,Verdana,25,&H00C0FFFF,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,2,19,19,25,1
 Style: Noise,Verdana,25,&H00C1FFD7,&H00FFFFFF,&H00000000,&H80000000,0,-1,0,0,100,100,0,0,1,1.3,0.8,8,19,19,25,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:42.77,0:01:46.09,Default,,0,0,0,,Or is Internet Go mere fun and games for Touya-san?
-Dialogue: 0,0:01:46.97,0:01:47.91,Default,,0,0,0,,Yes it is,
-Dialogue: 0,0:01:48.85,0:01:52.44,Default,,0,0,0,,but there are games that I can't lose.
-Dialogue: 0,0:01:53.21,0:01:58.46,Default,,0,0,0,,I knew that he would walk the same path as I do, ever since I first met him.
-Dialogue: 0,0:01:59.29,0:02:02.99,Default,,0,0,0,,The same path to master the divine move...
-Dialogue: 0,0:02:04.43,0:02:06.92,Default,,0,0,0,,Tomorrow! My wish will be granted!
-Dialogue: 0,0:02:08.44,0:02:10.32,Default,,0,0,0,,How much closer can I get...
-Dialogue: 0,0:02:10.32,0:02:11.91,Default,,0,0,0,,to the divine move!?
-Dialogue: 0,0:02:14.22,0:02:18.99,Title,,0,0,0,,{\fs28}Fifty-fifth match\N\N{\fs}
-Dialogue: 0,0:02:20.83,0:02:23.98,Default,,0,0,0,,How long will that study session last, Akira-san?
-Dialogue: 0,0:02:25.31,0:02:26.67,Default,,0,0,0,,Until late afternoon, probably...
-Dialogue: 0,0:02:27.16,0:02:30.82,Default,,0,0,0,,Oh, you'll be eating dinner at home, then?
-Dialogue: 0,0:02:33.88,0:02:35.35,Default,,0,0,0,,Mother, what about the hospital?
-Dialogue: 0,0:02:35.96,0:02:38.94,Default,,0,0,0,,Your father told me not to go today.
-Dialogue: 0,0:02:39.13,0:02:40.00,Default,,0,0,0,,Not to go!?
-Dialogue: 0,0:02:40.61,0:02:44.11,Default,,0,0,0,,He wants to play Go on the Internet without intrusions.
-Dialogue: 0,0:02:46.60,0:02:51.66,Default,,0,0,0,,He's leaving the hospital tomorrow. He should take this chance to rest up.
-Dialogue: 0,0:02:52.39,0:02:55.94,Default,,0,0,0,,Why is Go the only thing that either of you think about?
-Dialogue: 0,0:02:56.66,0:02:58.09,Default,,0,0,0,,I'll be going then.
-Dialogue: 0,0:03:06.05,0:03:08.47,Thinking,,0,0,0,,Wow, he's getting out tomorrow.
-Dialogue: 0,0:03:09.45,0:03:13.49,Thinking,,0,0,0,,I was really worried when he collapsed ten days ago.
-Dialogue: 0,0:03:18.74,0:03:21.80,Thinking,,0,0,0,,I was supposed to play Shindou on that day.
-Dialogue: 0,0:03:23.04,0:03:27.07,Thinking,,0,0,0,,The next chance I'll have to play him will be during the Wakajishisen, next month.
-Dialogue: 0,0:03:28.40,0:03:33.99,Thinking,,0,0,0,,But I can watch Shindou's matches against other pro players before then.
-Dialogue: 0,0:03:34.56,0:03:37.59,Thinking,,0,0,0,,I'll measure Shindou's strength from them.
-Dialogue: 0,0:03:38.76,0:03:44.99,Thinking,,0,0,0,,Yes... It won't be too long now... until I find out exactly who he is!
+Dialogue: 0,0:01:42.76,0:01:46.09,Default,,0,0,0,,Or is Internet Go mere fun and games for Touya-san?
+Dialogue: 0,0:01:46.92,0:01:48.08,Default,,0,0,0,,Yes it is,
+Dialogue: 0,0:01:48.72,0:01:52.34,Default,,0,0,0,,but there are games that I can't lose.
+Dialogue: 0,0:01:53.19,0:01:58.43,Default,,0,0,0,,I knew that he would walk the same path as I do, ever since I first met him.
+Dialogue: 0,0:01:59.28,0:02:02.99,Default,,0,0,0,,The same path to master the divine move...
+Dialogue: 0,0:02:04.45,0:02:06.92,Default,,0,0,0,,Tomorrow! My wish will be granted!
+Dialogue: 0,0:02:08.41,0:02:10.31,Default,,0,0,0,,How much closer can I get...
+Dialogue: 0,0:02:10.74,0:02:11.91,Default,,0,0,0,,to the divine move!?
+Dialogue: 0,0:02:13.95,0:02:18.95,Title,,0,0,0,,{\fs28}Fifty-fifth match\N\N{\fs}
+Dialogue: 0,0:02:20.85,0:02:23.96,Default,,0,0,0,,How long will that study session last, Akira-san?
+Dialogue: 0,0:02:25.30,0:02:26.71,Default,,0,0,0,,Until late afternoon, probably...
+Dialogue: 0,0:02:27.15,0:02:30.80,Default,,0,0,0,,Oh, you'll be eating dinner at home, then?
+Dialogue: 0,0:02:33.85,0:02:35.33,Default,,0,0,0,,Mother, what about the hospital?
+Dialogue: 0,0:02:35.90,0:02:38.94,Default,,0,0,0,,Your father told me not to go today.
+Dialogue: 0,0:02:39.13,0:02:40.18,Default,,0,0,0,,Not to go!?
+Dialogue: 0,0:02:40.64,0:02:44.09,Default,,0,0,0,,He wants to play Go on the Internet without intrusions.
+Dialogue: 0,0:02:46.52,0:02:51.69,Default,,0,0,0,,He's leaving the hospital tomorrow. He should take this chance to rest up.
+Dialogue: 0,0:02:52.38,0:02:55.94,Default,,0,0,0,,Why is Go the only thing that either of you think about?
+Dialogue: 0,0:02:56.65,0:02:58.21,Default,,0,0,0,,I'll be going then.
+Dialogue: 0,0:03:05.98,0:03:08.47,Thinking,,0,0,0,,Wow, he's getting out tomorrow.
+Dialogue: 0,0:03:09.47,0:03:13.49,Thinking,,0,0,0,,I was really worried when he collapsed ten days ago.
+Dialogue: 0,0:03:18.69,0:03:21.64,Thinking,,0,0,0,,I was supposed to play Shindou on that day.
+Dialogue: 0,0:03:23.02,0:03:27.31,Thinking,,0,0,0,,The next chance I'll have to play him will be during the Wakajishisen, next month.
+Dialogue: 0,0:03:28.37,0:03:33.99,Thinking,,0,0,0,,But I can watch Shindou's matches against other pro players before then.
+Dialogue: 0,0:03:34.53,0:03:37.82,Thinking,,0,0,0,,I'll measure Shindou's strength from them.
+Dialogue: 0,0:03:38.74,0:03:44.99,Thinking,,0,0,0,,Yes... It won't be too long now... until I find out exactly who he is!
 Dialogue: 0,0:03:46.33,0:03:48.54,Note,,0,0,0,,NO VISITORS
-Dialogue: 0,0:03:55.11,0:03:59.94,Thinking,,0,0,0,,But for my father to want to play Internet Go, without being interrupted?
-Dialogue: 0,0:04:00.98,0:04:02.38,Thinking,,0,0,0,,He certainly seems absorbed in it.
-Dialogue: 0,0:04:02.91,0:04:05.77,Thinking,,0,0,0,,He didn't seem to like it very much when he started.
-Dialogue: 0,0:04:17.05,0:04:18.67,Default,,0,0,0,,Finally, this day has come.
-Dialogue: 0,0:04:20.71,0:04:21.77,Default,,0,0,0,,Let's go, Sai.
-Dialogue: 0,0:04:28.18,0:04:29.04,Default,,0,0,0,,Welcome!
-Dialogue: 0,0:04:30.23,0:04:31.78,Thinking,,0,0,0,,She's not Mitani's sister.
-Dialogue: 0,0:04:32.65,0:04:36.30,Thinking,,0,0,0,,Maybe it's her day off. Or maybe she quit.
-Dialogue: 0,0:04:38.03,0:04:39.09,Default,,0,0,0,,You can use this machine.
-Dialogue: 0,0:04:39.54,0:04:40.79,Default,,0,0,0,,Okay, thanks.
-Dialogue: 0,0:04:45.41,0:04:47.23,Thinking,,0,0,0,,I wonder if Master Touya is there.
-Dialogue: 0,0:04:50.93,0:04:54.40,Thinking,,0,0,0,,But... is he serious about retiring if he loses?
-Dialogue: 0,0:04:57.10,0:05:00.56,Default,,0,0,0,,If I was to lose, I will retire.
+Dialogue: 0,0:03:55.05,0:04:00.30,Thinking,,0,0,0,,But for my father to want to play Internet Go, without being interrupted?
+Dialogue: 0,0:04:01.00,0:04:02.38,Thinking,,0,0,0,,He certainly seems absorbed in it.
+Dialogue: 0,0:04:02.91,0:04:05.81,Thinking,,0,0,0,,He didn't seem to like it very much when he started.
+Dialogue: 0,0:04:17.04,0:04:19.33,Default,,0,0,0,,Finally, this day has come.
+Dialogue: 0,0:04:20.71,0:04:21.89,Default,,0,0,0,,Let's go, Sai.
+Dialogue: 0,0:04:28.17,0:04:29.30,Default,,0,0,0,,Welcome!
+Dialogue: 0,0:04:30.14,0:04:31.97,Thinking,,0,0,0,,She's not Mitani's sister.
+Dialogue: 0,0:04:32.64,0:04:36.30,Thinking,,0,0,0,,Maybe it's her day off. Or maybe she quit.
+Dialogue: 0,0:04:38.04,0:04:39.12,Default,,0,0,0,,You can use this machine.
+Dialogue: 0,0:04:39.56,0:04:40.79,Default,,0,0,0,,Okay, thanks.
+Dialogue: 0,0:04:45.44,0:04:47.54,Thinking,,0,0,0,,I wonder if Master Touya is there.
+Dialogue: 0,0:04:50.92,0:04:54.42,Thinking,,0,0,0,,But... is he serious about retiring if he loses?
+Dialogue: 0,0:04:57.01,0:05:00.70,Default,,0,0,0,,If I was to lose, I will retire.
 Dialogue: 0,0:05:01.81,0:05:03.19,Thinking,,0,0,0,,He's probably serious.
-Dialogue: 0,0:05:04.25,0:05:08.06,Thinking,,0,0,0,,Man, why is that family so stubborn!?
-Dialogue: 0,0:05:11.57,0:05:12.51,Thinking,,0,0,0,,He's not there yet.
-Dialogue: 0,0:05:14.33,0:05:15.12,Thinking,,0,0,0,,Sai?
-Dialogue: 0,0:05:21.87,0:05:22.59,Thinking,,0,0,0,,There he is!
-Dialogue: 0,0:05:26.37,0:05:27.15,Thinking,,0,0,0,,If...
-Dialogue: 0,0:05:27.95,0:05:29.35,Thinking,,0,0,0,,If Sai wins...
-Dialogue: 0,0:05:29.84,0:05:31.99,Thinking,,0,0,0,,Is he really going to retire?
-Dialogue: 0,0:05:33.39,0:05:36.26,Default,,0,0,0,,An even match with a komi of 5.5...
-Dialogue: 0,0:05:37.17,0:05:40.11,Default,,0,0,0,,Three hours on each of our clocks...
-Dialogue: 0,0:05:41.06,0:05:42.95,Thinking,,0,0,0,,For a player with five titles to disappear...
-Dialogue: 0,0:05:43.21,0:05:44.76,Thinking,,0,0,0,,Isn't that a big deal!?
-Dialogue: 0,0:05:45.22,0:05:46.80,Thinking,,0,0,0,,I can't let that happen!
-Dialogue: 0,0:05:50.07,0:05:52.43,Default,,0,0,0,,Master Touya is black...
+Dialogue: 0,0:05:04.25,0:05:08.05,Thinking,,0,0,0,,Man, why is that family so stubborn!?
+Dialogue: 0,0:05:11.51,0:05:12.51,Thinking,,0,0,0,,He's not there yet.
+Dialogue: 0,0:05:14.29,0:05:15.13,Thinking,,0,0,0,,Sai?
+Dialogue: 0,0:05:21.81,0:05:22.52,Thinking,,0,0,0,,There he is!
+Dialogue: 0,0:05:26.24,0:05:27.24,Thinking,,0,0,0,,If...
+Dialogue: 0,0:05:27.97,0:05:29.43,Thinking,,0,0,0,,If Sai wins...
+Dialogue: 0,0:05:29.83,0:05:32.12,Thinking,,0,0,0,,Is he really going to retire?
+Dialogue: 0,0:05:33.31,0:05:36.26,Default,,0,0,0,,An even match with a komi of 5.5...
+Dialogue: 0,0:05:37.13,0:05:40.03,Default,,0,0,0,,Three hours on each of our clocks...
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 88 102 l 551 102 l 551 135 l 88 135 c{\p0}
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,107,,{\1c&HA08020&\fscy80}Request toya koyo-san for a game
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 151 171 l 278 171 l 278 195 l 151 195 c{\p0}
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,151,0,168,,{\an7\fnArial\fs26\fscy90}Board Size
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 151 210 l 196 210 l 196 236 l 151 236 c{\p0}
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,151,0,210,,{\an7\fnArial\fs26\fscy90\b1}Komi
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 151 255 l 315 255 l 315 279 l 151 279 c{\p0}
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,151,0,253,,{\an7\fnArial\fs26\fscy90\b1}Time on Clock
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 151 296 l 228 296 l 228 321 l 151 321 c{\p0}
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,151,0,294,,{\an7\fnArial\fs26\fscy90\b1}Byou-Yomi
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 120 375 l 160 375 l 160 396 l 120 396 c m 235 375 l 275 375 l 275 396 l 235 396 c m 368 375 l 404 375 l 404 396 l 368 396 c m 473 375 l 529 375 l 529 396 l 473 396 c{\p0}
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,120,480,375,,{\fnArial\fs26\fscy90\b0}Chat
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,235,365,375,,{\fnArial\fs26\fscy90\b0}Info
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,375,235,375,,{\fnArial\fs26\fscy90\b0\fscx60}Request
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,473,111,375,,{\fnArial\fs26\fscy90\b0\fscx60}Cancel
+Dialogue: 0,0:05:41.04,0:05:42.95,Thinking,,0,0,0,,For a player with five titles to disappear...
+Dialogue: 0,0:05:43.22,0:05:44.87,Thinking,,0,0,0,,Isn't that a big deal!?
+Dialogue: 0,0:05:45.24,0:05:46.80,Thinking,,0,0,0,,I can't let that happen!
+Dialogue: 0,0:05:50.00,0:05:52.34,Default,,0,0,0,,Master Touya is black...
+Dialogue: 0,0:05:52.33,0:05:56.34,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 192 198 l 286 198 l 286 247 l 192 247 c{\p0}
+Dialogue: 0,0:05:52.33,0:05:56.34,Computer,,180,310,200,,{\fnArial\fs50\fscx70}Request
+Dialogue: 0,0:05:52.33,0:05:56.34,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 464 200 l 607 200 l 607 247 l 525 247 l 513 240 l 509 247 l 464 247 c{\p0}
+Dialogue: 0,0:05:52.33,0:05:56.34,Computer,,450,30,200,,{\fnArial\fs50\fscx70}Cancel
+Dialogue: 0,0:05:56.34,0:05:56.88,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 156 138 l 498 138 l 498 161 l 156 161 c{\p0}
+Dialogue: 0,0:05:56.34,0:05:56.88,Computer,,154,140,140,,{\1c&HA08020&\fs23\fscy80}Request toya koyo-san for a game
+Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 203 187 l 298 187 l 298 206 l 203 206 c{\p0}
+Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,203,0,186,,{\an7\fnArial\fs19\fscy95}Board Size
+Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 204 218 l 236 218 l 236 236 l 204 236 c{\p0}
+Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,203,0,216,,{\an7\fnArial\fs19\fscy95}Komi
+Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 200 249 l 324 249 l 324 270 l 200 270 c{\p0}
+Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,203,0,246,,{\an7\fnArial\fs19\fscy95}Time on Clock
+Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 200 282 l 260 282 l 260 300 l 200 300 c{\p0}
+Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,203,0,277,,{\an7\fnArial\fs19\fscy95}Byou-Yomi
+Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 180 340 l 210 340 l 210 356 l 180 356 c m 265 340 l 295 340 l 295 356 l 265 356 c m 362 340 l 396 340 l 396 356 l 392 356 l 390 348 l 387 356 l 362 356 c m 439 340 l 483 340 l 483 356 l 439 356 c{\p0}
+Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,165,415,341,,{\fnArial\fs17\fscy90\b0}Chat
+Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,248,327,341,,{\fnArial\fs17\fscy90\b0}Info
+Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,361,240,341,,{\fnArial\fs17\fscy90\b0\fscx70}Request
+Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,442,160,341,,{\fnArial\fs17\fscy90\b0\fscx75}Cancel
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,TODO
 Dialogue: 0,0:06:25.79,0:06:27.84,Thinking,,0,0,0,,I can feel it, even through the net.
-Dialogue: 0,0:06:28.75,0:06:34.13,Thinking,,0,0,0,,The same... no... an even greater tension than I felt during the new first dan series.
-Dialogue: 0,0:06:35.37,0:06:36.83,Thinking,,0,0,0,,Touya Meijin...
-Dialogue: 0,0:06:36.83,0:06:38.73,Thinking,,0,0,0,,It is Touya Meijin!
-Dialogue: 0,0:06:39.75,0:06:42.28,Thinking,,0,0,0,,I don't care if he has to retire!
+Dialogue: 0,0:06:28.72,0:06:34.00,Thinking,,0,0,0,,The same... no... an even greater tension than I felt during the new first dan series.
+Dialogue: 0,0:06:35.40,0:06:36.83,Thinking,,0,0,0,,Touya Meijin...
+Dialogue: 0,0:06:37.32,0:06:39.01,Thinking,,0,0,0,,It is Touya Meijin!
+Dialogue: 0,0:06:39.73,0:06:42.28,Thinking,,0,0,0,,I don't care if he has to retire!
 Dialogue: 0,0:06:43.01,0:06:46.14,Thinking,,0,0,0,,I get to watch this match from here!
 Dialogue: 0,0:06:47.04,0:06:50.43,Thinking,,0,0,0,,I get to watch this match between Sai and Touya Meijin!
-Dialogue: 0,0:07:43.62,0:07:44.49,Default,,0,0,0,,I'm home!
-Dialogue: 0,0:07:45.69,0:07:49.63,Default,,0,0,0,,Yoshitaka! What were you out all night!?
-Dialogue: 0,0:07:49.83,0:07:52.51,Default,,0,0,0,,I thought the tutoring game was supposed to end last night!
-Dialogue: 0,0:07:53.80,0:07:57.38,Default,,0,0,0,,I played Go at Saeki-san's place, and stayed there.
-Dialogue: 0,0:07:57.82,0:08:01.51,Default,,0,0,0,,I told you to call home whenever you do that.
-Dialogue: 0,0:08:01.69,0:08:04.02,Default,,0,0,0,,I tried to call your cell, but you had turned it off.
-Dialogue: 0,0:08:04.06,0:08:05.65,Default,,0,0,0,,Oh, sorry.
-Dialogue: 0,0:08:06.35,0:08:07.52,Default,,0,0,0,,Breakfast?
-Dialogue: 0,0:08:08.28,0:08:09.34,Default,,0,0,0,,I had it already!
-Dialogue: 0,0:08:12.05,0:08:14.85,Default,,0,0,0,,Maybe I'll get my own place, just like Saeki-san.
-Dialogue: 0,0:08:16.36,0:08:20.93,Default,,0,0,0,,I'll get more referrals from the Master, and pick up more record keeper jobs.
-Dialogue: 0,0:08:21.61,0:08:25.94,Default,,0,0,0,,I'll have the money from my matches, too. I should be able to pay for my own room...
+Dialogue: 0,0:07:43.64,0:07:44.69,Default,,0,0,0,,I'm home!
+Dialogue: 0,0:07:45.64,0:07:49.45,Default,,0,0,0,,Yoshitaka! What were you out all night!?
+Dialogue: 0,0:07:49.75,0:07:52.51,Default,,0,0,0,,I thought the tutoring game was supposed to end last night!
+Dialogue: 0,0:07:53.76,0:07:57.46,Default,,0,0,0,,I played Go at Saeki-san's place, and stayed there.
+Dialogue: 0,0:07:57.84,0:08:01.51,Default,,0,0,0,,I told you to call home whenever you do that.
+Dialogue: 0,0:08:01.61,0:08:04.02,Default,,0,0,0,,I tried to call your cell, but you had turned it off.
+Dialogue: 0,0:08:04.02,0:08:05.47,Default,,0,0,0,,Oh, sorry.
+Dialogue: 0,0:08:06.32,0:08:07.52,Default,,0,0,0,,Breakfast?
+Dialogue: 0,0:08:08.25,0:08:09.34,Default,,0,0,0,,I had it already!
+Dialogue: 0,0:08:12.02,0:08:14.93,Default,,0,0,0,,Maybe I'll get my own place, just like Saeki-san.
+Dialogue: 0,0:08:16.30,0:08:20.79,Default,,0,0,0,,I'll get more referrals from the Master, and pick up more record keeper jobs.
+Dialogue: 0,0:08:21.66,0:08:25.94,Default,,0,0,0,,I'll have the money from my matches, too. I should be able to pay for my own room...
 Dialogue: 0,0:08:26.77,0:08:29.04,Default,,0,0,0,,But what about food and laundry?
-Dialogue: 0,0:08:36.55,0:08:38.81,Default,,0,0,0,,Maybe I'll try playing on the net for a change.
-Dialogue: 0,0:08:42.24,0:08:44.68,Default,,0,0,0,,Yoshitaka, are you going to be home today?
+Dialogue: 0,0:08:36.55,0:08:39.00,Default,,0,0,0,,Maybe I'll try playing on the net for a change.
+Dialogue: 0,0:08:42.15,0:08:44.65,Default,,0,0,0,,Yoshitaka, are you going to be home today?
 Dialogue: 0,0:08:45.16,0:08:47.18,Default,,0,0,0,,You're eating lunch and dinner at home, right?
-Dialogue: 0,0:08:47.78,0:08:49.37,Default,,0,0,0,,Yeah! I'll have them at home.
-Dialogue: 0,0:08:51.60,0:08:52.36,Default,,0,0,0,,Hmm! Sai!
-Dialogue: 0,0:08:53.27,0:08:57.46,Default,,0,0,0,,It must be the fake Sai from before. He showed up again?
+Dialogue: 0,0:08:47.81,0:08:49.37,Default,,0,0,0,,Yeah! I'll have them at home.
+Dialogue: 0,0:08:51.52,0:08:52.36,Default,,0,0,0,,Hmm! Sai!
+Dialogue: 0,0:08:53.21,0:08:57.40,Default,,0,0,0,,It must be the fake Sai from before. He showed up again?
 Dialogue: 0,0:08:57.80,0:08:59.91,Default,,0,0,0,,Or is it a different fake Sai?
-Dialogue: 0,0:09:00.77,0:09:04.49,Default,,0,0,0,,toya... koyo...?
-Dialogue: 0,0:09:06.06,0:09:07.42,Default,,0,0,0,,What!? Touya Kouyou!?
-Dialogue: 0,0:09:07.97,0:09:11.69,Default,,0,0,0,,There's a fake Touya Meijin, too!?
+Dialogue: 0,0:09:02.32,0:09:04.45,Default,,0,0,0,,toya... koyo...?
+Dialogue: 0,0:09:05.02,0:09:07.41,Default,,0,0,0,,What!? Touya Kouyou!?
+Dialogue: 0,0:09:07.98,0:09:11.69,Default,,0,0,0,,There's a fake Touya Meijin, too!?
 Dialogue: 0,0:09:12.27,0:09:14.14,Default,,0,0,0,,There's no way that the Meijin would play Go on the internet.
-Dialogue: 0,0:09:14.51,0:09:17.87,Default,,0,0,0,,He's the type that looks down on it, just like Master Morishita.
-Dialogue: 0,0:09:19.37,0:09:21.29,Default,,0,0,0,,Besides, isn't he still in the hospital?
-Dialogue: 0,0:09:22.10,0:09:25.12,Default,,0,0,0,,Well, I guess he could play if he had a private room.
-Dialogue: 0,0:09:27.20,0:09:29.31,Default,,0,0,0,,It can't be him, though.
-Dialogue: 0,0:09:30.94,0:09:34.15,Default,,0,0,0,,He's in a match. Who is he playing?
-Dialogue: 0,0:09:37.02,0:09:37.81,Default,,0,0,0,,Sai!?
-Dialogue: 0,0:09:38.46,0:09:40.50,Default,,0,0,0,,What!? They're playing each other?
-Dialogue: 0,0:09:41.29,0:09:42.84,Default,,0,0,0,,It just started.
-Dialogue: 0,0:09:44.84,0:09:46.96,Default,,0,0,0,,Touya Kouyou against Sai!?
-Dialogue: 0,0:09:47.17,0:09:49.61,Default,,0,0,0,,It would be an incredible match if they were the real thing.
-Dialogue: 0,0:09:50.92,0:09:55.14,Default,,0,0,0,,Hmm? They have three hours!? On the net!?
-Dialogue: 0,0:10:00.09,0:10:02.77,Default,,0,0,0,,Could it be.... the Meijin!?
-Dialogue: 0,0:10:06.09,0:10:07.04,Default,,0,0,0,,Could it be...
-Dialogue: 0,0:10:11.05,0:10:11.80,Default,,0,0,0,,Sai!?
-Dialogue: 0,0:10:12.64,0:10:13.96,Default,,0,0,0,,Is it the real Sai!?
-Dialogue: 0,0:10:47.25,0:10:48.00,Default,,0,0,0,,Hello?
-Dialogue: 0,0:10:48.71,0:10:51.70,Default,,0,0,0,,Oh, Meneer Ooijer. Thanks for the other day.
-Dialogue: 0,0:10:53.59,0:10:56.64,Default,,0,0,0,,And why are you calling me at this time of the night?
-Dialogue: 0,0:10:57.44,0:10:58.12,Default,,0,0,0,,Yes?
+Dialogue: 0,0:09:14.51,0:09:17.91,Default,,0,0,0,,He's the type that looks down on it, just like Master Morishita.
+Dialogue: 0,0:09:19.36,0:09:21.29,Default,,0,0,0,,Besides, isn't he still in the hospital?
+Dialogue: 0,0:09:22.09,0:09:25.12,Default,,0,0,0,,Well, I guess he could play if he had a private room.
+Dialogue: 0,0:09:27.19,0:09:29.43,Default,,0,0,0,,It can't be him, though.
+Dialogue: 0,0:09:30.91,0:09:34.43,Default,,0,0,0,,He's in a match. Who is he playing?
+Dialogue: 0,0:09:37.00,0:09:37.81,Default,,0,0,0,,Sai!?
+Dialogue: 0,0:09:38.43,0:09:40.43,Default,,0,0,0,,What!? They're playing each other?
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,TODO
+Dialogue: 0,0:09:41.28,0:09:42.84,Default,,0,0,0,,It just started.
+Dialogue: 0,0:09:44.86,0:09:46.96,Default,,0,0,0,,Touya Kouyou against Sai!?
+Dialogue: 0,0:09:47.18,0:09:49.61,Default,,0,0,0,,It would be an incredible match if they were the real thing.
+Dialogue: 0,0:09:50.92,0:09:55.28,Default,,0,0,0,,Hmm? They have three hours!? On the net!?
+Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,TODO
+Dialogue: 0,0:10:00.09,0:10:03.04,Default,,0,0,0,,Could it be.... the Meijin!?
+Dialogue: 0,0:10:06.04,0:10:06.92,Default,,0,0,0,,Could it be...
+Dialogue: 0,0:10:10.98,0:10:11.80,Default,,0,0,0,,Sai!?
+Dialogue: 0,0:10:12.60,0:10:13.96,Default,,0,0,0,,Is it the real Sai!?
+Dialogue: 0,0:10:47.08,0:10:48.00,Default,,0,0,0,,Hello?
+Dialogue: 0,0:10:48.68,0:10:51.63,Default,,0,0,0,,Oh, Meneer Ooijer. Thanks for the other day.
+Dialogue: 0,0:10:53.57,0:10:56.64,Default,,0,0,0,,And why are you calling me at this time of the night?
+Dialogue: 0,0:10:57.41,0:10:58.12,Default,,0,0,0,,Yes?
 Dialogue: 0,0:11:00.05,0:11:02.54,Default,,0,0,0,,What? Touya Kouyou is playing on the net?
-Dialogue: 0,0:11:03.00,0:11:05.03,Default,,0,0,0,,And who is he playing?
-Dialogue: 0,0:11:08.57,0:11:09.28,Default,,0,0,0,,What!?
-Dialogue: 0,0:11:10.15,0:11:13.21,Default,,0,0,0,,It's Sai. The person you told me about the other day.
-Dialogue: 0,0:11:14.47,0:11:17.83,Default,,0,0,0,,I don't know if he's the real thing, though.
-Dialogue: 0,0:11:17.98,0:11:19.17,Default,,0,0,0,,Sai, you say?
-Dialogue: 0,0:11:19.17,0:11:21.08,Default,,0,0,0,,Playing Touya Kouyou!?
-Dialogue: 0,0:11:21.76,0:11:23.17,Default,,0,0,0,,Hurry! Hurry!
-Dialogue: 0,0:11:23.96,0:11:26.31,Default,,0,0,0,,It's around noon in Japan right now.
-Dialogue: 0,0:11:26.84,0:11:29.59,Default,,0,0,0,,Touya Kouyou and... Sai...
-Dialogue: 0,0:11:30.65,0:11:31.49,Default,,0,0,0,,This is it?
-Dialogue: 0,0:12:03.72,0:12:05.04,Thinking,,0,0,0,,So this is Sai...
-Dialogue: 0,0:12:06.33,0:12:07.20,Thinking,,0,0,0,,He is...
-Dialogue: 0,0:12:09.76,0:12:11.95,Thinking,,0,0,0,,a worthy opponent!
-Dialogue: 0,0:12:20.22,0:12:21.39,Default,,0,0,0,,See, it's Sai.
-Dialogue: 0,0:12:22.07,0:12:25.56,Default,,0,0,0,,Yeah! And he's playing Toya Koyo!
-Dialogue: 0,0:12:26.28,0:12:29.10,Default,,0,0,0,,I came here because I wanted to watch them play together.
-Dialogue: 0,0:12:29.90,0:12:32.16,Default,,0,0,0,,Look at the clock, they have three hours!
-Dialogue: 0,0:12:32.67,0:12:34.11,Default,,0,0,0,,There's plenty of time.
-Dialogue: 0,0:12:34.37,0:12:36.49,Default,,0,0,0,,Wow! This is incredible.
-Dialogue: 0,0:12:37.28,0:12:38.32,Default,,0,0,0,,I'll go make some coffee.
-Dialogue: 0,0:12:38.39,0:12:40.58,Default,,0,0,0,,Yeah, make some for me, too.
-Dialogue: 0,0:12:43.11,0:12:47.38,Default,,0,0,0,,This is incredible, is it really that Sai!?
-Dialogue: 0,0:12:49.49,0:12:54.53,Default,,0,0,0,,The Sai who disappeared from the net after the match against Akira?
-Dialogue: 0,0:12:56.76,0:12:58.14,Default,,0,0,0,,Then it's an incredible match.
-Dialogue: 0,0:12:58.70,0:13:00.40,Default,,0,0,0,,sai vs toya koyo.
-Dialogue: 0,0:13:04.14,0:13:08.98,Default,,0,0,0,,The match has progressed peacefully so far. I wonder how it'll go from here.
-Dialogue: 0,0:13:15.70,0:13:17.81,Thinking,,0,0,0,,He's not just an amateur.
-Dialogue: 0,0:13:21.40,0:13:24.19,Thinking,,0,0,0,,But he doesn't remind me of any pro.
-Dialogue: 0,0:13:29.96,0:13:34.98,Thinking,,0,0,0,,I have no intention of taking back my word that I will retire if I lose, but...
-Dialogue: 0,0:13:42.61,0:13:43.44,Thinking,,0,0,0,,If I win...
-Dialogue: 0,0:13:44.16,0:13:46.39,Thinking,,0,0,0,,You have to tell me...
-Dialogue: 0,0:13:49.75,0:13:51.52,Thinking,,0,0,0,,Who you are...
-Dialogue: 0,0:13:55.45,0:13:58.02,Default,,0,0,0,,What a surprise, Sai is here!
-Dialogue: 0,0:13:59.45,0:14:02.93,Default,,0,0,0,,And he's playing Toya Koyo!
-Dialogue: 0,0:14:03.99,0:14:10.25,Default,,0,0,0,,I played Toya Koyo before, he's Touya Meijin from Japan. There's no doubt about it.
-Dialogue: 0,0:14:11.80,0:14:17.00,Default,,0,0,0,,Sai is playing the Meijin evenly, too. He's definitely the Sai...
-Dialogue: 0,0:14:17.73,0:14:19.56,Default,,0,0,0,,From two years ago.
-Dialogue: 0,0:14:49.28,0:14:50.45,Thinking,,0,0,0,,He's attacking.
-Dialogue: 0,0:15:13.47,0:15:16.00,Thinking,,0,0,0,,I see what he's trying to do.
-Dialogue: 0,0:15:43.14,0:15:43.86,Thinking,,0,0,0,,Then...
-Dialogue: 0,0:15:47.48,0:15:49.30,Default,,0,0,0,,Touya made a move!
-Dialogue: 0,0:15:54.78,0:15:56.55,Default,,0,0,0,,Isn't this what white....
-Dialogue: 0,0:15:57.31,0:15:59.27,Default,,0,0,0,,what Sai wanted?
-Dialogue: 0,0:16:00.18,0:16:03.90,Default,,0,0,0,,This is the answer that the Meijin came up with after all that time?
-Dialogue: 0,0:16:26.88,0:16:30.54,Thinking,,0,0,0,,This should be exactly what you wanted. But...
-Dialogue: 0,0:16:35.86,0:16:38.43,Thinking,,0,0,0,,By cautiously attacking from the Boushi...
-Dialogue: 0,0:16:38.88,0:16:44.22,Default,,0,0,0,,the situation turns into one that's not bad at all for me.
-Dialogue: 0,0:16:48.60,0:16:50.72,Default,,0,0,0,,It's Touya Meijin! It's him!
-Dialogue: 0,0:16:51.52,0:16:54.12,Default,,0,0,0,,I... I had no idea things could turn out this way.
-Dialogue: 0,0:16:54.20,0:16:59.84,Default,,0,0,0,,It looked as if Sai had the advantage...
-Dialogue: 0,0:17:00.28,0:17:01.98,Default,,0,0,0,,But now that we're here...
-Dialogue: 0,0:17:02.39,0:17:05.65,Default,,0,0,0,,That first move that Sai made... it's...
-Dialogue: 0,0:17:07.16,0:17:09.82,Default,,0,0,0,,It's lost its meaning!
-Dialogue: 0,0:17:10.97,0:17:14.18,Default,,0,0,0,,Wow! You're awesome, Master Touya!
-Dialogue: 0,0:17:17.05,0:17:21.96,Default,,0,0,0,,This is my Go. The Go of the Meijin, Touya Kouyou!
-Dialogue: 0,0:17:29.83,0:17:35.13,Default,,0,0,0,,I won't hold back. I will win and make you name yourself!
-Dialogue: 0,0:17:38.99,0:17:40.57,Default,,0,0,0,,Touya Meijin was okay this time, but...
-Dialogue: 0,0:17:41.07,0:17:43.86,Default,,0,0,0,,he has a full schedule of matches
-Dialogue: 0,0:17:44.32,0:17:47.30,Default,,0,0,0,,outside the country next week.
-Dialogue: 0,0:17:47.35,0:17:50.07,Default,,0,0,0,,I wouldn't be surprised if he collapses again.
-Dialogue: 0,0:17:50.30,0:17:51.36,Default,,0,0,0,,Come on.
-Dialogue: 0,0:17:51.44,0:17:55.54,Default,,0,0,0,,That's why we young ones have to take on a title or two from him,
-Dialogue: 0,0:17:55.77,0:17:58.03,Default,,0,0,0,,to lighten the load a bit.
-Dialogue: 0,0:18:00.62,0:18:04.43,Default,,0,0,0,,Ogata-san is doing well in the Jyudan match with two wins and two losses.
+Dialogue: 0,0:11:02.95,0:11:05.03,Default,,0,0,0,,And who is he playing?
+Dialogue: 0,0:11:08.54,0:11:09.28,Default,,0,0,0,,What!?
+Dialogue: 0,0:11:10.16,0:11:13.21,Default,,0,0,0,,It's Sai. The person you told me about the other day.
+Dialogue: 0,0:11:14.49,0:11:17.57,Default,,0,0,0,,I don't know if he's the real thing, though.
+Dialogue: 0,0:11:17.95,0:11:19.16,Default,,0,0,0,,Sai, you say?
+Dialogue: 0,0:11:19.83,0:11:21.08,Default,,0,0,0,,Playing Touya Kouyou!?
+Dialogue: 0,0:11:21.76,0:11:23.33,Default,,0,0,0,,Hurry! Hurry!
+Dialogue: 0,0:11:23.92,0:11:26.31,Default,,0,0,0,,It's around noon in Japan right now.
+Dialogue: 0,0:11:26.79,0:11:29.59,Default,,0,0,0,,Touya Kouyou and... Sai...
+Dialogue: 0,0:11:30.65,0:11:31.34,Default,,0,0,0,,This is it?
+Dialogue: 0,0:12:03.73,0:12:05.04,Thinking,,0,0,0,,So this is Sai...
+Dialogue: 0,0:12:06.32,0:12:07.20,Thinking,,0,0,0,,He is...
+Dialogue: 0,0:12:09.66,0:12:11.75,Thinking,,0,0,0,,a worthy opponent!
+Dialogue: 0,0:12:20.11,0:12:21.64,Default,,0,0,0,,See, it's Sai.
+Dialogue: 0,0:12:22.04,0:12:25.56,Default,,0,0,0,,Yeah! And he's playing Toya Koyo!
+Dialogue: 0,0:12:26.29,0:12:29.10,Default,,0,0,0,,I came here because I wanted to watch them play together.
+Dialogue: 0,0:12:29.92,0:12:32.16,Default,,0,0,0,,Look at the clock, they have three hours!
+Dialogue: 0,0:12:32.66,0:12:34.11,Default,,0,0,0,,There's plenty of time.
+Dialogue: 0,0:12:34.36,0:12:36.57,Default,,0,0,0,,Wow! This is incredible.
+Dialogue: 0,0:12:37.27,0:12:38.32,Default,,0,0,0,,I'll go make some coffee.
+Dialogue: 0,0:12:38.40,0:12:40.58,Default,,0,0,0,,Yeah, make some for me, too.
+Dialogue: 0,0:12:43.09,0:12:47.20,Default,,0,0,0,,This is incredible, is it really that Sai!?
+Dialogue: 0,0:12:49.43,0:12:54.38,Default,,0,0,0,,The Sai who disappeared from the net after the match against Akira?
+Dialogue: 0,0:12:56.72,0:12:58.14,Default,,0,0,0,,Then it's an incredible match.
+Dialogue: 0,0:12:58.69,0:13:00.40,Default,,0,0,0,,sai vs toya koyo.
+Dialogue: 0,0:13:04.09,0:13:09.06,Default,,0,0,0,,The match has progressed peacefully so far. I wonder how it'll go from here.
+Dialogue: 0,0:13:15.64,0:13:17.80,Thinking,,0,0,0,,He's not just an amateur.
+Dialogue: 0,0:13:21.25,0:13:24.17,Thinking,,0,0,0,,But he doesn't remind me of any pro.
+Dialogue: 0,0:13:29.91,0:13:35.00,Thinking,,0,0,0,,I have no intention of taking back my word that I will retire if I lose, but...
+Dialogue: 0,0:13:42.53,0:13:43.44,Thinking,,0,0,0,,If I win...
+Dialogue: 0,0:13:44.17,0:13:46.49,Thinking,,0,0,0,,You have to tell me...
+Dialogue: 0,0:13:49.71,0:13:51.76,Thinking,,0,0,0,,who you are!
+Dialogue: 0,0:13:55.38,0:13:58.07,Default,,0,0,0,,What a surprise, Sai is here!
+Dialogue: 0,0:13:59.47,0:14:03.03,Default,,0,0,0,,And he's playing Toya Koyo!
+Dialogue: 0,0:14:03.96,0:14:10.37,Default,,0,0,0,,I played Toya Koyo before, he's Touya Meijin from Japan. There's no doubt about it.
+Dialogue: 0,0:14:11.76,0:14:17.42,Default,,0,0,0,,Sai is playing the Meijin evenly, too. He's definitely the Sai...
+Dialogue: 0,0:14:17.75,0:14:19.56,Default,,0,0,0,,From two years ago.
+Dialogue: 0,0:14:49.21,0:14:50.87,Thinking,,0,0,0,,He's attacking.
+Dialogue: 0,0:15:13.43,0:15:16.40,Thinking,,0,0,0,,I see what he's trying to do.
+Dialogue: 0,0:15:43.04,0:15:44.13,Thinking,,0,0,0,,Then...
+Dialogue: 0,0:15:47.47,0:15:49.09,Default,,0,0,0,,Touya made a move!
+Dialogue: 0,0:15:54.73,0:15:56.55,Default,,0,0,0,,Isn't this what White....
+Dialogue: 0,0:15:57.27,0:15:59.35,Default,,0,0,0,,what Sai wanted?
+Dialogue: 0,0:16:00.22,0:16:04.48,Default,,0,0,0,,This is the answer that the Meijin came up with after all that time?
+Dialogue: 0,0:16:26.84,0:16:30.51,Thinking,,0,0,0,,This should be exactly what you wanted. But...
+Dialogue: 0,0:16:35.70,0:16:38.43,Thinking,,0,0,0,,By cautiously attacking from the Boushi...
+Dialogue: 0,0:16:38.88,0:16:44.11,Thinking,,0,0,0,,the situation turns into one that's not bad at all for me.
+Dialogue: 0,0:16:48.56,0:16:50.91,Default,,0,0,0,,It's Touya Meijin! It's him!
+Dialogue: 0,0:16:51.52,0:16:55.91,Default,,0,0,0,,I... I had no idea things could turn out this way.
+Dialogue: 0,0:16:56.91,0:16:59.84,Default,,0,0,0,,It looked as if Sai had the advantage...
+Dialogue: 0,0:17:00.29,0:17:01.98,Default,,0,0,0,,But now that we're here...
+Dialogue: 0,0:17:02.39,0:17:05.75,Default,,0,0,0,,That first move that Sai made... it's...
+Dialogue: 0,0:17:07.12,0:17:09.82,Default,,0,0,0,,It's lost its meaning!
+Dialogue: 0,0:17:10.99,0:17:14.43,Default,,0,0,0,,Wow! You're awesome, Master Touya!
+Dialogue: 0,0:17:17.05,0:17:22.44,Default,,0,0,0,,This is my Go. The Go of the Meijin, Touya Kouyou!
+Dialogue: 0,0:17:29.76,0:17:35.13,Default,,0,0,0,,I won't hold back. I will win and make you name yourself!
+Dialogue: 0,0:17:38.94,0:17:40.57,Default,,0,0,0,,Touya Meijin was okay this time, but...
+Dialogue: 0,0:17:41.10,0:17:43.88,Default,,0,0,0,,he has a full schedule of matches
+Dialogue: 0,0:17:44.31,0:17:47.30,Default,,0,0,0,,outside the country next week.
+Dialogue: 0,0:17:47.34,0:17:49.88,Default,,0,0,0,,I wouldn't be surprised if he collapses again.
+Dialogue: 0,0:17:50.31,0:17:51.32,Default,,0,0,0,,Come on.
+Dialogue: 0,0:17:51.37,0:17:55.54,Default,,0,0,0,,That's why we young ones have to take on a title or two from him,
+Dialogue: 0,0:17:55.78,0:17:58.03,Default,,0,0,0,,to lighten the load a bit.
+Dialogue: 0,0:18:00.60,0:18:04.40,Default,,0,0,0,,Ogata-san is doing well in the Jyudan match with two wins and two losses.
 Dialogue: 0,0:18:04.85,0:18:08.29,Default,,0,0,0,,And Kurata has finally gotten the challenger spot for the next Honinbou match.
-Dialogue: 0,0:18:08.75,0:18:10.67,Default,,0,0,0,,We've got to keep moving, too.
+Dialogue: 0,0:18:08.79,0:18:10.67,Default,,0,0,0,,We've got to keep moving, too.
 Dialogue: 0,0:18:11.09,0:18:12.87,Default,,0,0,0,,Hey, how's it going?
-Dialogue: 0,0:18:13.02,0:18:14.65,Default,,0,0,0,,Why are you so late?
-Dialogue: 0,0:18:15.44,0:18:16.31,Default,,0,0,0,,Hello.
-Dialogue: 0,0:18:16.65,0:18:19.08,Default,,0,0,0,,Oh? Touya-kun, you're here, too?
-Dialogue: 0,0:18:19.09,0:18:21.28,Default,,0,0,0,,Yeah, I invited him.
-Dialogue: 0,0:18:21.70,0:18:25.23,Default,,0,0,0,,He comes up with all these great moves. We've been learning from him all day.
-Dialogue: 0,0:18:25.68,0:18:28.93,Default,,0,0,0,,How is Master Touya's health? Is he okay?
-Dialogue: 0,0:18:29.24,0:18:29.88,Default,,0,0,0,,Yes.
-Dialogue: 0,0:18:30.07,0:18:34.03,Default,,0,0,0,,Didn't you see the fourth game of the Jyudan match? He's healthier than you are.
-Dialogue: 0,0:18:34.42,0:18:35.96,Default,,0,0,0,,He'll be leaving the hospital in two days.
-Dialogue: 0,0:18:36.31,0:18:39.18,Default,,0,0,0,,I'm sure he's playing on the internet right now.
+Dialogue: 0,0:18:13.03,0:18:14.61,Default,,0,0,0,,Why are you so late?
+Dialogue: 0,0:18:15.44,0:18:16.30,Default,,0,0,0,,Hello.
+Dialogue: 0,0:18:16.66,0:18:19.05,Default,,0,0,0,,Oh? Touya-kun, you're here, too?
+Dialogue: 0,0:18:19.12,0:18:21.16,Default,,0,0,0,,Yeah, I invited him.
+Dialogue: 0,0:18:21.71,0:18:25.17,Default,,0,0,0,,He comes up with all these great moves. We've been learning from him all day.
+Dialogue: 0,0:18:25.67,0:18:28.63,Default,,0,0,0,,How is Master Touya's health? Is he okay?
+Dialogue: 0,0:18:29.23,0:18:29.88,Default,,0,0,0,,Yes.
+Dialogue: 0,0:18:30.01,0:18:33.88,Default,,0,0,0,,Didn't you see the fourth game of the Jyudan match? He's healthier than you are.
+Dialogue: 0,0:18:34.43,0:18:35.96,Default,,0,0,0,,He'll be leaving the hospital in two days.
+Dialogue: 0,0:18:36.30,0:18:39.08,Default,,0,0,0,,I'm sure he's playing on the internet right now.
 Dialogue: 0,0:18:39.29,0:18:41.37,Default,,0,0,0,,Internet? Master Touya?
-Dialogue: 0,0:18:42.03,0:18:44.14,Default,,0,0,0,,Wow, he doesn't look like the type.
+Dialogue: 0,0:18:41.94,0:18:43.89,Default,,0,0,0,,Wow, he doesn't look like the type.
 Dialogue: 0,0:18:44.56,0:18:45.93,Default,,0,0,0,,Are they playing right now?
-Dialogue: 0,0:18:46.57,0:18:48.37,Default,,0,0,0,,You have a PC. Turn it on.
+Dialogue: 0,0:18:46.58,0:18:48.40,Default,,0,0,0,,You have a PC. Turn it on.
 Dialogue: 0,0:18:48.75,0:18:51.66,Default,,0,0,0,,I don't play on the internet much, but...
-Dialogue: 0,0:18:51.74,0:18:54.31,Default,,0,0,0,,Then what do you use your PC for?
-Dialogue: 0,0:18:54.65,0:18:56.19,Default,,0,0,0,,It's useful for organizing records of games.
-Dialogue: 0,0:18:56.54,0:18:58.69,Default,,0,0,0,,Hold on...
-Dialogue: 0,0:18:59.12,0:19:00.54,Default,,0,0,0,,What's his handle?
+Dialogue: 0,0:18:51.72,0:18:54.31,Default,,0,0,0,,Then what do you use your PC for?
+Dialogue: 0,0:18:54.63,0:18:56.19,Default,,0,0,0,,It's useful for organizing records of games.
+Dialogue: 0,0:18:56.55,0:18:58.69,Default,,0,0,0,,Hold on...
+Dialogue: 0,0:18:59.11,0:19:00.41,Default,,0,0,0,,What's his handle?
 Dialogue: 0,0:19:01.12,0:19:01.99,Default,,0,0,0,,His real name.
-Dialogue: 0,0:19:02.26,0:19:03.77,Default,,0,0,0,,Touya...
-Dialogue: 0,0:19:03.94,0:19:06.87,Default,,0,0,0,,Internet Go... maybe I'll get a PC, too.
-Dialogue: 0,0:19:07.25,0:19:09.14,Default,,0,0,0,,There he is, toya koyo.
-Dialogue: 0,0:19:09.26,0:19:10.73,Default,,0,0,0,,Where? Here?
+Dialogue: 0,0:19:02.27,0:19:03.77,Default,,0,0,0,,Touya...
+Dialogue: 0,0:19:03.85,0:19:06.92,Default,,0,0,0,,Internet Go... maybe I'll get a PC, too.
+Dialogue: 0,0:19:07.27,0:19:09.14,Default,,0,0,0,,There he is, toya koyo.
+Dialogue: 0,0:19:09.28,0:19:10.92,Default,,0,0,0,,Where? Here?
 Dialogue: 0,0:19:11.43,0:19:13.55,Default,,0,0,0,,There are a lot of spectators.
 Dialogue: 0,0:19:13.74,0:19:15.74,Default,,0,0,0,,He is Touya Kouyou.
-Dialogue: 0,0:19:18.95,0:19:19.59,Default,,0,0,0,,Is this it?
-Dialogue: 0,0:19:21.15,0:19:25.03,Default,,0,0,0,,Wow, this is incredible. What's going on with white on the top side?
-Dialogue: 0,0:19:25.64,0:19:27.68,Default,,0,0,0,,The lower left looks interesting, too.
-Dialogue: 0,0:19:28.06,0:19:30.32,Default,,0,0,0,,The game is... I wonder...
+Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,TODO
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,TODO
+Dialogue: 0,0:19:18.92,0:19:19.59,Default,,0,0,0,,Is this it?
+Dialogue: 0,0:19:21.14,0:19:24.94,Default,,0,0,0,,Wow, this is incredible. What's going on with white on the top side?
+Dialogue: 0,0:19:25.60,0:19:27.68,Default,,0,0,0,,The lower left looks interesting, too.
+Dialogue: 0,0:19:28.10,0:19:30.32,Default,,0,0,0,,The game is... I wonder...
 Dialogue: 0,0:19:32.03,0:19:34.71,Default,,0,0,0,,Huh? I can't tell how the game went.
-Dialogue: 0,0:19:35.35,0:19:37.63,Default,,0,0,0,,White isn't bad.
-Dialogue: 0,0:19:38.01,0:19:40.60,Default,,0,0,0,,Master Touya is black. He's incredible.
-Dialogue: 0,0:19:40.65,0:19:42.16,Default,,0,0,0,,Yes, but white is strong.
-Dialogue: 0,0:19:42.24,0:19:46.36,Default,,0,0,0,,Yeah, it's an even game. He's playing this well in an even game.
-Dialogue: 0,0:19:46.45,0:19:48.67,Default,,0,0,0,,Wait! They have three hours on the clock!
+Dialogue: 0,0:19:35.37,0:19:37.49,Default,,0,0,0,,White isn't bad.
+Dialogue: 0,0:19:38.02,0:19:40.60,Default,,0,0,0,,Master Touya is black. He's incredible.
+Dialogue: 0,0:19:40.67,0:19:42.10,Default,,0,0,0,,Yes, but white is strong.
+Dialogue: 0,0:19:42.20,0:19:46.30,Default,,0,0,0,,Yeah, it's an even game. He's playing this well in an even game.
+Dialogue: 0,0:19:46.39,0:19:48.50,Default,,0,0,0,,Wait! They have three hours on the clock!
 Dialogue: 0,0:19:49.09,0:19:51.66,Thinking,,0,0,0,,Yes. This is not just any player.
-Dialogue: 0,0:19:51.81,0:19:53.55,Default,,0,0,0,,Exactly who is he playing?
-Dialogue: 0,0:19:53.77,0:19:54.94,Default,,0,0,0,,Let's see....
-Dialogue: 0,0:19:57.76,0:19:59.28,Default,,0,0,0,,His opponent's name is...
-Dialogue: 0,0:19:59.81,0:20:00.53,Default,,0,0,0,,Sai?
-Dialogue: 0,0:20:00.72,0:20:01.49,Default,,0,0,0,,Sai?
-Dialogue: 0,0:20:01.74,0:20:02.65,Default,,0,0,0,,Sai?
-Dialogue: 0,0:20:02.82,0:20:04.10,Default,,0,0,0,,Who is Sai?
-Dialogue: 0,0:20:04.26,0:20:05.24,Default,,0,0,0,,How am I supposed to know?
-Dialogue: 0,0:20:18.11,0:20:21.77,Default,,0,0,0,,Well you can't know, but he has to be a pro.
-Dialogue: 0,0:20:21.83,0:20:22.78,Default,,0,0,0,,Yeah.
-Dialogue: 0,0:20:25.16,0:20:25.92,Thinking,,0,0,0,,This is...
-Dialogue: 0,0:20:31.20,0:20:31.88,Thinking,,0,0,0,,This is Sai!
-Dialogue: 0,0:20:32.68,0:20:33.74,Thinking,,0,0,0,,It's Sai!
-Dialogue: 0,0:20:37.32,0:20:38.51,Default,,0,0,0,,My father is...
-Dialogue: 0,0:20:38.51,0:20:40.19,Default,,0,0,0,,playing Sai!
-Dialogue: 0,0:22:13.14,0:22:15.32,Default,,0,0,0,,Let's cover a Fuseki problem today.
+Dialogue: 0,0:19:51.83,0:19:53.55,Default,,0,0,0,,Exactly who is he playing?
+Dialogue: 0,0:19:53.76,0:19:54.94,Default,,0,0,0,,Let's see....
+Dialogue: 0,0:19:57.69,0:19:59.28,Default,,0,0,0,,His opponent's name is...
+Dialogue: 0,0:19:59.78,0:20:00.26,Default,,0,0,0,,Sai?
+Dialogue: 0,0:20:00.71,0:20:01.26,Default,,0,0,0,,Sai?
+Dialogue: 0,0:20:01.76,0:20:02.26,Default,,0,0,0,,Sai?
+Dialogue: 0,0:20:02.85,0:20:04.10,Default,,0,0,0,,Who is Sai?
+Dialogue: 0,0:20:04.28,0:20:05.24,Default,,0,0,0,,How am I supposed to know?
+Dialogue: 0,0:20:18.09,0:20:21.77,Default,,0,0,0,,Well you can't know, but he has to be a pro.
+Dialogue: 0,0:20:21.84,0:20:22.78,Default,,0,0,0,,Yeah.
+Dialogue: 0,0:20:25.12,0:20:25.92,Thinking,,0,0,0,,This is...
+Dialogue: 0,0:20:31.12,0:20:31.88,Thinking,,0,0,0,,This is Sai!
+Dialogue: 0,0:20:32.69,0:20:33.74,Thinking,,0,0,0,,It's Sai!
+Dialogue: 0,0:20:37.24,0:20:38.51,Thinking,,0,0,0,,My father is...
+Dialogue: 0,0:20:38.82,0:20:40.19,Default,,0,0,0,,playing Sai!
+Dialogue: 0,0:22:13.13,0:22:15.32,Default,,0,0,0,,Let's cover a Fuseki problem today.
 Dialogue: 0,0:22:15.16,0:22:18.51,Note,,0,0,0,,Fuseki is the opening of the game.
 Dialogue: 0,0:22:16.23,0:22:18.84,Default,,0,0,0,,White just went to 3-3 and here's the problem.
-Dialogue: 0,0:22:19.19,0:22:25.56,Default,,0,0,0,,Should black go here, or go here? Which is better?
+Dialogue: 0,0:22:19.18,0:22:25.56,Default,,0,0,0,,Should black go here, or go here? Which is better?
 Dialogue: 0,0:22:25.87,0:22:29.72,Default,,0,0,0,,Your hint is that black is trying to gain territory on this side.
 Dialogue: 0,0:22:31.97,0:22:35.78,Default,,0,0,0,,If black blocks off from this side, the game will progress like this...
 Dialogue: 0,0:22:37.25,0:22:39.72,Default,,0,0,0,,And he gets a lot of territory.
-Dialogue: 0,0:22:41.85,0:22:45.85,Default,,0,0,0,,If black blocks from the other side, it will progress like this,
+Dialogue: 0,0:22:41.78,0:22:45.85,Default,,0,0,0,,If black blocks from the other side, it will progress like this,
 Dialogue: 0,0:22:46.39,0:22:50.18,Default,,0,0,0,,and we have no idea where black can make territory.
 Dialogue: 0,0:22:52.13,0:22:56.07,Default,,0,0,0,,So, this is a situation in which you want to block from this side.
 Dialogue: 0,0:22:55.15,0:22:57.37,Note,,0,0,0,,To be continued...
-Dialogue: 0,0:22:57.99,0:23:01.37,Thinking,,0,0,0,,My father arranged to play against Sai ahead of time.
-Dialogue: 0,0:23:01.64,0:23:03.89,Thinking,,0,0,0,,My father knows who Sai is!?
+Dialogue: 0,0:22:57.99,0:23:01.53,Thinking,,0,0,0,,My father arranged to play against Sai ahead of time.
+Dialogue: 0,0:23:01.64,0:23:03.95,Thinking,,0,0,0,,My father knows who Sai is!?
 Dialogue: 0,0:23:04.06,0:23:07.31,Default,,0,0,0,,They're both neck and neck now!
 Dialogue: 0,0:23:07.63,0:23:10.32,Thinking,,0,0,0,,He can play this well against Touya Kouyou,
 Dialogue: 0,0:23:10.55,0:23:12.37,Thinking,,0,0,0,,yet we know nothing about him.
