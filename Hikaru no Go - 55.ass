@@ -17,9 +17,9 @@ Video File: //nas/media/anime/Hikaru No Go/BDrip/[Moozzi2] Hikaru no Go - 55 (BD
 Video AR Mode: 4
 Video AR Value: 1.333333
 Video Zoom Percent: 0.500000
-Scroll Position: 243
-Active Line: 280
-Video Position: 78
+Scroll Position: 261
+Active Line: 265
+Video Position: 27739
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -121,7 +121,7 @@ Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,151,0,253,,{\an7\fnArial\fs26\fscy90\b1}Time on Clock
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 151 296 l 228 296 l 228 321 l 151 321 c{\p0}
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,151,0,294,,{\an7\fnArial\fs26\fscy90\b1}Byou-Yomi
-Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 120 375 l 160 375 l 160 396 l 120 396 c m 235 375 l 275 375 l 275 396 l 235 396 c m 368 375 l 404 375 l 404 396 l 368 396 c m 473 375 l 529 375 l 529 396 l 473 396 c{\p0}
+Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 120 375 l 160 375 l 160 396 l 120 396 m 235 375 l 275 375 l 275 396 l 235 396 m 368 375 l 404 375 l 404 396 l 368 396 m 473 375 l 529 375 l 529 396 l 473 396 c{\p0}
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,120,480,375,,{\fnArial\fs26\fscy90\b0}Chat
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,235,365,375,,{\fnArial\fs26\fscy90\b0}Info
 Dialogue: 0,0:05:40.03,0:05:44.87,Computer,,375,235,375,,{\fnArial\fs26\fscy90\b0\fscx60}Request
@@ -144,12 +144,24 @@ Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}
 Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,203,0,246,,{\an7\fnArial\fs19\fscy95}Time on Clock
 Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 200 282 l 260 282 l 260 300 l 200 300 c{\p0}
 Dialogue: 0,0:05:56.34,0:05:56.84,Computer,,203,0,277,,{\an7\fnArial\fs19\fscy95}Byou-Yomi
-Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 180 340 l 210 340 l 210 356 l 180 356 c m 265 340 l 295 340 l 295 356 l 265 356 c m 362 340 l 396 340 l 396 356 l 392 356 l 390 348 l 387 356 l 362 356 c m 439 340 l 483 340 l 483 356 l 439 356 c{\p0}
+Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 180 340 l 210 340 l 210 356 l 180 356 m 265 340 l 295 340 l 295 356 l 265 356 m 362 340 l 396 340 l 396 356 l 392 356 l 390 348 l 387 356 l 362 356 m 439 340 l 483 340 l 483 356 l 439 356 c{\p0}
 Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,165,415,341,,{\fnArial\fs17\fscy90\b0}Chat
 Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,248,327,341,,{\fnArial\fs17\fscy90\b0}Info
 Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,361,240,341,,{\fnArial\fs17\fscy90\b0\fscx70}Request
 Dialogue: 0,0:05:56.34,0:05:56.92,Computer,,442,160,341,,{\fnArial\fs17\fscy90\b0\fscx75}Cancel
-Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,TODO
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 452 55 l 483 55 l  483 69 l 452 69 m 450 95 l 565 95 l 565 111 l 450 111 m 449 122 l 579 122 l 579 137 l 449 137 m 452 155 l 482 155 l 482 171 l 452 171 m 451 199 l 565 199 l 565 213 l 451 213 m 448 224 l 579 224 l 579 240 l 448 240 m 450 256 l 511 256 l 511 272 l 450 272 m 449 277 l 545 277 l 545 293 l 449 293 m 449 301 l 480 301 l 480 316 l 449 316 m 548 299 l 575 299 l 575 315 l 548 315 m 466 368 l 496 368 l 496 383 l 466 383 m 527 367 l 584 367 l 584 383 l 527 383 m 489 398 l 574 398 l 574 414 l 489 414{\p0}
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,57,,{\an7\fnArial\fs12}WHITE
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,95,,{\an7\fnArial\fs14\b0}Captured: 0 Stones
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,118,,{\an7\fnArial\fs14\b0}Rem. Time: 180 / 180
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,159,,{\an7\fnArial\fs12}BLACK
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,197,,{\an7\fnArial\fs13\b0}Captured: 0 Stones
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,220,,{\an7\fnArial\fs14\b0}Rem. Time: 180 / 180
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,259,,{\an7\fnArial\fs12}GAME INFO
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,278,,{\an7\fnArial\fs14\b0}Komi: 5.5 Moku
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,452,0,299,,{\an7\fnArial\fs14\b0}Move:
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,447,123,367,,{\fnArial\fs15\b0}Chat
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,520,50,367,,{\fnArial\fs15\b0}Chat-Win
+Dialogue: 0,0:05:56.96,0:05:58.05,Computer,,450,50,398,,{\fnArial\fs15\b0}Stop Observing
 Dialogue: 0,0:06:25.79,0:06:27.84,Thinking,,0,0,0,,I can feel it, even through the net.
 Dialogue: 0,0:06:28.72,0:06:34.00,Thinking,,0,0,0,,The same... no... an even greater tension than I felt during the new first dan series.
 Dialogue: 0,0:06:35.40,0:06:36.83,Thinking,,0,0,0,,Touya Meijin...
@@ -186,14 +198,32 @@ Dialogue: 0,0:09:19.36,0:09:21.29,Default,,0,0,0,,Besides, isn't he still in the
 Dialogue: 0,0:09:22.09,0:09:25.12,Default,,0,0,0,,Well, I guess he could play if he had a private room.
 Dialogue: 0,0:09:27.19,0:09:29.43,Default,,0,0,0,,It can't be him, though.
 Dialogue: 0,0:09:30.91,0:09:34.43,Default,,0,0,0,,He's in a match. Who is he playing?
+Comment: 0,0:09:34.43,0:09:36.47,Computer,,0,0,0,,TODO
 Dialogue: 0,0:09:37.00,0:09:37.81,Default,,0,0,0,,Sai!?
 Dialogue: 0,0:09:38.43,0:09:40.43,Default,,0,0,0,,What!? They're playing each other?
-Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,TODO
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 482 37 l 515 37 l 515 53 l 482 53 m 480 80 l 605 80 l 605 98 l 480 98 m 478 110 l 620 110 l 620 128 l 478 128 m 479 147 l 516 147 l 516 164 l 479 164 m 478 194 l 606 194 l 606 210 l 478 210 m 478 222 l 620 222 l 620 240 l 478 240 m 477 259 l 546 259 l 546 275 l 477 275 m 478 280 l 584 280 l 584 297 l 478 297 m 477 304 l 514 304 l 514 325 l 477 325 m 583 305 l 617 305 l 617 322 l 583 322 m 498 378 l 530 378 l 530 397 l 498 397 m 562 379 l 628 379 l 628 396 l 562 396 m 522 413 l 586 413 l 586 431 l 522 431{\p0}
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,40,,{\an7\fnArial\fs12}WHITE
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,82,,{\an7\fnArial\fs14\b0}Captured: 0 Stones
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,108,,{\an7\fnArial\fs14\b0}Rem. Time: 165 / 180
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,151,,{\an7\fnArial\fs12}BLACK
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,193,,{\an7\fnArial\fs14\b0}Captured: 0 Stones
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,219,,{\an7\fnArial\fs14\b0}Rem. Time: 168 / 180
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,260,,{\an7\fnArial\fs12}GAME INFO
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,281,,{\an7\fnArial\fs14\b0}Komi: 5.5 Moku
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,483,0,307,,{\an7\fnArial\fs14\b0}Move:
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,580,15,308,,{\fnArial\fs14\b0}Auto
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,477,86,380,,{\fnArial\fs15\b0}Chat
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,556,9,380,,{\fnArial\fs15\b0}Chat-Win
+Dialogue: 0,0:09:40.43,0:09:44.10,Computer,,477,9,414,,{\fnArial\fs15\b0}Stop Observing
 Dialogue: 0,0:09:41.28,0:09:42.84,Default,,0,0,0,,It just started.
 Dialogue: 0,0:09:44.86,0:09:46.96,Default,,0,0,0,,Touya Kouyou against Sai!?
 Dialogue: 0,0:09:47.18,0:09:49.61,Default,,0,0,0,,It would be an incredible match if they were the real thing.
+Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 81 8 l 196 8 l 196 64 l 81 64 m 77 174 l 295 174 l 295 227 l 77 227 m 321 191 l 332 191 l 332 201 l 321 201 m 321 212 l 332 212 l 332 224 l 321 224 m 428 177 l 545 177 l 545 227 l 428 227 m 72 282 l 296 282 l 296 334 l 72 334 m 348 277 l 583 277 l 583 333 l 348 333 m 73 405 l 306 405 l 306 461 l 73 461{\p0}
+Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,81,0,16,,{\an7\fnArial\fs38\fscy115}BLACK
+Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,81,0,170,,{\an7\fnArial\fs60\b0}Captured: 0 Stones
+Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,81,0,260,,{\an7\fnArial\fs60\b0}Rem. Time: 165 / 180
+Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,81,0,410,,{\an7\fnArial\fs38\fscy115}{\pos(81,410)}MATCH INFO
 Dialogue: 0,0:09:50.92,0:09:55.28,Default,,0,0,0,,Hmm? They have three hours!? On the net!?
-Dialogue: 0,0:09:51.28,0:09:55.28,Computer,,0,0,0,,TODO
 Dialogue: 0,0:10:00.09,0:10:03.04,Default,,0,0,0,,Could it be.... the Meijin!?
 Dialogue: 0,0:10:06.04,0:10:06.92,Default,,0,0,0,,Could it be...
 Dialogue: 0,0:10:10.98,0:10:11.80,Default,,0,0,0,,Sai!?
@@ -296,8 +326,35 @@ Dialogue: 0,0:19:07.27,0:19:09.14,Default,,0,0,0,,There he is, toya koyo.
 Dialogue: 0,0:19:09.28,0:19:10.92,Default,,0,0,0,,Where? Here?
 Dialogue: 0,0:19:11.43,0:19:13.55,Default,,0,0,0,,There are a lot of spectators.
 Dialogue: 0,0:19:13.74,0:19:15.74,Default,,0,0,0,,He is Touya Kouyou.
-Dialogue: 0,0:19:16.93,0:19:17.39,Computer,,0,0,0,,TODO
-Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,TODO
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 48 103 l 107 103 l 107 122 l 48 122 m 38 141 l 116 141 l 116 156 l 38 156 m 136 141 l 167 141 l 167 158 l 136 158 m 197 142 l 256 142 l 256 160 l 197 160 m 502 141 l 533 141 l 533 160 l 502 160 m 569 141 l 600 141 l 600 160 l 581 160 l 573 154 l 572 160 l 569 160 m 632 140 l 640 140 l 640 160 l 632 160 m 225 178 l 254 178 l 254 195 l 225 195 m 349 178 l 380 178 l 380 195 l 349 195 m 472 178 l 498 178 l 498 195 l 472 195 m 504 178 l 531 178 l 531 194 l 504 194 m 534 178 l 561 178 l 561 195 l 534 195 m 569 178 l 592 178 l 592 194 l 569 194 m 599 177 l 626 177 l 626 195 l 599 195 m 629 177 l 640 177 l 640 196 l 629 196{\p0}
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,50,0,103,,{\an7\fnArial\fs19\fscx80}Players  :
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,38,0,141,,{\an7\fnArial\fs16\b0}USER-ID
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,137,0,141,,{\an7\fnArial\fs16\b0}Nation
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,205,0,143,,{\an7\fnArial\fs19\fscx80}GAMES  :
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,501,0,143,,{\an7\fnArial\fs18\fscx60\b0}Refresh
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,566,0,143,,{\an7\fnArial\fs18\fscx50\b0}Observe
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,633,0,143,,{\an7\fnArial\fs18\fscx50\b0}Back
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,230,0,179,,{\an7\fnArial\fs16\b0}WHITE
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,355,0,179,,{\an7\fnArial\fs16\b0}BLACK
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,474,0,179,,{\an7\fnArial\fs16\fscx60\b0}MOVE
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,508,0,179,,{\an7\fnArial\fs16\fscx60\b0}SIZE
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,537,0,179,,{\an7\fnArial\fs16\fscx60\b0}HAND
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,570,0,179,,{\an7\fnArial\fs16\fscx60\b0}KOMI
+Dialogue: 0,0:19:16.93,0:19:17.34,Computer,,601,0,179,,{\an7\fnArial\fs16\fscx60\b0}TIME
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,0,0,0,,{\1c&HD8D8BD&}{\an7\pos(0,0)}{\p1}m 505 36 l 538 36 l 538 53 l 505 53 m 503 83 l 633 83 l 633 100 l 503 100 m 502 113 l 640 113 l 640 131 l 502 131 m 505 151 l 539 151 l 539 169 l 505 169 m 503 200 l 633 200 l 633 217 l 503 217 m 501 230 l 640 230 l 640 248 l 501 248 m 502 266 l 571 266 l 571 285 l 502 285 m 502 290 l 611 290 l 611 309 l 502 309 m 501 316 l 537 316 l 537 336 l 501 336 m 614 316 l 640 316 l 640 334 l 614 334 m 521 392 l 555 392 l 555 411 l 521 411 m 591 393 l 640 393 l 640 412 l 591 412 m 546 427 l 613 427 l 613 447 l 546 447{\p0}
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,39,,{\an7\fnArial\fs14}WHITE
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,84,,{\an7\fnArial\fs14\b0}Captured: 1 Stone
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,110,,{\an7\fnArial\fs14\b0}Rem. Time: 127 / 180
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,154,,{\an7\fnArial\fs14}BLACK
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,198,,{\an7\fnArial\fs14\b0}Captured: 0 Stones
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,224,,{\an7\fnArial\fs14\b0}Rem. Time: 168 / 180
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,269,,{\an7\fnArial\fs14}GAME INFO
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,1,292,,{\an7\fnArial\fs14\b0}Komi: 5.5 Moku
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,504,0,318,,{\an7\fnArial\fs14\b0}Move:
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,610,1,318,,{\fnArial\fs14\b0}Auto
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,500,60,396,,{\fnArial\fs15\b0}Chat
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,598,1,396,,{\fnArial\fs15\b0}Chat-Win
+Dialogue: 0,0:19:17.43,0:19:20.93,Computer,,505,1,430,,{\fnArial\fs15\b0}Stop Observing
 Dialogue: 0,0:19:18.92,0:19:19.59,Default,,0,0,0,,Is this it?
 Dialogue: 0,0:19:21.14,0:19:24.94,Default,,0,0,0,,Wow, this is incredible. What's going on with white on the top side?
 Dialogue: 0,0:19:25.60,0:19:27.68,Default,,0,0,0,,The lower left looks interesting, too.
